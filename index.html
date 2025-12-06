@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>Steam 日本語レビュー ランキング</title>
+<style>
+body { font-family: sans-serif; background: #f5f5f5; }
+.card {
+  background: #fff; padding: 10px; margin: 10px;
+  border-radius: 8px; display: flex; gap: 10px;
+}
+img { width: 120px; border-radius: 4px; }
+</style>
+</head>
+<body>
+<h1>Steam 日本語レビュー高評価率ランキング</h1>
+<div id="list"></div>
+
+<script>
+fetch("./data.json")
+  .then(res => res.json())
+  .then(data => {
+    const list = document.getElementById('list');
+    data.forEach(game => {
+      const el = document.createElement('div');
+      el.className = 'card';
+      el.innerHTML = `
+        <img src="${game.image_url}">
+        <div>
+          <div><b>AppID:</b> ${game.appid}</div>
+          <div><b>日本語高評価率:</b> ${game.positive_rate}%</div>
+          <a href="${game.store_url}" target="_blank">ストアページへ</a>
+        </div>
+      `;
+      list.appendChild(el);
+    });
+  });
+</script>
+
+</body>
+</html>
