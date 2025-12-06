@@ -14,7 +14,7 @@ ALL_REVIEW_URL = "https://store.steampowered.com/appreviews/{appid}?json=1&langu
 
 # 調整可能なパラメータ（Actions内では環境変数で上書き可）
 SLEEP_BETWEEN_REQUESTS = float(os.getenv("SLEEP_BETWEEN_REQUESTS", "0.2"))  # 連続リクエスト間隔（秒）
-MAX_APPS = int(os.getenv("MAX_APPS", "0"))  # 0 は無制限。開発中は 100 などに
+MAX_APPS = int(os.getenv("MAX_APPS", "200"))  # 0 は無制限。開発中は 100 などに
 SAVE_EVERY = int(os.getenv("SAVE_EVERY", "50"))  # 部分保存の頻度
 
 OUT_FILE = "data.json"
