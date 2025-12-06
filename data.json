@@ -1,1 +1,47 @@
-
+[
+  {
+    "appid": 413150,
+    "total_reviews": 1808,
+    "positive": 1707,
+    "negative": 101,
+    "positive_rate": 94.41,
+    "store_url": "https://store.steampowered.com/app/413150",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413150/capsule_231x87.jpg"
+  },
+  {
+    "appid": 440,
+    "total_reviews": 1861,
+    "positive": 1649,
+    "negative": 212,
+    "positive_rate": 88.61,
+    "store_url": "https://store.steampowered.com/app/440",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/440/capsule_231x87.jpg"
+  },
+  {
+    "appid": 730,
+    "total_reviews": 10731,
+    "positive": 8935,
+    "negative": 1796,
+    "positive_rate": 83.26,
+    "store_url": "https://store.steampowered.com/app/730",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_231x87.jpg"
+  },
+  {
+    "appid": 238960,
+    "total_reviews": 812,
+    "positive": 662,
+    "negative": 150,
+    "positive_rate": 81.53,
+    "store_url": "https://store.steampowered.com/app/238960",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/238960/capsule_231x87.jpg"
+  },
+  {
+    "appid": 570,
+    "total_reviews": 2180,
+    "positive": 1683,
+    "negative": 497,
+    "positive_rate": 77.2,
+    "store_url": "https://store.steampowered.com/app/570",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/570/capsule_231x87.jpg"
+  }
+]
