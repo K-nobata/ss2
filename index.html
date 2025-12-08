@@ -5,85 +5,140 @@
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>Steam 日本語レビュー高評価ランキング</title>
 <style>
-  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; background:#f3f4f6; color:#111827; margin:0; padding:24px; }
-  h1 { margin:0 0 12px 0; font-size:24px; }
-  .grid { display:grid; grid-template-columns: repeat(auto-fill,minmax(360px,1fr)); gap:12px; }
-  .card { background:#fff; border-radius:12px; padding:12px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); display:flex; gap:12px; align-items:center; }
-  .thumb { width:200px; height:90px; object-fit:cover; border-radius:6px; flex-shrink:0; background:#eee; }
-  .meta { flex:1; }
-  .meta h2 { margin:0 0 6px 0; font-size:16px; }
-  .small { font-size:13px; color:#6b7280; }
-  .rate { font-weight:700; font-size:18px; }
-  .links a { margin-right:8px; color:#2563eb; text-decoration:none; }
-  .controls { margin:12px 0 20px; display:flex; gap:8px; align-items:center; }
-  .search { padding:8px 10px; border-radius:8px; border:1px solid #e5e7eb; width:260px; }
+  body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    background:#f3f4f6;
+    color:#111827;
+    margin:0;
+    padding:24px;
+  }
+  h1 {
+    margin:0 0 20px 0;
+    font-size:24px;
+  }
+  .list {
+    display:flex;
+    flex-direction:column;
+    gap:16px;
+    max-width:780px;
+    margin:auto;
+  }
+  .card {
+    display:flex;
+    gap:14px;
+    background:#fff;
+    border-radius:12px;
+    padding:14px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    align-items:center;
+    text-decoration:none;
+    color:inherit;
+    transition: transform 0.1s, box-shadow 0.1s;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+  .thumb {
+    width:240px;
+    height:108px;
+    object-fit:cover;
+    border-radius:6px;
+    background:#e5e7eb;
+    flex-shrink:0;
+  }
+  .meta {
+    flex:1;
+  }
+  .meta h2 {
+    font-size:18px;
+    margin:0 0 6px;
+    font-weight:600;
+  }
+  .rate {
+    font-size:20px;
+    font-weight:700;
+    margin-right:10px;
+  }
+  .small {
+    font-size:14px;
+    color:#6b7280;
+  }
+  .controls {
+    margin-bottom:20px;
+    display:flex;
+    justify-content:center;
+  }
+  .search {
+    padding:10px 14px;
+    width:280px;
+    border-radius:8px;
+    border:1px solid #d1d5db;
+  }
 </style>
 </head>
 <body>
-  <h1>Steam — 日本語レビュー高評価ランキング (日本語レビュー数 ≥ 200)</h1>
+  <h1>Steam 日本語レビュー高評価ランキング</h1>
 
   <div class="controls">
-    <input id="search" class="search" placeholder="ゲーム名で絞り込み..." />
-    <div class="small">ソート: 日本語高評価率（降順）</div>
+    <input id="search" class="search" placeholder="ゲーム名で検索..." />
   </div>
 
-  <div id="grid" class="grid"></div>
+  <div id="list" class="list"></div>
 
 <script>
 async function load() {
   const res = await fetch("./data.json");
   const data = await res.json();
 
-  // store original
   window.__data = data;
-
   render(data);
 }
 
 function render(items) {
-  const grid = document.getElementById('grid');
-  grid.innerHTML = "";
+  const list = document.getElementById('list');
+  list.innerHTML = "";
   items.forEach(item => {
-    const div = document.createElement('div');
-    div.className = 'card';
-    div.innerHTML = `
+    const a = document.createElement('a');
+    a.className = 'card';
+    a.href = item.store_url;
+    a.target = "_blank";
+    a.rel = "noopener";
+    a.innerHTML = `
       <img class="thumb" src="${item.image_url}" alt="${escapeHtml(item.name)}" onerror="this.style.display='none'">
       <div class="meta">
-        <h2>${escapeHtml(item.name || ('App ' + item.appid))}</h2>
-        <div class="small">AppID: ${item.appid} • 日本語レビュー数: ${item.total_reviews_jp}</div>
-        <div style="margin-top:8px">
+        <h2>${escapeHtml(item.name || 'No Name')}</h2>
+        <div>
           <span class="rate">${item.positive_rate_jp}%</span>
-          <span class="small" style="margin-left:8px">（日本語高評価率）</span>
+          <span class="small">日本語高評価率</span>
         </div>
-        <div style="margin-top:6px" class="small">
-          全言語: ${item.positive_rate_all !== null ? item.positive_rate_all + '%' : '—'} 
-          ${item.total_reviews_all !== null ? '('+item.total_reviews_all+' reviews)' : ''}
-        </div>
-        <div class="links" style="margin-top:8px">
-          <a href="${item.store_url}" target="_blank" rel="noopener">ストアページ</a>
+        <div class="small" style="margin-top:6px">
+          全言語: ${item.positive_rate_all !== null ? item.positive_rate_all + '%' : '—'}
+          ${item.total_reviews_all !== null ? '('+item.total_reviews_all+'件)' : ''}
         </div>
       </div>
     `;
-    grid.appendChild(div);
+    list.appendChild(a);
   });
 }
 
-function escapeHtml(s) {
-  if(!s) return '';
-  return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function escapeHtml(str) {
+  return str.replace(/[&<>"']/g, match => ({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+  })[match]);
 }
 
-// search
 document.getElementById('search').addEventListener('input', (e)=> {
   const q = e.target.value.trim().toLowerCase();
-  const filtered = window.__data.filter(it => (it.name || '').toLowerCase().includes(q) || String(it.appid) === q);
+  const filtered = window.__data.filter(it =>
+    (it.name || '').toLowerCase().includes(q)
+  );
   render(filtered);
 });
 
-load().catch(err => {
-  console.error(err);
-  document.getElementById('grid').innerHTML = '<div class="small">データの読み込みに失敗しました。コンソールを確認してください。</div>';
-});
+load().catch(err => console.error(err));
 </script>
+
 </body>
 </html>
+
