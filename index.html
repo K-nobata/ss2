@@ -129,6 +129,13 @@
 </div>
 
 <script>
+  function extractYear(dateStr) {
+  if (!dateStr) return "-";
+  // 例: "2025年5月15日" → 2025
+  const match = dateStr.match(/^(\d{4})/);
+  return match ? match[1] : "-";
+}
+
 async function loadGames() {
   const res = await fetch("data.json");
   const games = await res.json();
@@ -144,7 +151,7 @@ async function loadGames() {
       <td>
         <a href="${g.store_url}" target="_blank" class="game-cell">
           <img src="${g.image_url}" class="game-img" />
-          <span>${g.name}</span>
+          <span>${g.name} (${extractYear(g.release_date)})</span>
         </a>
       </td>
       <td>${g.positive_rate_jp}%</td>
