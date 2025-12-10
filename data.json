@@ -4,7 +4,7 @@
     "name": "NEKOPARA Vol. 0",
     "total_reviews_jp": 201,
     "positive_rate_jp": 99.5,
-    "total_reviews_all": 17589,
+    "total_reviews_all": 17590,
     "positive_rate_all": 93.74,
     "store_url": "https://store.steampowered.com/app/385800",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/385800/capsule_231x87.jpg"
@@ -24,7 +24,7 @@
     "name": "Killing Floor",
     "total_reviews_jp": 526,
     "positive_rate_jp": 97.34,
-    "total_reviews_all": 68017,
+    "total_reviews_all": 68020,
     "positive_rate_all": 95.19,
     "store_url": "https://store.steampowered.com/app/1250",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1250/capsule_231x87.jpg"
@@ -34,7 +34,7 @@
     "name": "NEKOPARA Vol. 1",
     "total_reviews_jp": 332,
     "positive_rate_jp": 97.29,
-    "total_reviews_all": 27072,
+    "total_reviews_all": 27074,
     "positive_rate_all": 95.13,
     "store_url": "https://store.steampowered.com/app/333600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/333600/capsule_231x87.jpg"
@@ -42,9 +42,9 @@
   {
     "appid": 427520,
     "name": "Factorio",
-    "total_reviews_jp": 1547,
-    "positive_rate_jp": 97.22,
-    "total_reviews_all": 221294,
+    "total_reviews_jp": 1548,
+    "positive_rate_jp": 97.16,
+    "total_reviews_all": 221351,
     "positive_rate_all": 97.45,
     "store_url": "https://store.steampowered.com/app/427520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/427520/capsule_231x87.jpg"
@@ -54,7 +54,7 @@
     "name": "American Truck Simulator",
     "total_reviews_jp": 377,
     "positive_rate_jp": 96.82,
-    "total_reviews_all": 182303,
+    "total_reviews_all": 182358,
     "positive_rate_all": 96.97,
     "store_url": "https://store.steampowered.com/app/270880",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/270880/capsule_231x87.jpg"
@@ -64,7 +64,7 @@
     "name": "Portal 2",
     "total_reviews_jp": 1156,
     "positive_rate_jp": 96.45,
-    "total_reviews_all": 447152,
+    "total_reviews_all": 447211,
     "positive_rate_all": 98.7,
     "store_url": "https://store.steampowered.com/app/620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/620/capsule_231x87.jpg"
@@ -74,8 +74,8 @@
     "name": "Refunct",
     "total_reviews_jp": 219,
     "positive_rate_jp": 96.35,
-    "total_reviews_all": 17350,
-    "positive_rate_all": 95.86,
+    "total_reviews_all": 17351,
+    "positive_rate_all": 95.85,
     "store_url": "https://store.steampowered.com/app/406150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/406150/capsule_231x87.jpg"
   },
@@ -92,9 +92,9 @@
   {
     "appid": 4000,
     "name": "Garry's Mod",
-    "total_reviews_jp": 1650,
+    "total_reviews_jp": 1649,
     "positive_rate_jp": 96.06,
-    "total_reviews_all": 1198245,
+    "total_reviews_all": 1198430,
     "positive_rate_all": 96.83,
     "store_url": "https://store.steampowered.com/app/4000",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/4000/capsule_231x87.jpg"
@@ -104,7 +104,7 @@
     "name": "Papers, Please",
     "total_reviews_jp": 607,
     "positive_rate_jp": 96.05,
-    "total_reviews_all": 76972,
+    "total_reviews_all": 76988,
     "positive_rate_all": 97.29,
     "store_url": "https://store.steampowered.com/app/239030",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/239030/capsule_231x87.jpg"
@@ -114,7 +114,7 @@
     "name": "Super Hexagon",
     "total_reviews_jp": 373,
     "positive_rate_jp": 95.98,
-    "total_reviews_all": 24843,
+    "total_reviews_all": 24844,
     "positive_rate_all": 96.86,
     "store_url": "https://store.steampowered.com/app/221640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/221640/capsule_231x87.jpg"
@@ -154,7 +154,7 @@
     "name": "Kerbal Space Program",
     "total_reviews_jp": 561,
     "positive_rate_jp": 95.19,
-    "total_reviews_all": 130937,
+    "total_reviews_all": 130954,
     "positive_rate_all": 95.21,
     "store_url": "https://store.steampowered.com/app/220200",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/220200/capsule_231x87.jpg"
@@ -164,7 +164,7 @@
     "name": "Portal",
     "total_reviews_jp": 928,
     "positive_rate_jp": 95.15,
-    "total_reviews_all": 186471,
+    "total_reviews_all": 186499,
     "positive_rate_all": 98.5,
     "store_url": "https://store.steampowered.com/app/400",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/400/capsule_231x87.jpg"
@@ -174,7 +174,7 @@
     "name": "Euro Truck Simulator 2",
     "total_reviews_jp": 2019,
     "positive_rate_jp": 95.15,
-    "total_reviews_all": 877082,
+    "total_reviews_all": 877365,
     "positive_rate_all": 97.5,
     "store_url": "https://store.steampowered.com/app/227300",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/227300/capsule_231x87.jpg"
@@ -194,7 +194,7 @@
     "name": "Counter-Strike: Source",
     "total_reviews_jp": 243,
     "positive_rate_jp": 95.06,
-    "total_reviews_all": 187048,
+    "total_reviews_all": 187057,
     "positive_rate_all": 96.28,
     "store_url": "https://store.steampowered.com/app/240",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/240/capsule_231x87.jpg"
@@ -204,7 +204,7 @@
     "name": "Celeste",
     "total_reviews_jp": 502,
     "positive_rate_jp": 94.82,
-    "total_reviews_all": 132067,
+    "total_reviews_all": 132122,
     "positive_rate_all": 97.43,
     "store_url": "https://store.steampowered.com/app/504230",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/504230/capsule_231x87.jpg"
@@ -214,7 +214,7 @@
     "name": "Downwell",
     "total_reviews_jp": 237,
     "positive_rate_jp": 94.51,
-    "total_reviews_all": 8396,
+    "total_reviews_all": 8395,
     "positive_rate_all": 96.58,
     "store_url": "https://store.steampowered.com/app/360740",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/360740/capsule_231x87.jpg"
@@ -224,27 +224,17 @@
     "name": "Ultimate Chicken Horse",
     "total_reviews_jp": 306,
     "positive_rate_jp": 94.44,
-    "total_reviews_all": 50515,
+    "total_reviews_all": 50529,
     "positive_rate_all": 95.81,
     "store_url": "https://store.steampowered.com/app/386940",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/386940/capsule_231x87.jpg"
-  },
-  {
-    "appid": 413150,
-    "name": "Stardew Valley",
-    "total_reviews_jp": 1811,
-    "positive_rate_jp": 94.42,
-    "total_reviews_all": 952600,
-    "positive_rate_all": 98.46,
-    "store_url": "https://store.steampowered.com/app/413150",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413150/capsule_231x87.jpg"
   },
   {
     "appid": 250900,
     "name": "The Binding of Isaac: Rebirth",
     "total_reviews_jp": 268,
     "positive_rate_jp": 94.4,
-    "total_reviews_all": 369666,
+    "total_reviews_all": 369751,
     "positive_rate_all": 97.27,
     "store_url": "https://store.steampowered.com/app/250900",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/250900/capsule_231x87.jpg"
@@ -254,7 +244,7 @@
     "name": "Left 4 Dead 2",
     "total_reviews_jp": 2549,
     "positive_rate_jp": 94.39,
-    "total_reviews_all": 1002101,
+    "total_reviews_all": 1002241,
     "positive_rate_all": 97.53,
     "store_url": "https://store.steampowered.com/app/550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/550/capsule_231x87.jpg"
@@ -264,17 +254,27 @@
     "name": "Dishonored",
     "total_reviews_jp": 231,
     "positive_rate_jp": 94.37,
-    "total_reviews_all": 84197,
+    "total_reviews_all": 84210,
     "positive_rate_all": 97.6,
     "store_url": "https://store.steampowered.com/app/205100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/205100/capsule_231x87.jpg"
   },
   {
+    "appid": 413150,
+    "name": "Stardew Valley",
+    "total_reviews_jp": 1812,
+    "positive_rate_jp": 94.37,
+    "total_reviews_all": 952833,
+    "positive_rate_all": 98.46,
+    "store_url": "https://store.steampowered.com/app/413150",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413150/capsule_231x87.jpg"
+  },
+  {
     "appid": 420530,
     "name": "OneShot",
-    "total_reviews_jp": 1118,
+    "total_reviews_jp": 1119,
     "positive_rate_jp": 94.28,
-    "total_reviews_all": 58668,
+    "total_reviews_all": 58696,
     "positive_rate_all": 98.33,
     "store_url": "https://store.steampowered.com/app/420530",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/420530/capsule_231x87.jpg"
@@ -282,39 +282,39 @@
   {
     "appid": 105600,
     "name": "Terraria",
-    "total_reviews_jp": 4240,
+    "total_reviews_jp": 4242,
     "positive_rate_jp": 94.27,
-    "total_reviews_all": 1456794,
+    "total_reviews_all": 1457001,
     "positive_rate_all": 97.44,
     "store_url": "https://store.steampowered.com/app/105600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/105600/capsule_231x87.jpg"
-  },
-  {
-    "appid": 433340,
-    "name": "Slime Rancher",
-    "total_reviews_jp": 331,
-    "positive_rate_jp": 94.26,
-    "total_reviews_all": 146759,
-    "positive_rate_all": 97.98,
-    "store_url": "https://store.steampowered.com/app/433340",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/433340/capsule_231x87.jpg"
   },
   {
     "appid": 319630,
     "name": "Life is Strange - Episode 1",
     "total_reviews_jp": 626,
     "positive_rate_jp": 94.25,
-    "total_reviews_all": 170962,
+    "total_reviews_all": 170972,
     "positive_rate_all": 96.21,
     "store_url": "https://store.steampowered.com/app/319630",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/319630/capsule_231x87.jpg"
+  },
+  {
+    "appid": 433340,
+    "name": "Slime Rancher",
+    "total_reviews_jp": 330,
+    "positive_rate_jp": 94.24,
+    "total_reviews_all": 146777,
+    "positive_rate_all": 97.98,
+    "store_url": "https://store.steampowered.com/app/433340",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/433340/capsule_231x87.jpg"
   },
   {
     "appid": 55230,
     "name": "Saints Row: The Third",
     "total_reviews_jp": 240,
     "positive_rate_jp": 94.17,
-    "total_reviews_all": 69030,
+    "total_reviews_all": 69029,
     "positive_rate_all": 95.66,
     "store_url": "https://store.steampowered.com/app/55230",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/55230/capsule_231x87.jpg"
@@ -324,7 +324,7 @@
     "name": "Besiege",
     "total_reviews_jp": 358,
     "positive_rate_jp": 94.13,
-    "total_reviews_all": 51494,
+    "total_reviews_all": 51498,
     "positive_rate_all": 95.27,
     "store_url": "https://store.steampowered.com/app/346010",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/346010/capsule_231x87.jpg"
@@ -334,7 +334,7 @@
     "name": "RimWorld",
     "total_reviews_jp": 1718,
     "positive_rate_jp": 94.12,
-    "total_reviews_all": 228844,
+    "total_reviews_all": 228887,
     "positive_rate_all": 97.91,
     "store_url": "https://store.steampowered.com/app/294100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/294100/capsule_231x87.jpg"
@@ -344,37 +344,37 @@
     "name": "Goat Simulator",
     "total_reviews_jp": 608,
     "positive_rate_jp": 94.08,
-    "total_reviews_all": 69184,
-    "positive_rate_all": 90.85,
+    "total_reviews_all": 69186,
+    "positive_rate_all": 90.86,
     "store_url": "https://store.steampowered.com/app/265930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/265930/capsule_231x87.jpg"
-  },
-  {
-    "appid": 223470,
-    "name": "POSTAL 2",
-    "total_reviews_jp": 253,
-    "positive_rate_jp": 93.68,
-    "total_reviews_all": 125182,
-    "positive_rate_all": 96.95,
-    "store_url": "https://store.steampowered.com/app/223470",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/223470/capsule_231x87.jpg"
   },
   {
     "appid": 268910,
     "name": "Cuphead",
     "total_reviews_jp": 411,
     "positive_rate_jp": 93.67,
-    "total_reviews_all": 198643,
+    "total_reviews_all": 198677,
     "positive_rate_all": 96.26,
     "store_url": "https://store.steampowered.com/app/268910",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/268910/capsule_231x87.jpg"
+  },
+  {
+    "appid": 223470,
+    "name": "POSTAL 2",
+    "total_reviews_jp": 252,
+    "positive_rate_jp": 93.65,
+    "total_reviews_all": 125213,
+    "positive_rate_all": 96.95,
+    "store_url": "https://store.steampowered.com/app/223470",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/223470/capsule_231x87.jpg"
   },
   {
     "appid": 242920,
     "name": "Banished",
     "total_reviews_jp": 535,
     "positive_rate_jp": 93.64,
-    "total_reviews_all": 42683,
+    "total_reviews_all": 42687,
     "positive_rate_all": 90.4,
     "store_url": "https://store.steampowered.com/app/242920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/242920/capsule_231x87.jpg"
@@ -384,7 +384,7 @@
     "name": "Sid Meier's Civilization® V",
     "total_reviews_jp": 811,
     "positive_rate_jp": 93.59,
-    "total_reviews_all": 207165,
+    "total_reviews_all": 207173,
     "positive_rate_all": 95.57,
     "store_url": "https://store.steampowered.com/app/8930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/8930/capsule_231x87.jpg"
@@ -394,7 +394,7 @@
     "name": "INSIDE",
     "total_reviews_jp": 296,
     "positive_rate_jp": 93.58,
-    "total_reviews_all": 71648,
+    "total_reviews_all": 71658,
     "positive_rate_all": 96.98,
     "store_url": "https://store.steampowered.com/app/304430",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304430/capsule_231x87.jpg"
@@ -404,7 +404,7 @@
     "name": "Katana ZERO",
     "total_reviews_jp": 218,
     "positive_rate_jp": 93.58,
-    "total_reviews_all": 73376,
+    "total_reviews_all": 73380,
     "positive_rate_all": 98.01,
     "store_url": "https://store.steampowered.com/app/460950",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/460950/capsule_231x87.jpg"
@@ -414,7 +414,7 @@
     "name": "Mountain",
     "total_reviews_jp": 566,
     "positive_rate_jp": 93.46,
-    "total_reviews_all": 16273,
+    "total_reviews_all": 16274,
     "positive_rate_all": 88.17,
     "store_url": "https://store.steampowered.com/app/313340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/313340/capsule_231x87.jpg"
@@ -424,7 +424,7 @@
     "name": "Hotline Miami",
     "total_reviews_jp": 401,
     "positive_rate_jp": 93.02,
-    "total_reviews_all": 117378,
+    "total_reviews_all": 117413,
     "positive_rate_all": 97.04,
     "store_url": "https://store.steampowered.com/app/219150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219150/capsule_231x87.jpg"
@@ -434,8 +434,8 @@
     "name": "Kenshi",
     "total_reviews_jp": 1499,
     "positive_rate_jp": 93.0,
-    "total_reviews_all": 106036,
-    "positive_rate_all": 95.54,
+    "total_reviews_all": 106079,
+    "positive_rate_all": 95.55,
     "store_url": "https://store.steampowered.com/app/233860",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/233860/capsule_231x87.jpg"
   },
@@ -444,8 +444,8 @@
     "name": "Skullgirls 2nd Encore",
     "total_reviews_jp": 243,
     "positive_rate_jp": 93.0,
-    "total_reviews_all": 31729,
-    "positive_rate_all": 87.91,
+    "total_reviews_all": 31734,
+    "positive_rate_all": 87.92,
     "store_url": "https://store.steampowered.com/app/245170",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/245170/capsule_231x87.jpg"
   },
@@ -454,8 +454,8 @@
     "name": "STEINS;GATE",
     "total_reviews_jp": 380,
     "positive_rate_jp": 92.89,
-    "total_reviews_all": 24179,
-    "positive_rate_all": 97.15,
+    "total_reviews_all": 24188,
+    "positive_rate_all": 97.16,
     "store_url": "https://store.steampowered.com/app/412830",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/412830/capsule_231x87.jpg"
   },
@@ -464,7 +464,7 @@
     "name": "Don't Starve",
     "total_reviews_jp": 264,
     "positive_rate_jp": 92.8,
-    "total_reviews_all": 111457,
+    "total_reviews_all": 111466,
     "positive_rate_all": 96.59,
     "store_url": "https://store.steampowered.com/app/219740",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219740/capsule_231x87.jpg"
@@ -474,7 +474,7 @@
     "name": "BeamNG.drive",
     "total_reviews_jp": 486,
     "positive_rate_jp": 92.8,
-    "total_reviews_all": 358363,
+    "total_reviews_all": 358494,
     "positive_rate_all": 97.41,
     "store_url": "https://store.steampowered.com/app/284160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/284160/capsule_231x87.jpg"
@@ -484,7 +484,7 @@
     "name": "SOMA",
     "total_reviews_jp": 222,
     "positive_rate_jp": 92.79,
-    "total_reviews_all": 47747,
+    "total_reviews_all": 47755,
     "positive_rate_all": 95.94,
     "store_url": "https://store.steampowered.com/app/282140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282140/capsule_231x87.jpg"
@@ -494,7 +494,7 @@
     "name": "Castle Crashers®",
     "total_reviews_jp": 221,
     "positive_rate_jp": 92.76,
-    "total_reviews_all": 133019,
+    "total_reviews_all": 133027,
     "positive_rate_all": 96.2,
     "store_url": "https://store.steampowered.com/app/204360",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/204360/capsule_231x87.jpg"
@@ -504,7 +504,7 @@
     "name": "Viscera Cleanup Detail",
     "total_reviews_jp": 221,
     "positive_rate_jp": 92.76,
-    "total_reviews_all": 23043,
+    "total_reviews_all": 23052,
     "positive_rate_all": 92.32,
     "store_url": "https://store.steampowered.com/app/246900",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/246900/capsule_231x87.jpg"
@@ -514,7 +514,7 @@
     "name": "Danganronpa 2: Goodbye Despair",
     "total_reviews_jp": 330,
     "positive_rate_jp": 92.73,
-    "total_reviews_all": 27835,
+    "total_reviews_all": 27861,
     "positive_rate_all": 96.16,
     "store_url": "https://store.steampowered.com/app/413420",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413420/capsule_231x87.jpg"
@@ -524,7 +524,7 @@
     "name": "Subnautica",
     "total_reviews_jp": 987,
     "positive_rate_jp": 92.71,
-    "total_reviews_all": 331000,
+    "total_reviews_all": 331055,
     "positive_rate_all": 96.99,
     "store_url": "https://store.steampowered.com/app/264710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/264710/capsule_231x87.jpg"
@@ -534,7 +534,7 @@
     "name": "Counter-Strike",
     "total_reviews_jp": 207,
     "positive_rate_jp": 92.27,
-    "total_reviews_all": 255351,
+    "total_reviews_all": 255374,
     "positive_rate_all": 97.42,
     "store_url": "https://store.steampowered.com/app/10",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/10/capsule_231x87.jpg"
@@ -544,7 +544,7 @@
     "name": "Crypt of the NecroDancer",
     "total_reviews_jp": 489,
     "positive_rate_jp": 92.23,
-    "total_reviews_all": 26027,
+    "total_reviews_all": 26029,
     "positive_rate_all": 95.52,
     "store_url": "https://store.steampowered.com/app/247080",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/247080/capsule_231x87.jpg"
@@ -554,7 +554,7 @@
     "name": "ABZU",
     "total_reviews_jp": 283,
     "positive_rate_jp": 92.23,
-    "total_reviews_all": 26772,
+    "total_reviews_all": 26775,
     "positive_rate_all": 92.92,
     "store_url": "https://store.steampowered.com/app/384190",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/384190/capsule_231x87.jpg"
@@ -564,7 +564,7 @@
     "name": "Hacknet",
     "total_reviews_jp": 294,
     "positive_rate_jp": 92.18,
-    "total_reviews_all": 25610,
+    "total_reviews_all": 25608,
     "positive_rate_all": 93.56,
     "store_url": "https://store.steampowered.com/app/365450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/365450/capsule_231x87.jpg"
@@ -574,7 +574,7 @@
     "name": "Oxygen Not Included",
     "total_reviews_jp": 625,
     "positive_rate_jp": 92.16,
-    "total_reviews_all": 135635,
+    "total_reviews_all": 135670,
     "positive_rate_all": 96.79,
     "store_url": "https://store.steampowered.com/app/457140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/457140/capsule_231x87.jpg"
@@ -584,7 +584,7 @@
     "name": "Cities: Skylines",
     "total_reviews_jp": 1590,
     "positive_rate_jp": 92.01,
-    "total_reviews_all": 281670,
+    "total_reviews_all": 281684,
     "positive_rate_all": 92.97,
     "store_url": "https://store.steampowered.com/app/255710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/255710/capsule_231x87.jpg"
@@ -594,7 +594,7 @@
     "name": "Rabi-Ribi",
     "total_reviews_jp": 435,
     "positive_rate_jp": 91.95,
-    "total_reviews_all": 12036,
+    "total_reviews_all": 12037,
     "positive_rate_all": 95.6,
     "store_url": "https://store.steampowered.com/app/400910",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/400910/capsule_231x87.jpg"
@@ -604,7 +604,7 @@
     "name": "Mount & Blade: Warband",
     "total_reviews_jp": 418,
     "positive_rate_jp": 91.87,
-    "total_reviews_all": 168822,
+    "total_reviews_all": 168841,
     "positive_rate_all": 97.72,
     "store_url": "https://store.steampowered.com/app/48700",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/48700/capsule_231x87.jpg"
@@ -614,8 +614,8 @@
     "name": "Insurgency",
     "total_reviews_jp": 276,
     "positive_rate_jp": 91.67,
-    "total_reviews_all": 124747,
-    "positive_rate_all": 91.64,
+    "total_reviews_all": 124741,
+    "positive_rate_all": 91.63,
     "store_url": "https://store.steampowered.com/app/222880",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/222880/capsule_231x87.jpg"
   },
@@ -624,7 +624,7 @@
     "name": "Human Fall Flat",
     "total_reviews_jp": 774,
     "positive_rate_jp": 91.47,
-    "total_reviews_all": 219973,
+    "total_reviews_all": 219976,
     "positive_rate_all": 94.66,
     "store_url": "https://store.steampowered.com/app/477160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/477160/capsule_231x87.jpg"
@@ -634,7 +634,7 @@
     "name": "Clicker Heroes",
     "total_reviews_jp": 304,
     "positive_rate_jp": 91.45,
-    "total_reviews_all": 61693,
+    "total_reviews_all": 61692,
     "positive_rate_all": 89.65,
     "store_url": "https://store.steampowered.com/app/363970",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/363970/capsule_231x87.jpg"
@@ -644,7 +644,7 @@
     "name": "Don't Starve Together",
     "total_reviews_jp": 581,
     "positive_rate_jp": 91.39,
-    "total_reviews_all": 521039,
+    "total_reviews_all": 521099,
     "positive_rate_all": 95.14,
     "store_url": "https://store.steampowered.com/app/322330",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/322330/capsule_231x87.jpg"
@@ -654,38 +654,38 @@
     "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
     "total_reviews_jp": 579,
     "positive_rate_jp": 91.19,
-    "total_reviews_all": 37399,
-    "positive_rate_all": 97.4,
+    "total_reviews_all": 37405,
+    "positive_rate_all": 97.39,
     "store_url": "https://store.steampowered.com/app/447530",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/447530/capsule_231x87.jpg"
-  },
-  {
-    "appid": 22380,
-    "name": "Fallout: New Vegas",
-    "total_reviews_jp": 385,
-    "positive_rate_jp": 91.17,
-    "total_reviews_all": 236010,
-    "positive_rate_all": 95.97,
-    "store_url": "https://store.steampowered.com/app/22380",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/22380/capsule_231x87.jpg"
   },
   {
     "appid": 221380,
     "name": "Age of Empires II (Retired)",
     "total_reviews_jp": 249,
     "positive_rate_jp": 91.16,
-    "total_reviews_all": 101997,
+    "total_reviews_all": 101996,
     "positive_rate_all": 95.81,
     "store_url": "https://store.steampowered.com/app/221380",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/221380/capsule_231x87.jpg"
+  },
+  {
+    "appid": 22380,
+    "name": "Fallout: New Vegas",
+    "total_reviews_jp": 384,
+    "positive_rate_jp": 91.15,
+    "total_reviews_all": 236061,
+    "positive_rate_all": 95.97,
+    "store_url": "https://store.steampowered.com/app/22380",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/22380/capsule_231x87.jpg"
   },
   {
     "appid": 394360,
     "name": "Hearts of Iron IV",
     "total_reviews_jp": 2070,
     "positive_rate_jp": 91.06,
-    "total_reviews_all": 350196,
-    "positive_rate_all": 90.54,
+    "total_reviews_all": 350280,
+    "positive_rate_all": 90.53,
     "store_url": "https://store.steampowered.com/app/394360",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/394360/capsule_231x87.jpg"
   },
@@ -694,7 +694,7 @@
     "name": "Pony Island",
     "total_reviews_jp": 219,
     "positive_rate_jp": 90.87,
-    "total_reviews_all": 17646,
+    "total_reviews_all": 17649,
     "positive_rate_all": 95.09,
     "store_url": "https://store.steampowered.com/app/405640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/405640/capsule_231x87.jpg"
@@ -712,9 +712,9 @@
   {
     "appid": 391540,
     "name": "Undertale",
-    "total_reviews_jp": 2465,
-    "positive_rate_jp": 90.71,
-    "total_reviews_all": 306579,
+    "total_reviews_jp": 2468,
+    "positive_rate_jp": 90.72,
+    "total_reviews_all": 306661,
     "positive_rate_all": 96.77,
     "store_url": "https://store.steampowered.com/app/391540",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/391540/capsule_231x87.jpg"
@@ -734,7 +734,7 @@
     "name": "Half-Life 2",
     "total_reviews_jp": 351,
     "positive_rate_jp": 90.31,
-    "total_reviews_all": 259808,
+    "total_reviews_all": 259885,
     "positive_rate_all": 97.61,
     "store_url": "https://store.steampowered.com/app/220",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/220/capsule_231x87.jpg"
@@ -754,7 +754,7 @@
     "name": "Abiotic Factor",
     "total_reviews_jp": 283,
     "positive_rate_jp": 89.75,
-    "total_reviews_all": 48904,
+    "total_reviews_all": 48929,
     "positive_rate_all": 96.01,
     "store_url": "https://store.steampowered.com/app/427410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/427410/capsule_231x87.jpg"
@@ -764,7 +764,7 @@
     "name": "Her Story",
     "total_reviews_jp": 295,
     "positive_rate_jp": 89.49,
-    "total_reviews_all": 9998,
+    "total_reviews_all": 10000,
     "positive_rate_all": 89.5,
     "store_url": "https://store.steampowered.com/app/368370",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/368370/capsule_231x87.jpg"
@@ -774,7 +774,7 @@
     "name": "FTL: Faster Than Light",
     "total_reviews_jp": 665,
     "positive_rate_jp": 89.47,
-    "total_reviews_all": 76663,
+    "total_reviews_all": 76671,
     "positive_rate_all": 95.2,
     "store_url": "https://store.steampowered.com/app/212680",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/212680/capsule_231x87.jpg"
@@ -784,7 +784,7 @@
     "name": "Outlast",
     "total_reviews_jp": 504,
     "positive_rate_jp": 89.29,
-    "total_reviews_all": 130013,
+    "total_reviews_all": 130039,
     "positive_rate_all": 96.44,
     "store_url": "https://store.steampowered.com/app/238320",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/238320/capsule_231x87.jpg"
@@ -794,8 +794,8 @@
     "name": "Ultimate Fishing® Simulator",
     "total_reviews_jp": 308,
     "positive_rate_jp": 89.29,
-    "total_reviews_all": 8488,
-    "positive_rate_all": 89.46,
+    "total_reviews_all": 8494,
+    "positive_rate_all": 89.45,
     "store_url": "https://store.steampowered.com/app/468920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/468920/capsule_231x87.jpg"
   },
@@ -804,7 +804,7 @@
     "name": "Grim Dawn",
     "total_reviews_jp": 897,
     "positive_rate_jp": 89.19,
-    "total_reviews_all": 102700,
+    "total_reviews_all": 102705,
     "positive_rate_all": 93.74,
     "store_url": "https://store.steampowered.com/app/219990",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219990/capsule_231x87.jpg"
@@ -824,7 +824,7 @@
     "name": "Borderlands 2",
     "total_reviews_jp": 1124,
     "positive_rate_jp": 88.79,
-    "total_reviews_all": 308041,
+    "total_reviews_all": 308060,
     "positive_rate_all": 89.35,
     "store_url": "https://store.steampowered.com/app/49520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/49520/capsule_231x87.jpg"
@@ -832,12 +832,22 @@
   {
     "appid": 304930,
     "name": "Unturned",
-    "total_reviews_jp": 865,
-    "positive_rate_jp": 88.79,
+    "total_reviews_jp": 866,
+    "positive_rate_jp": 88.68,
     "total_reviews_all": 559704,
     "positive_rate_all": 91.09,
     "store_url": "https://store.steampowered.com/app/304930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304930/capsule_231x87.jpg"
+  },
+  {
+    "appid": 440,
+    "name": "Team Fortress 2",
+    "total_reviews_jp": 1860,
+    "positive_rate_jp": 88.66,
+    "total_reviews_all": 1205105,
+    "positive_rate_all": 90.61,
+    "store_url": "https://store.steampowered.com/app/440",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/440/capsule_231x87.jpg"
   },
   {
     "appid": 410320,
@@ -850,21 +860,11 @@
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/410320/capsule_231x87.jpg"
   },
   {
-    "appid": 440,
-    "name": "Team Fortress 2",
-    "total_reviews_jp": 1862,
-    "positive_rate_jp": 88.61,
-    "total_reviews_all": 1204936,
-    "positive_rate_all": 90.6,
-    "store_url": "https://store.steampowered.com/app/440",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/440/capsule_231x87.jpg"
-  },
-  {
     "appid": 242760,
     "name": "The Forest",
-    "total_reviews_jp": 1175,
-    "positive_rate_jp": 88.6,
-    "total_reviews_all": 649924,
+    "total_reviews_jp": 1176,
+    "positive_rate_jp": 88.61,
+    "total_reviews_all": 650011,
     "positive_rate_all": 95.54,
     "store_url": "https://store.steampowered.com/app/242760",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/242760/capsule_231x87.jpg"
@@ -874,8 +874,8 @@
     "name": "XCOM: Enemy Unknown",
     "total_reviews_jp": 270,
     "positive_rate_jp": 88.52,
-    "total_reviews_all": 57444,
-    "positive_rate_all": 93.18,
+    "total_reviews_all": 57445,
+    "positive_rate_all": 93.19,
     "store_url": "https://store.steampowered.com/app/200510",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/200510/capsule_231x87.jpg"
   },
@@ -884,7 +884,7 @@
     "name": "DOOM",
     "total_reviews_jp": 410,
     "positive_rate_jp": 88.29,
-    "total_reviews_all": 213388,
+    "total_reviews_all": 213407,
     "positive_rate_all": 95.5,
     "store_url": "https://store.steampowered.com/app/379720",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/379720/capsule_231x87.jpg"
@@ -894,8 +894,8 @@
     "name": "Chivalry: Medieval Warfare",
     "total_reviews_jp": 212,
     "positive_rate_jp": 88.21,
-    "total_reviews_all": 65296,
-    "positive_rate_all": 82.54,
+    "total_reviews_all": 65294,
+    "positive_rate_all": 82.55,
     "store_url": "https://store.steampowered.com/app/219640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219640/capsule_231x87.jpg"
   },
@@ -904,7 +904,7 @@
     "name": "Torchlight II",
     "total_reviews_jp": 218,
     "positive_rate_jp": 88.07,
-    "total_reviews_all": 44832,
+    "total_reviews_all": 44833,
     "positive_rate_all": 92.7,
     "store_url": "https://store.steampowered.com/app/200710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/200710/capsule_231x87.jpg"
@@ -914,7 +914,7 @@
     "name": "Ultra Street Fighter® IV",
     "total_reviews_jp": 259,
     "positive_rate_jp": 88.03,
-    "total_reviews_all": 16330,
+    "total_reviews_all": 16332,
     "positive_rate_all": 90.31,
     "store_url": "https://store.steampowered.com/app/45760",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/45760/capsule_231x87.jpg"
@@ -924,7 +924,7 @@
     "name": "Assetto Corsa",
     "total_reviews_jp": 490,
     "positive_rate_jp": 87.96,
-    "total_reviews_all": 161404,
+    "total_reviews_all": 161443,
     "positive_rate_all": 92.74,
     "store_url": "https://store.steampowered.com/app/244210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/244210/capsule_231x87.jpg"
@@ -934,7 +934,7 @@
     "name": "TROUBLESHOOTER: Abandoned Children",
     "total_reviews_jp": 207,
     "positive_rate_jp": 87.92,
-    "total_reviews_all": 9477,
+    "total_reviews_all": 9478,
     "positive_rate_all": 93.85,
     "store_url": "https://store.steampowered.com/app/470310",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/470310/capsule_231x87.jpg"
@@ -944,8 +944,8 @@
     "name": "Geometry Dash",
     "total_reviews_jp": 408,
     "positive_rate_jp": 87.75,
-    "total_reviews_all": 485987,
-    "positive_rate_all": 93.12,
+    "total_reviews_all": 486426,
+    "positive_rate_all": 93.11,
     "store_url": "https://store.steampowered.com/app/322170",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/322170/capsule_231x87.jpg"
   },
@@ -954,7 +954,7 @@
     "name": "Alan Wake",
     "total_reviews_jp": 326,
     "positive_rate_jp": 87.73,
-    "total_reviews_all": 53899,
+    "total_reviews_all": 53913,
     "positive_rate_all": 90.2,
     "store_url": "https://store.steampowered.com/app/108710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/108710/capsule_231x87.jpg"
@@ -964,7 +964,7 @@
     "name": "Momodora: Reverie Under The Moonlight",
     "total_reviews_jp": 269,
     "positive_rate_jp": 87.73,
-    "total_reviews_all": 11382,
+    "total_reviews_all": 11384,
     "positive_rate_all": 93.26,
     "store_url": "https://store.steampowered.com/app/428550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/428550/capsule_231x87.jpg"
@@ -984,7 +984,7 @@
     "name": "The Elder Scrolls V: Skyrim Special Edition",
     "total_reviews_jp": 1221,
     "positive_rate_jp": 87.31,
-    "total_reviews_all": 352321,
+    "total_reviews_all": 352417,
     "positive_rate_all": 92.16,
     "store_url": "https://store.steampowered.com/app/489830",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/489830/capsule_231x87.jpg"
@@ -994,7 +994,7 @@
     "name": "BioShock Infinite",
     "total_reviews_jp": 509,
     "positive_rate_jp": 87.23,
-    "total_reviews_all": 142843,
+    "total_reviews_all": 142854,
     "positive_rate_all": 93.51,
     "store_url": "https://store.steampowered.com/app/8870",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/8870/capsule_231x87.jpg"
@@ -1004,37 +1004,37 @@
     "name": "Serious Sam 3: BFE",
     "total_reviews_jp": 201,
     "positive_rate_jp": 87.06,
-    "total_reviews_all": 28060,
+    "total_reviews_all": 28064,
     "positive_rate_all": 88.36,
     "store_url": "https://store.steampowered.com/app/41070",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/41070/capsule_231x87.jpg"
+  },
+  {
+    "appid": 251570,
+    "name": "7 Days to Die",
+    "total_reviews_jp": 3302,
+    "positive_rate_jp": 86.83,
+    "total_reviews_all": 390144,
+    "positive_rate_all": 87.15,
+    "store_url": "https://store.steampowered.com/app/251570",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/251570/capsule_231x87.jpg"
   },
   {
     "appid": 204450,
     "name": "Call of Juarez: Gunslinger",
     "total_reviews_jp": 220,
     "positive_rate_jp": 86.82,
-    "total_reviews_all": 42161,
-    "positive_rate_all": 95.0,
+    "total_reviews_all": 42166,
+    "positive_rate_all": 94.99,
     "store_url": "https://store.steampowered.com/app/204450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/204450/capsule_231x87.jpg"
-  },
-  {
-    "appid": 251570,
-    "name": "7 Days to Die",
-    "total_reviews_jp": 3300,
-    "positive_rate_jp": 86.82,
-    "total_reviews_all": 390077,
-    "positive_rate_all": 87.15,
-    "store_url": "https://store.steampowered.com/app/251570",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/251570/capsule_231x87.jpg"
   },
   {
     "appid": 236850,
     "name": "Europa Universalis IV",
     "total_reviews_jp": 369,
     "positive_rate_jp": 86.72,
-    "total_reviews_all": 134950,
+    "total_reviews_all": 134958,
     "positive_rate_all": 87.51,
     "store_url": "https://store.steampowered.com/app/236850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/236850/capsule_231x87.jpg"
@@ -1044,7 +1044,7 @@
     "name": "This War of Mine",
     "total_reviews_jp": 516,
     "positive_rate_jp": 86.43,
-    "total_reviews_all": 95588,
+    "total_reviews_all": 95600,
     "positive_rate_all": 93.93,
     "store_url": "https://store.steampowered.com/app/282070",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282070/capsule_231x87.jpg"
@@ -1054,7 +1054,7 @@
     "name": "Hollow Knight",
     "total_reviews_jp": 1016,
     "positive_rate_jp": 86.32,
-    "total_reviews_all": 505299,
+    "total_reviews_all": 505488,
     "positive_rate_all": 96.93,
     "store_url": "https://store.steampowered.com/app/367520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/367520/capsule_231x87.jpg"
@@ -1064,7 +1064,7 @@
     "name": "Planet Coaster",
     "total_reviews_jp": 364,
     "positive_rate_jp": 86.26,
-    "total_reviews_all": 70840,
+    "total_reviews_all": 70841,
     "positive_rate_all": 91.4,
     "store_url": "https://store.steampowered.com/app/493340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/493340/capsule_231x87.jpg"
@@ -1074,7 +1074,7 @@
     "name": "Killing Floor 2",
     "total_reviews_jp": 721,
     "positive_rate_jp": 86.13,
-    "total_reviews_all": 127519,
+    "total_reviews_all": 127533,
     "positive_rate_all": 88.28,
     "store_url": "https://store.steampowered.com/app/232090",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/232090/capsule_231x87.jpg"
@@ -1082,9 +1082,9 @@
   {
     "appid": 374320,
     "name": "DARK SOULS™ III",
-    "total_reviews_jp": 1801,
-    "positive_rate_jp": 86.06,
-    "total_reviews_all": 424843,
+    "total_reviews_jp": 1803,
+    "positive_rate_jp": 86.08,
+    "total_reviews_all": 424909,
     "positive_rate_all": 94.34,
     "store_url": "https://store.steampowered.com/app/374320",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/374320/capsule_231x87.jpg"
@@ -1094,7 +1094,7 @@
     "name": "100% Orange Juice",
     "total_reviews_jp": 393,
     "positive_rate_jp": 86.01,
-    "total_reviews_all": 28766,
+    "total_reviews_all": 28764,
     "positive_rate_all": 91.61,
     "store_url": "https://store.steampowered.com/app/282800",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282800/capsule_231x87.jpg"
@@ -1105,7 +1105,7 @@
     "total_reviews_jp": 500,
     "positive_rate_jp": 85.8,
     "total_reviews_all": 24136,
-    "positive_rate_all": 91.33,
+    "positive_rate_all": 91.34,
     "store_url": "https://store.steampowered.com/app/285920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/285920/capsule_231x87.jpg"
   },
@@ -1114,7 +1114,7 @@
     "name": "PlanetSide 2",
     "total_reviews_jp": 253,
     "positive_rate_jp": 85.77,
-    "total_reviews_all": 74145,
+    "total_reviews_all": 74152,
     "positive_rate_all": 80.7,
     "store_url": "https://store.steampowered.com/app/218230",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/218230/capsule_231x87.jpg"
@@ -1124,7 +1124,7 @@
     "name": "Fishing Planet",
     "total_reviews_jp": 210,
     "positive_rate_jp": 85.71,
-    "total_reviews_all": 71064,
+    "total_reviews_all": 71081,
     "positive_rate_all": 86.78,
     "store_url": "https://store.steampowered.com/app/380600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/380600/capsule_231x87.jpg"
@@ -1134,47 +1134,47 @@
     "name": "Fallout 3: Game of the Year Edition",
     "total_reviews_jp": 235,
     "positive_rate_jp": 85.53,
-    "total_reviews_all": 52099,
-    "positive_rate_all": 81.08,
+    "total_reviews_all": 52107,
+    "positive_rate_all": 81.09,
     "store_url": "https://store.steampowered.com/app/22370",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/22370/capsule_231x87.jpg"
   },
   {
     "appid": 323190,
     "name": "Frostpunk",
-    "total_reviews_jp": 524,
-    "positive_rate_jp": 85.11,
-    "total_reviews_all": 128760,
+    "total_reviews_jp": 526,
+    "positive_rate_jp": 85.17,
+    "total_reviews_all": 128800,
     "positive_rate_all": 92.65,
     "store_url": "https://store.steampowered.com/app/323190",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/323190/capsule_231x87.jpg"
   },
   {
-    "appid": 292030,
-    "name": "The Witcher 3: Wild Hunt",
-    "total_reviews_jp": 1571,
-    "positive_rate_jp": 84.85,
-    "total_reviews_all": 847938,
-    "positive_rate_all": 96.79,
-    "store_url": "https://store.steampowered.com/app/292030",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/292030/capsule_231x87.jpg"
-  },
-  {
     "appid": 413410,
     "name": "Danganronpa: Trigger Happy Havoc",
-    "total_reviews_jp": 343,
-    "positive_rate_jp": 84.84,
-    "total_reviews_all": 32287,
+    "total_reviews_jp": 345,
+    "positive_rate_jp": 84.93,
+    "total_reviews_all": 32335,
     "positive_rate_all": 96.01,
     "store_url": "https://store.steampowered.com/app/413410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413410/capsule_231x87.jpg"
+  },
+  {
+    "appid": 292030,
+    "name": "The Witcher 3: Wild Hunt",
+    "total_reviews_jp": 1572,
+    "positive_rate_jp": 84.86,
+    "total_reviews_all": 848145,
+    "positive_rate_all": 96.79,
+    "store_url": "https://store.steampowered.com/app/292030",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/292030/capsule_231x87.jpg"
   },
   {
     "appid": 107410,
     "name": "Arma 3",
     "total_reviews_jp": 575,
     "positive_rate_jp": 84.35,
-    "total_reviews_all": 288292,
+    "total_reviews_all": 288320,
     "positive_rate_all": 90.47,
     "store_url": "https://store.steampowered.com/app/107410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/107410/capsule_231x87.jpg"
@@ -1184,8 +1184,8 @@
     "name": "The Witness",
     "total_reviews_jp": 313,
     "positive_rate_jp": 84.03,
-    "total_reviews_all": 19765,
-    "positive_rate_all": 84.61,
+    "total_reviews_all": 19767,
+    "positive_rate_all": 84.62,
     "store_url": "https://store.steampowered.com/app/210970",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/210970/capsule_231x87.jpg"
   },
@@ -1194,7 +1194,7 @@
     "name": "Plague Inc: Evolved",
     "total_reviews_jp": 255,
     "positive_rate_jp": 83.92,
-    "total_reviews_all": 57916,
+    "total_reviews_all": 57925,
     "positive_rate_all": 94.4,
     "store_url": "https://store.steampowered.com/app/246620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/246620/capsule_231x87.jpg"
@@ -1204,7 +1204,7 @@
     "name": "Depth",
     "total_reviews_jp": 215,
     "positive_rate_jp": 83.72,
-    "total_reviews_all": 32662,
+    "total_reviews_all": 32661,
     "positive_rate_all": 87.91,
     "store_url": "https://store.steampowered.com/app/274940",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/274940/capsule_231x87.jpg"
@@ -1212,9 +1212,9 @@
   {
     "appid": 218620,
     "name": "PAYDAY 2",
-    "total_reviews_jp": 1814,
-    "positive_rate_jp": 83.46,
-    "total_reviews_all": 667756,
+    "total_reviews_jp": 1813,
+    "positive_rate_jp": 83.45,
+    "total_reviews_all": 667754,
     "positive_rate_all": 89.25,
     "store_url": "https://store.steampowered.com/app/218620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/218620/capsule_231x87.jpg"
@@ -1222,9 +1222,9 @@
   {
     "appid": 730,
     "name": "Counter-Strike 2",
-    "total_reviews_jp": 10735,
-    "positive_rate_jp": 83.26,
-    "total_reviews_all": 9214375,
+    "total_reviews_jp": 10738,
+    "positive_rate_jp": 83.25,
+    "total_reviews_all": 9216585,
     "positive_rate_all": 86.35,
     "store_url": "https://store.steampowered.com/app/730",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_231x87.jpg"
@@ -1232,19 +1232,19 @@
   {
     "appid": 438100,
     "name": "VRChat",
-    "total_reviews_jp": 2764,
+    "total_reviews_jp": 2765,
     "positive_rate_jp": 83.07,
-    "total_reviews_all": 252125,
-    "positive_rate_all": 75.41,
+    "total_reviews_all": 252186,
+    "positive_rate_all": 75.4,
     "store_url": "https://store.steampowered.com/app/438100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/438100/capsule_231x87.jpg"
   },
   {
     "appid": 230410,
     "name": "Warframe",
-    "total_reviews_jp": 1875,
-    "positive_rate_jp": 82.93,
-    "total_reviews_all": 640345,
+    "total_reviews_jp": 1876,
+    "positive_rate_jp": 82.94,
+    "total_reviews_all": 640482,
     "positive_rate_all": 87.47,
     "store_url": "https://store.steampowered.com/app/230410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/230410/capsule_231x87.jpg"
@@ -1254,7 +1254,7 @@
     "name": "Project Zomboid",
     "total_reviews_jp": 854,
     "positive_rate_jp": 82.9,
-    "total_reviews_all": 414508,
+    "total_reviews_all": 414642,
     "positive_rate_all": 94.22,
     "store_url": "https://store.steampowered.com/app/108600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/108600/capsule_231x87.jpg"
@@ -1264,7 +1264,7 @@
     "name": "Resident Evil",
     "total_reviews_jp": 245,
     "positive_rate_jp": 82.86,
-    "total_reviews_all": 29231,
+    "total_reviews_all": 29239,
     "positive_rate_all": 92.07,
     "store_url": "https://store.steampowered.com/app/304240",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304240/capsule_231x87.jpg"
@@ -1274,7 +1274,7 @@
     "name": "Space Engineers",
     "total_reviews_jp": 226,
     "positive_rate_jp": 82.74,
-    "total_reviews_all": 132306,
+    "total_reviews_all": 132316,
     "positive_rate_all": 88.89,
     "store_url": "https://store.steampowered.com/app/244850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/244850/capsule_231x87.jpg"
@@ -1284,7 +1284,7 @@
     "name": "Elite Dangerous",
     "total_reviews_jp": 305,
     "positive_rate_jp": 82.62,
-    "total_reviews_all": 103566,
+    "total_reviews_all": 103575,
     "positive_rate_all": 77.29,
     "store_url": "https://store.steampowered.com/app/359320",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/359320/capsule_231x87.jpg"
@@ -1292,9 +1292,9 @@
   {
     "appid": 261550,
     "name": "Mount & Blade II: Bannerlord",
-    "total_reviews_jp": 775,
-    "positive_rate_jp": 82.58,
-    "total_reviews_all": 278180,
+    "total_reviews_jp": 776,
+    "positive_rate_jp": 82.6,
+    "total_reviews_all": 278332,
     "positive_rate_all": 87.88,
     "store_url": "https://store.steampowered.com/app/261550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/261550/capsule_231x87.jpg"
@@ -1302,9 +1302,9 @@
   {
     "appid": 240720,
     "name": "Getting Over It with Bennett Foddy",
-    "total_reviews_jp": 1457,
-    "positive_rate_jp": 82.22,
-    "total_reviews_all": 79303,
+    "total_reviews_jp": 1458,
+    "positive_rate_jp": 82.24,
+    "total_reviews_all": 79319,
     "positive_rate_all": 82.39,
     "store_url": "https://store.steampowered.com/app/240720",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/240720/capsule_231x87.jpg"
@@ -1314,7 +1314,7 @@
     "name": "The Long Dark",
     "total_reviews_jp": 560,
     "positive_rate_jp": 81.79,
-    "total_reviews_all": 114874,
+    "total_reviews_all": 114889,
     "positive_rate_all": 90.63,
     "store_url": "https://store.steampowered.com/app/305620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/305620/capsule_231x87.jpg"
@@ -1324,7 +1324,7 @@
     "name": "Tropico 6",
     "total_reviews_jp": 348,
     "positive_rate_jp": 81.61,
-    "total_reviews_all": 28167,
+    "total_reviews_all": 28169,
     "positive_rate_all": 87.56,
     "store_url": "https://store.steampowered.com/app/492720",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/492720/capsule_231x87.jpg"
@@ -1334,7 +1334,7 @@
     "name": "Resident Evil 7 Biohazard",
     "total_reviews_jp": 304,
     "positive_rate_jp": 81.58,
-    "total_reviews_all": 107221,
+    "total_reviews_all": 107240,
     "positive_rate_all": 95.32,
     "store_url": "https://store.steampowered.com/app/418370",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/418370/capsule_231x87.jpg"
@@ -1344,7 +1344,7 @@
     "name": "Path of Exile",
     "total_reviews_jp": 812,
     "positive_rate_jp": 81.53,
-    "total_reviews_all": 243089,
+    "total_reviews_all": 243126,
     "positive_rate_all": 88.99,
     "store_url": "https://store.steampowered.com/app/238960",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/238960/capsule_231x87.jpg"
@@ -1354,7 +1354,7 @@
     "name": "Divinity: Original Sin 2 - Definitive Edition",
     "total_reviews_jp": 286,
     "positive_rate_jp": 81.47,
-    "total_reviews_all": 194274,
+    "total_reviews_all": 194299,
     "positive_rate_all": 95.78,
     "store_url": "https://store.steampowered.com/app/435150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/435150/capsule_231x87.jpg"
@@ -1364,7 +1364,7 @@
     "name": "Far Cry 3",
     "total_reviews_jp": 377,
     "positive_rate_jp": 80.9,
-    "total_reviews_all": 121009,
+    "total_reviews_all": 121052,
     "positive_rate_all": 88.97,
     "store_url": "https://store.steampowered.com/app/220240",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/220240/capsule_231x87.jpg"
@@ -1374,7 +1374,7 @@
     "name": "Wolfenstein: The New Order",
     "total_reviews_jp": 261,
     "positive_rate_jp": 80.46,
-    "total_reviews_all": 59210,
+    "total_reviews_all": 59215,
     "positive_rate_all": 91.61,
     "store_url": "https://store.steampowered.com/app/201810",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/201810/capsule_231x87.jpg"
@@ -1384,7 +1384,7 @@
     "name": "LIMBO",
     "total_reviews_jp": 317,
     "positive_rate_jp": 80.44,
-    "total_reviews_all": 59437,
+    "total_reviews_all": 59445,
     "positive_rate_all": 92.39,
     "store_url": "https://store.steampowered.com/app/48000",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/48000/capsule_231x87.jpg"
@@ -1392,9 +1392,9 @@
   {
     "appid": 361420,
     "name": "ASTRONEER",
-    "total_reviews_jp": 748,
-    "positive_rate_jp": 80.21,
-    "total_reviews_all": 134370,
+    "total_reviews_jp": 749,
+    "positive_rate_jp": 80.24,
+    "total_reviews_all": 134391,
     "positive_rate_all": 92.11,
     "store_url": "https://store.steampowered.com/app/361420",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/361420/capsule_231x87.jpg"
@@ -1404,7 +1404,7 @@
     "name": "Salt and Sanctuary",
     "total_reviews_jp": 337,
     "positive_rate_jp": 80.12,
-    "total_reviews_all": 21208,
+    "total_reviews_all": 21211,
     "positive_rate_all": 89.38,
     "store_url": "https://store.steampowered.com/app/283640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/283640/capsule_231x87.jpg"
@@ -1414,7 +1414,7 @@
     "name": "Black Mesa",
     "total_reviews_jp": 201,
     "positive_rate_jp": 80.1,
-    "total_reviews_all": 136876,
+    "total_reviews_all": 136926,
     "positive_rate_all": 95.06,
     "store_url": "https://store.steampowered.com/app/362890",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/362890/capsule_231x87.jpg"
@@ -1424,7 +1424,7 @@
     "name": "CrossCode",
     "total_reviews_jp": 326,
     "positive_rate_jp": 80.06,
-    "total_reviews_all": 17389,
+    "total_reviews_all": 17394,
     "positive_rate_all": 92.91,
     "store_url": "https://store.steampowered.com/app/368340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/368340/capsule_231x87.jpg"
@@ -1434,7 +1434,7 @@
     "name": "Rise of the Tomb Raider™",
     "total_reviews_jp": 277,
     "positive_rate_jp": 79.78,
-    "total_reviews_all": 144065,
+    "total_reviews_all": 144093,
     "positive_rate_all": 94.09,
     "store_url": "https://store.steampowered.com/app/391220",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/391220/capsule_231x87.jpg"
@@ -1452,39 +1452,39 @@
   {
     "appid": 377160,
     "name": "Fallout 4",
-    "total_reviews_jp": 1928,
-    "positive_rate_jp": 79.25,
-    "total_reviews_all": 410245,
-    "positive_rate_all": 81.37,
+    "total_reviews_jp": 1929,
+    "positive_rate_jp": 79.26,
+    "total_reviews_all": 410335,
+    "positive_rate_all": 81.36,
     "store_url": "https://store.steampowered.com/app/377160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/377160/capsule_231x87.jpg"
+  },
+  {
+    "appid": 424840,
+    "name": "Little Nightmares",
+    "total_reviews_jp": 383,
+    "positive_rate_jp": 79.11,
+    "total_reviews_all": 114032,
+    "positive_rate_all": 94.75,
+    "store_url": "https://store.steampowered.com/app/424840",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/424840/capsule_231x87.jpg"
   },
   {
     "appid": 311690,
     "name": "Enter the Gungeon",
     "total_reviews_jp": 363,
     "positive_rate_jp": 79.06,
-    "total_reviews_all": 87414,
+    "total_reviews_all": 87425,
     "positive_rate_all": 95.33,
     "store_url": "https://store.steampowered.com/app/311690",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311690/capsule_231x87.jpg"
-  },
-  {
-    "appid": 424840,
-    "name": "Little Nightmares",
-    "total_reviews_jp": 382,
-    "positive_rate_jp": 79.06,
-    "total_reviews_all": 114013,
-    "positive_rate_all": 94.75,
-    "store_url": "https://store.steampowered.com/app/424840",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/424840/capsule_231x87.jpg"
   },
   {
     "appid": 281990,
     "name": "Stellaris",
     "total_reviews_jp": 840,
     "positive_rate_jp": 79.05,
-    "total_reviews_all": 188082,
+    "total_reviews_all": 188116,
     "positive_rate_all": 86.7,
     "store_url": "https://store.steampowered.com/app/281990",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/281990/capsule_231x87.jpg"
@@ -1494,7 +1494,7 @@
     "name": "GTFO",
     "total_reviews_jp": 352,
     "positive_rate_jp": 78.41,
-    "total_reviews_all": 64127,
+    "total_reviews_all": 64138,
     "positive_rate_all": 84.18,
     "store_url": "https://store.steampowered.com/app/493520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/493520/capsule_231x87.jpg"
@@ -1504,7 +1504,7 @@
     "name": "Saints Row IV: Re-Elected",
     "total_reviews_jp": 355,
     "positive_rate_jp": 78.31,
-    "total_reviews_all": 77302,
+    "total_reviews_all": 77296,
     "positive_rate_all": 87.75,
     "store_url": "https://store.steampowered.com/app/206420",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/206420/capsule_231x87.jpg"
@@ -1514,7 +1514,7 @@
     "name": "Prison Architect",
     "total_reviews_jp": 341,
     "positive_rate_jp": 78.3,
-    "total_reviews_all": 72615,
+    "total_reviews_all": 72617,
     "positive_rate_all": 89.37,
     "store_url": "https://store.steampowered.com/app/233450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/233450/capsule_231x87.jpg"
@@ -1524,8 +1524,8 @@
     "name": "Resident Evil Revelations",
     "total_reviews_jp": 239,
     "positive_rate_jp": 78.24,
-    "total_reviews_all": 16087,
-    "positive_rate_all": 80.93,
+    "total_reviews_all": 16093,
+    "positive_rate_all": 80.95,
     "store_url": "https://store.steampowered.com/app/222480",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/222480/capsule_231x87.jpg"
   },
@@ -1534,8 +1534,8 @@
     "name": "Dragon's Dogma: Dark Arisen",
     "total_reviews_jp": 560,
     "positive_rate_jp": 77.86,
-    "total_reviews_all": 47682,
-    "positive_rate_all": 88.45,
+    "total_reviews_all": 47686,
+    "positive_rate_all": 88.46,
     "store_url": "https://store.steampowered.com/app/367500",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/367500/capsule_231x87.jpg"
   },
@@ -1544,8 +1544,8 @@
     "name": "Bayonetta",
     "total_reviews_jp": 320,
     "positive_rate_jp": 77.81,
-    "total_reviews_all": 30222,
-    "positive_rate_all": 92.42,
+    "total_reviews_all": 30235,
+    "positive_rate_all": 92.43,
     "store_url": "https://store.steampowered.com/app/460790",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/460790/capsule_231x87.jpg"
   },
@@ -1554,7 +1554,7 @@
     "name": "ARK: Survival Evolved",
     "total_reviews_jp": 3506,
     "positive_rate_jp": 77.78,
-    "total_reviews_all": 752826,
+    "total_reviews_all": 752893,
     "positive_rate_all": 83.35,
     "store_url": "https://store.steampowered.com/app/346110",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/346110/capsule_231x87.jpg"
@@ -1564,17 +1564,17 @@
     "name": "Scrap Mechanic",
     "total_reviews_jp": 215,
     "positive_rate_jp": 77.67,
-    "total_reviews_all": 115469,
-    "positive_rate_all": 92.01,
+    "total_reviews_all": 115476,
+    "positive_rate_all": 92.0,
     "store_url": "https://store.steampowered.com/app/387990",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/387990/capsule_231x87.jpg"
   },
   {
     "appid": 252490,
     "name": "Rust",
-    "total_reviews_jp": 2807,
-    "positive_rate_jp": 77.59,
-    "total_reviews_all": 1293534,
+    "total_reviews_jp": 2806,
+    "positive_rate_jp": 77.58,
+    "total_reviews_all": 1293830,
     "positive_rate_all": 87.08,
     "store_url": "https://store.steampowered.com/app/252490",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/252490/capsule_231x87.jpg"
@@ -1584,7 +1584,7 @@
     "name": "Assassin’s Creed® IV Black Flag™",
     "total_reviews_jp": 249,
     "positive_rate_jp": 77.51,
-    "total_reviews_all": 74327,
+    "total_reviews_all": 74340,
     "positive_rate_all": 88.46,
     "store_url": "https://store.steampowered.com/app/242050",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/242050/capsule_231x87.jpg"
@@ -1594,7 +1594,7 @@
     "name": "Dota 2",
     "total_reviews_jp": 2184,
     "positive_rate_jp": 77.2,
-    "total_reviews_all": 2632646,
+    "total_reviews_all": 2633079,
     "positive_rate_all": 81.33,
     "store_url": "https://store.steampowered.com/app/570",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/570/capsule_231x87.jpg"
@@ -1602,9 +1602,9 @@
   {
     "appid": 377840,
     "name": "FINAL FANTASY IX",
-    "total_reviews_jp": 231,
-    "positive_rate_jp": 77.06,
-    "total_reviews_all": 12980,
+    "total_reviews_jp": 232,
+    "positive_rate_jp": 77.16,
+    "total_reviews_all": 12986,
     "positive_rate_all": 95.04,
     "store_url": "https://store.steampowered.com/app/377840",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/377840/capsule_231x87.jpg"
@@ -1614,8 +1614,8 @@
     "name": "Metro 2033 Redux",
     "total_reviews_jp": 204,
     "positive_rate_jp": 76.96,
-    "total_reviews_all": 121644,
-    "positive_rate_all": 91.84,
+    "total_reviews_all": 121721,
+    "positive_rate_all": 91.85,
     "store_url": "https://store.steampowered.com/app/286690",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/286690/capsule_231x87.jpg"
   },
@@ -1624,7 +1624,7 @@
     "name": "Sid Meier’s Civilization® VI",
     "total_reviews_jp": 1203,
     "positive_rate_jp": 76.89,
-    "total_reviews_all": 365335,
+    "total_reviews_all": 365374,
     "positive_rate_all": 85.83,
     "store_url": "https://store.steampowered.com/app/289070",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/289070/capsule_231x87.jpg"
@@ -1634,7 +1634,7 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES",
     "total_reviews_jp": 211,
     "positive_rate_jp": 76.78,
-    "total_reviews_all": 17584,
+    "total_reviews_all": 17585,
     "positive_rate_all": 84.54,
     "store_url": "https://store.steampowered.com/app/311340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311340/capsule_231x87.jpg"
@@ -1644,8 +1644,8 @@
     "name": "Ori and the Blind Forest: Definitive Edition",
     "total_reviews_jp": 369,
     "positive_rate_jp": 76.42,
-    "total_reviews_all": 68882,
-    "positive_rate_all": 95.15,
+    "total_reviews_all": 68891,
+    "positive_rate_all": 95.14,
     "store_url": "https://store.steampowered.com/app/387290",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/387290/capsule_231x87.jpg"
   },
@@ -1654,7 +1654,7 @@
     "name": "Tomb Raider Game of the Year",
     "total_reviews_jp": 591,
     "positive_rate_jp": 76.31,
-    "total_reviews_all": 255505,
+    "total_reviews_all": 255576,
     "positive_rate_all": 96.06,
     "store_url": "https://store.steampowered.com/app/203160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/203160/capsule_231x87.jpg"
@@ -1664,7 +1664,7 @@
     "name": "DARK SOULS™ II",
     "total_reviews_jp": 248,
     "positive_rate_jp": 76.21,
-    "total_reviews_all": 44920,
+    "total_reviews_all": 44922,
     "positive_rate_all": 88.37,
     "store_url": "https://store.steampowered.com/app/236430",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/236430/capsule_231x87.jpg"
@@ -1684,7 +1684,7 @@
     "name": "Watch_Dogs® 2",
     "total_reviews_jp": 316,
     "positive_rate_jp": 75.32,
-    "total_reviews_all": 87785,
+    "total_reviews_all": 87830,
     "positive_rate_all": 82.57,
     "store_url": "https://store.steampowered.com/app/447040",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/447040/capsule_231x87.jpg"
@@ -1692,9 +1692,9 @@
   {
     "appid": 379430,
     "name": "Kingdom Come: Deliverance",
-    "total_reviews_jp": 497,
-    "positive_rate_jp": 75.25,
-    "total_reviews_all": 170524,
+    "total_reviews_jp": 498,
+    "positive_rate_jp": 75.3,
+    "total_reviews_all": 170562,
     "positive_rate_all": 84.27,
     "store_url": "https://store.steampowered.com/app/379430",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/379430/capsule_231x87.jpg"
@@ -1704,7 +1704,7 @@
     "name": "Dirty Bomb®",
     "total_reviews_jp": 208,
     "positive_rate_jp": 75.0,
-    "total_reviews_all": 56995,
+    "total_reviews_all": 56992,
     "positive_rate_all": 81.29,
     "store_url": "https://store.steampowered.com/app/333930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/333930/capsule_231x87.jpg"
@@ -1712,9 +1712,9 @@
   {
     "appid": 239140,
     "name": "Dying Light",
-    "total_reviews_jp": 956,
-    "positive_rate_jp": 74.69,
-    "total_reviews_all": 473264,
+    "total_reviews_jp": 957,
+    "positive_rate_jp": 74.71,
+    "total_reviews_all": 473338,
     "positive_rate_all": 95.26,
     "store_url": "https://store.steampowered.com/app/239140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/239140/capsule_231x87.jpg"
@@ -1724,7 +1724,7 @@
     "name": "Darkest Dungeon®",
     "total_reviews_jp": 522,
     "positive_rate_jp": 73.95,
-    "total_reviews_all": 154723,
+    "total_reviews_all": 154744,
     "positive_rate_all": 91.7,
     "store_url": "https://store.steampowered.com/app/262060",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/262060/capsule_231x87.jpg"
@@ -1734,7 +1734,7 @@
     "name": "Borderlands: The Pre-Sequel",
     "total_reviews_jp": 206,
     "positive_rate_jp": 73.79,
-    "total_reviews_all": 42653,
+    "total_reviews_all": 42648,
     "positive_rate_all": 78.71,
     "store_url": "https://store.steampowered.com/app/261640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/261640/capsule_231x87.jpg"
@@ -1742,9 +1742,9 @@
   {
     "appid": 291550,
     "name": "Brawlhalla",
-    "total_reviews_jp": 579,
-    "positive_rate_jp": 73.75,
-    "total_reviews_all": 396833,
+    "total_reviews_jp": 580,
+    "positive_rate_jp": 73.79,
+    "total_reviews_all": 396876,
     "positive_rate_all": 80.97,
     "store_url": "https://store.steampowered.com/app/291550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/291550/capsule_231x87.jpg"
@@ -1754,37 +1754,37 @@
     "name": "FINAL FANTASY XIV Online",
     "total_reviews_jp": 366,
     "positive_rate_jp": 73.22,
-    "total_reviews_all": 82737,
+    "total_reviews_all": 82743,
     "positive_rate_all": 86.62,
     "store_url": "https://store.steampowered.com/app/39210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/39210/capsule_231x87.jpg"
   },
   {
-    "appid": 236390,
-    "name": "War Thunder",
-    "total_reviews_jp": 468,
-    "positive_rate_jp": 73.08,
-    "total_reviews_all": 690692,
-    "positive_rate_all": 72.81,
-    "store_url": "https://store.steampowered.com/app/236390",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/236390/capsule_231x87.jpg"
-  },
-  {
     "appid": 397540,
     "name": "Borderlands 3",
     "total_reviews_jp": 476,
-    "positive_rate_jp": 72.9,
-    "total_reviews_all": 160481,
+    "positive_rate_jp": 73.11,
+    "total_reviews_all": 160494,
     "positive_rate_all": 80.85,
     "store_url": "https://store.steampowered.com/app/397540",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/397540/capsule_231x87.jpg"
+  },
+  {
+    "appid": 236390,
+    "name": "War Thunder",
+    "total_reviews_jp": 469,
+    "positive_rate_jp": 72.92,
+    "total_reviews_all": 690987,
+    "positive_rate_all": 72.81,
+    "store_url": "https://store.steampowered.com/app/236390",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/236390/capsule_231x87.jpg"
   },
   {
     "appid": 275850,
     "name": "No Man's Sky",
     "total_reviews_jp": 1349,
     "positive_rate_jp": 72.2,
-    "total_reviews_all": 391429,
+    "total_reviews_all": 391525,
     "positive_rate_all": 84.47,
     "store_url": "https://store.steampowered.com/app/275850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/275850/capsule_231x87.jpg"
@@ -1794,7 +1794,7 @@
     "name": "TEKKEN 7",
     "total_reviews_jp": 419,
     "positive_rate_jp": 72.08,
-    "total_reviews_all": 93751,
+    "total_reviews_all": 93755,
     "positive_rate_all": 83.36,
     "store_url": "https://store.steampowered.com/app/389730",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/389730/capsule_231x87.jpg"
@@ -1804,7 +1804,7 @@
     "name": "Tom Clancy’s Splinter Cell Blacklist",
     "total_reviews_jp": 229,
     "positive_rate_jp": 72.05,
-    "total_reviews_all": 20681,
+    "total_reviews_all": 20685,
     "positive_rate_all": 79.38,
     "store_url": "https://store.steampowered.com/app/235600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/235600/capsule_231x87.jpg"
@@ -1814,8 +1814,8 @@
     "name": "XCOM® 2",
     "total_reviews_jp": 365,
     "positive_rate_jp": 71.78,
-    "total_reviews_all": 105164,
-    "positive_rate_all": 84.36,
+    "total_reviews_all": 105178,
+    "positive_rate_all": 84.37,
     "store_url": "https://store.steampowered.com/app/268500",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/268500/capsule_231x87.jpg"
   },
@@ -1824,7 +1824,7 @@
     "name": "Resident Evil 4 (2005)",
     "total_reviews_jp": 445,
     "positive_rate_jp": 71.69,
-    "total_reviews_all": 87006,
+    "total_reviews_all": 87013,
     "positive_rate_all": 93.64,
     "store_url": "https://store.steampowered.com/app/254700",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/254700/capsule_231x87.jpg"
@@ -1834,17 +1834,27 @@
     "name": "Metro Exodus",
     "total_reviews_jp": 298,
     "positive_rate_jp": 71.48,
-    "total_reviews_all": 125637,
+    "total_reviews_all": 125677,
     "positive_rate_all": 89.9,
     "store_url": "https://store.steampowered.com/app/412020",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/412020/capsule_231x87.jpg"
+  },
+  {
+    "appid": 393380,
+    "name": "Squad",
+    "total_reviews_jp": 230,
+    "positive_rate_jp": 70.87,
+    "total_reviews_all": 227343,
+    "positive_rate_all": 81.26,
+    "store_url": "https://store.steampowered.com/app/393380",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/393380/capsule_231x87.jpg"
   },
   {
     "appid": 392160,
     "name": "X4: Foundations",
     "total_reviews_jp": 305,
     "positive_rate_jp": 70.82,
-    "total_reviews_all": 26088,
+    "total_reviews_all": 26097,
     "positive_rate_all": 79.89,
     "store_url": "https://store.steampowered.com/app/392160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/392160/capsule_231x87.jpg"
@@ -1854,7 +1864,7 @@
     "name": "Tom Clancy's Rainbow Six® Siege X",
     "total_reviews_jp": 5389,
     "positive_rate_jp": 70.74,
-    "total_reviews_all": 1461495,
+    "total_reviews_all": 1461651,
     "positive_rate_all": 82.81,
     "store_url": "https://store.steampowered.com/app/359550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/359550/capsule_231x87.jpg"
@@ -1864,27 +1874,17 @@
     "name": "Resident Evil 5",
     "total_reviews_jp": 389,
     "positive_rate_jp": 70.44,
-    "total_reviews_all": 53336,
-    "positive_rate_all": 87.28,
+    "total_reviews_all": 53352,
+    "positive_rate_all": 87.27,
     "store_url": "https://store.steampowered.com/app/21690",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/21690/capsule_231x87.jpg"
-  },
-  {
-    "appid": 393380,
-    "name": "Squad",
-    "total_reviews_jp": 230,
-    "positive_rate_jp": 70.43,
-    "total_reviews_all": 227304,
-    "positive_rate_all": 81.27,
-    "store_url": "https://store.steampowered.com/app/393380",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/393380/capsule_231x87.jpg"
   },
   {
     "appid": 287700,
     "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
     "total_reviews_jp": 997,
     "positive_rate_jp": 70.21,
-    "total_reviews_all": 104568,
+    "total_reviews_all": 104581,
     "positive_rate_all": 91.86,
     "store_url": "https://store.steampowered.com/app/287700",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/287700/capsule_231x87.jpg"
@@ -1892,9 +1892,9 @@
   {
     "appid": 298110,
     "name": "Far Cry® 4",
-    "total_reviews_jp": 209,
-    "positive_rate_jp": 67.94,
-    "total_reviews_all": 65184,
+    "total_reviews_jp": 210,
+    "positive_rate_jp": 67.62,
+    "total_reviews_all": 65228,
     "positive_rate_all": 84.46,
     "store_url": "https://store.steampowered.com/app/298110",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/298110/capsule_231x87.jpg"
@@ -1904,7 +1904,7 @@
     "name": "Grand Theft Auto IV: The Complete Edition",
     "total_reviews_jp": 341,
     "positive_rate_jp": 67.45,
-    "total_reviews_all": 185198,
+    "total_reviews_all": 185235,
     "positive_rate_all": 82.77,
     "store_url": "https://store.steampowered.com/app/12210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/12210/capsule_231x87.jpg"
@@ -1914,7 +1914,7 @@
     "name": "Conan Exiles",
     "total_reviews_jp": 485,
     "positive_rate_jp": 67.22,
-    "total_reviews_all": 110120,
+    "total_reviews_all": 110139,
     "positive_rate_all": 78.85,
     "store_url": "https://store.steampowered.com/app/440900",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/440900/capsule_231x87.jpg"
@@ -1924,7 +1924,7 @@
     "name": "Nioh: Complete Edition",
     "total_reviews_jp": 308,
     "positive_rate_jp": 66.88,
-    "total_reviews_all": 36183,
+    "total_reviews_all": 36182,
     "positive_rate_all": 79.59,
     "store_url": "https://store.steampowered.com/app/485510",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/485510/capsule_231x87.jpg"
@@ -1932,9 +1932,9 @@
   {
     "appid": 502500,
     "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
-    "total_reviews_jp": 1136,
-    "positive_rate_jp": 66.64,
-    "total_reviews_all": 50592,
+    "total_reviews_jp": 1138,
+    "positive_rate_jp": 66.7,
+    "total_reviews_all": 50601,
     "positive_rate_all": 87.76,
     "store_url": "https://store.steampowered.com/app/502500",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/502500/capsule_231x87.jpg"
@@ -1944,8 +1944,8 @@
     "name": "DARK SOULS™ II: Scholar of the First Sin",
     "total_reviews_jp": 579,
     "positive_rate_jp": 66.32,
-    "total_reviews_all": 122797,
-    "positive_rate_all": 83.99,
+    "total_reviews_all": 122828,
+    "positive_rate_all": 84.0,
     "store_url": "https://store.steampowered.com/app/335300",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/335300/capsule_231x87.jpg"
   },
@@ -1954,7 +1954,7 @@
     "name": "Just Cause™ 3",
     "total_reviews_jp": 370,
     "positive_rate_jp": 65.41,
-    "total_reviews_all": 124507,
+    "total_reviews_all": 124520,
     "positive_rate_all": 84.13,
     "store_url": "https://store.steampowered.com/app/225540",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/225540/capsule_231x87.jpg"
@@ -1964,7 +1964,7 @@
     "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "total_reviews_jp": 241,
     "positive_rate_jp": 65.15,
-    "total_reviews_all": 87861,
+    "total_reviews_all": 87874,
     "positive_rate_all": 89.99,
     "store_url": "https://store.steampowered.com/app/20920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/20920/capsule_231x87.jpg"
@@ -1974,7 +1974,7 @@
     "name": "Middle-earth™: Shadow of War™",
     "total_reviews_jp": 243,
     "positive_rate_jp": 65.02,
-    "total_reviews_all": 111082,
+    "total_reviews_all": 111120,
     "positive_rate_all": 88.78,
     "store_url": "https://store.steampowered.com/app/356190",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/356190/capsule_231x87.jpg"
@@ -1984,7 +1984,7 @@
     "name": "Tom Clancy's Ghost Recon® Wildlands",
     "total_reviews_jp": 544,
     "positive_rate_jp": 63.42,
-    "total_reviews_all": 100177,
+    "total_reviews_all": 100207,
     "positive_rate_all": 79.77,
     "store_url": "https://store.steampowered.com/app/460930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/460930/capsule_231x87.jpg"
@@ -1994,8 +1994,8 @@
     "name": "BioShock™ Remastered",
     "total_reviews_jp": 273,
     "positive_rate_jp": 63.0,
-    "total_reviews_all": 60912,
-    "positive_rate_all": 82.41,
+    "total_reviews_all": 60927,
+    "positive_rate_all": 82.42,
     "store_url": "https://store.steampowered.com/app/409710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/409710/capsule_231x87.jpg"
   },
@@ -2004,37 +2004,37 @@
     "name": "DayZ",
     "total_reviews_jp": 667,
     "positive_rate_jp": 62.82,
-    "total_reviews_all": 446424,
+    "total_reviews_all": 446496,
     "positive_rate_all": 77.29,
     "store_url": "https://store.steampowered.com/app/221100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/221100/capsule_231x87.jpg"
+  },
+  {
+    "appid": 359870,
+    "name": "FINAL FANTASY X/X-2 HD Remaster",
+    "total_reviews_jp": 600,
+    "positive_rate_jp": 59.67,
+    "total_reviews_all": 21398,
+    "positive_rate_all": 89.4,
+    "store_url": "https://store.steampowered.com/app/359870",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/359870/capsule_231x87.jpg"
   },
   {
     "appid": 265550,
     "name": "Dead Rising 3 Apocalypse Edition",
     "total_reviews_jp": 347,
     "positive_rate_jp": 59.65,
-    "total_reviews_all": 19703,
+    "total_reviews_all": 19706,
     "positive_rate_all": 76.79,
     "store_url": "https://store.steampowered.com/app/265550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/265550/capsule_231x87.jpg"
-  },
-  {
-    "appid": 359870,
-    "name": "FINAL FANTASY X/X-2 HD Remaster",
-    "total_reviews_jp": 598,
-    "positive_rate_jp": 59.53,
-    "total_reviews_all": 21390,
-    "positive_rate_all": 89.39,
-    "store_url": "https://store.steampowered.com/app/359870",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/359870/capsule_231x87.jpg"
   },
   {
     "appid": 292120,
     "name": "FINAL FANTASY® XIII",
     "total_reviews_jp": 624,
     "positive_rate_jp": 59.29,
-    "total_reviews_all": 18693,
+    "total_reviews_all": 18696,
     "positive_rate_all": 75.03,
     "store_url": "https://store.steampowered.com/app/292120",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/292120/capsule_231x87.jpg"
@@ -2044,8 +2044,8 @@
     "name": "World of Tanks Blitz",
     "total_reviews_jp": 402,
     "positive_rate_jp": 58.96,
-    "total_reviews_all": 150698,
-    "positive_rate_all": 78.32,
+    "total_reviews_all": 150707,
+    "positive_rate_all": 78.33,
     "store_url": "https://store.steampowered.com/app/444200",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/444200/capsule_231x87.jpg"
   },
@@ -2054,7 +2054,7 @@
     "name": "Z1 Battle Royale",
     "total_reviews_jp": 558,
     "positive_rate_jp": 58.6,
-    "total_reviews_all": 203249,
+    "total_reviews_all": 203248,
     "positive_rate_all": 55.8,
     "store_url": "https://store.steampowered.com/app/433850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/433850/capsule_231x87.jpg"
@@ -2074,7 +2074,7 @@
     "name": "Resident Evil 6",
     "total_reviews_jp": 519,
     "positive_rate_jp": 57.61,
-    "total_reviews_all": 58344,
+    "total_reviews_all": 58358,
     "positive_rate_all": 78.34,
     "store_url": "https://store.steampowered.com/app/221040",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/221040/capsule_231x87.jpg"
@@ -2094,7 +2094,7 @@
     "name": "FOR HONOR™",
     "total_reviews_jp": 299,
     "positive_rate_jp": 56.86,
-    "total_reviews_all": 154709,
+    "total_reviews_all": 154736,
     "positive_rate_all": 69.39,
     "store_url": "https://store.steampowered.com/app/304390",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304390/capsule_231x87.jpg"
@@ -2104,7 +2104,7 @@
     "name": "Hero Siege",
     "total_reviews_jp": 267,
     "positive_rate_jp": 56.55,
-    "total_reviews_all": 44818,
+    "total_reviews_all": 44821,
     "positive_rate_all": 67.79,
     "store_url": "https://store.steampowered.com/app/269210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/269210/capsule_231x87.jpg"
@@ -2114,7 +2114,7 @@
     "name": "Call of Duty®: Black Ops III",
     "total_reviews_jp": 451,
     "positive_rate_jp": 55.21,
-    "total_reviews_all": 222175,
+    "total_reviews_all": 222218,
     "positive_rate_all": 84.65,
     "store_url": "https://store.steampowered.com/app/311210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311210/capsule_231x87.jpg"
@@ -2122,9 +2122,9 @@
   {
     "appid": 381210,
     "name": "Dead by Daylight",
-    "total_reviews_jp": 6938,
-    "positive_rate_jp": 55.13,
-    "total_reviews_all": 858708,
+    "total_reviews_jp": 6943,
+    "positive_rate_jp": 55.15,
+    "total_reviews_all": 858931,
     "positive_rate_all": 78.59,
     "store_url": "https://store.steampowered.com/app/381210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/381210/capsule_231x87.jpg"
@@ -2134,7 +2134,7 @@
     "name": "Street Fighter V",
     "total_reviews_jp": 981,
     "positive_rate_jp": 53.31,
-    "total_reviews_all": 43941,
+    "total_reviews_all": 43946,
     "positive_rate_all": 67.85,
     "store_url": "https://store.steampowered.com/app/310950",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/310950/capsule_231x87.jpg"
@@ -2144,8 +2144,8 @@
     "name": "Watch_Dogs™",
     "total_reviews_jp": 288,
     "positive_rate_jp": 53.12,
-    "total_reviews_all": 47915,
-    "positive_rate_all": 78.77,
+    "total_reviews_all": 47924,
+    "positive_rate_all": 78.78,
     "store_url": "https://store.steampowered.com/app/243470",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/243470/capsule_231x87.jpg"
   },
@@ -2154,7 +2154,7 @@
     "name": "SteamVR",
     "total_reviews_jp": 256,
     "positive_rate_jp": 53.12,
-    "total_reviews_all": 76673,
+    "total_reviews_all": 76701,
     "positive_rate_all": 87.05,
     "store_url": "https://store.steampowered.com/app/250820",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/250820/capsule_231x87.jpg"
@@ -2164,8 +2164,8 @@
     "name": "Tom Clancy’s The Division™",
     "total_reviews_jp": 528,
     "positive_rate_jp": 51.7,
-    "total_reviews_all": 94177,
-    "positive_rate_all": 70.63,
+    "total_reviews_all": 94194,
+    "positive_rate_all": 70.64,
     "store_url": "https://store.steampowered.com/app/365590",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/365590/capsule_231x87.jpg"
   },
@@ -2184,7 +2184,7 @@
     "name": "Call of Duty®: WWII",
     "total_reviews_jp": 247,
     "positive_rate_jp": 44.94,
-    "total_reviews_all": 44645,
+    "total_reviews_all": 44648,
     "positive_rate_all": 69.75,
     "store_url": "https://store.steampowered.com/app/476600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/476600/capsule_231x87.jpg"
@@ -2214,8 +2214,8 @@
     "name": "FINAL FANTASY® XIII-2",
     "total_reviews_jp": 243,
     "positive_rate_jp": 39.51,
-    "total_reviews_all": 5991,
-    "positive_rate_all": 58.42,
+    "total_reviews_all": 5992,
+    "positive_rate_all": 58.43,
     "store_url": "https://store.steampowered.com/app/292140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/292140/capsule_231x87.jpg"
   },
