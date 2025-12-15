@@ -23,8 +23,37 @@
 
   h1 {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     color: #f1f5f9;
+  }
+
+  /* フィルタUI */
+  .filters {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin: 20px 0;
+    flex-wrap: wrap;
+  }
+
+  .filters input {
+    padding: 8px;
+    width: 180px;
+    border-radius: 6px;
+    border: none;
+  }
+
+  .filters button {
+    padding: 8px 14px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    background: #334155;
+    color: #e5e7eb;
+  }
+
+  .filters button:hover {
+    background: #475569;
   }
 
   table {
@@ -40,8 +69,8 @@
   }
 
   th, td {
-    padding: 14px;
-    font-size: 16px;
+    padding: 16px;
+    font-size: 15px;
     text-align: center;
     border-bottom: 1px solid #25314a;
   }
@@ -52,22 +81,21 @@
   }
 
   .rank-col {
-    width: 50px;
+    width: 60px;
   }
 
   .game-cell {
     display: flex;
     align-items: center;
-    gap: 14px;
+    gap: 16px;
     text-align: left;
-    min-height: 80px
   }
 
   .game-img {
-    width: 144px;
+    width: 145px;
     height: 60px;
     object-fit: cover;
-    border-radius: 4px;
+    border-radius: 6px;
   }
 
   a {
@@ -79,16 +107,10 @@
     color: #38bdf8;
   }
 
-  /* ランク色付け */
-  tr:nth-child(1) {
-    background: rgba(255,215,0,0.12);
-  }
-  tr:nth-child(2) {
-    background: rgba(192,192,192,0.12);
-  }
-  tr:nth-child(3) {
-    background: rgba(205,127,50,0.12);
-  }
+  /* 上位ランク強調 */
+  tr:nth-child(1) { background: rgba(255,215,0,0.12); }
+  tr:nth-child(2) { background: rgba(192,192,192,0.12); }
+  tr:nth-child(3) { background: rgba(205,127,50,0.12); }
 
   /* スマホ対応 */
   @media (max-width: 720px) {
@@ -98,22 +120,23 @@
       display: none;
     }
   }
-   td:nth-child(3),
-  td:nth-child(5) {
-    color: #4ade80;
-    font-weight: bold;
-    font-size: 18px;
-  }
-  
 </style>
-
 </head>
-<body>
 
+<body>
 <div class="container">
   <h1>Steam 日本語レビュー高評価ランキング</h1>
 
-  <table id="ranking-table">
+  <!-- フィルタUI -->
+  <div class="filters">
+    <input id="year-from" type="number" placeholder="発売年 From (例: 2018)">
+    <input id="year-to" type="number" placeholder="発売年 To (例: 2024)">
+    <input id="min-reviews" type="number" placeholder="日本語レビュー数 ≥ 200">
+    <button onclick="applyFilter()">絞り込み</button>
+    <button onclick="resetFilter()">リセット</button>
+  </div>
+
+  <table>
     <thead>
       <tr>
         <th class="rank-col">順位</th>
@@ -129,42 +152,74 @@
 </div>
 
 <script>
-  function extractYear(dateStr) {
-  if (!dateStr) return "-";
-  // 例: "2025年5月15日" → 2025
-  const match = dateStr.match(/^(\d{4})/);
-  return match ? match[1] : "-";
+let allGames = [];
+
+// "2025年5月15日" → 2025
+function extractYear(dateStr) {
+  if (!dateStr) return null;
+  const m = dateStr.match(/^(\d{4})/);
+  return m ? Number(m[1]) : null;
 }
 
 async function loadGames() {
   const res = await fetch("data.json");
-  const games = await res.json();
+  allGames = await res.json();
 
-  // 念のためランク順にソート
-  games.sort((a, b) => (b.positive_rate_jp || 0) - (a.positive_rate_jp || 0));
+  // 日本語高評価率でソート
+  allGames.sort((a, b) => (b.positive_rate_jp || 0) - (a.positive_rate_jp || 0));
 
+  renderTable(allGames);
+}
+
+function renderTable(games) {
   const tbody = document.getElementById("table-body");
+  tbody.innerHTML = "";
+
   games.forEach((g, i) => {
+    const year = extractYear(g.release_date);
+
     const tr = document.createElement("tr");
     tr.innerHTML = `
       <td class="rank-col">${i + 1}</td>
       <td>
         <a href="${g.store_url}" target="_blank" class="game-cell">
-          <img src="${g.image_url}" class="game-img" />
-          <span>${g.name} (${extractYear(g.release_date)})</span>
+          <img src="${g.image_url}" class="game-img">
+          <span>${g.name} (${year ?? "-"})</span>
         </a>
       </td>
-      <td>${g.positive_rate_jp}%</td>
+      <td style="color:#4ade80; font-weight:600;">${g.positive_rate_jp}%</td>
       <td>${g.total_reviews_jp}</td>
-      <td>${g.positive_rate_all}%</td>
-      <td>${g.total_reviews_all}</td>
+      <td>${g.positive_rate_all ?? "-"}%</td>
+      <td>${g.total_reviews_all ?? "-"}</td>
     `;
     tbody.appendChild(tr);
   });
 }
 
+function applyFilter() {
+  const from = Number(document.getElementById("year-from").value);
+  const to = Number(document.getElementById("year-to").value);
+  const minReviews = Number(document.getElementById("min-reviews").value);
+
+  const filtered = allGames.filter(g => {
+    const y = extractYear(g.release_date);
+    if (from && (!y || y < from)) return false;
+    if (to && (!y || y > to)) return false;
+    if (minReviews && g.total_reviews_jp < minReviews) return false;
+    return true;
+  });
+
+  renderTable(filtered);
+}
+
+function resetFilter() {
+  document.getElementById("year-from").value = "";
+  document.getElementById("year-to").value = "";
+  document.getElementById("min-reviews").value = "";
+  renderTable(allGames);
+}
+
 loadGames();
 </script>
-
 </body>
 </html>
