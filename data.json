@@ -5,7 +5,7 @@
     "release_date": "2015年8月17日",
     "total_reviews_jp": 201,
     "positive_rate_jp": 99.5,
-    "total_reviews_all": 17591,
+    "total_reviews_all": 17590,
     "positive_rate_all": 93.75,
     "store_url": "https://store.steampowered.com/app/385800",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/385800/capsule_231x87.jpg"
@@ -27,7 +27,7 @@
     "release_date": "2009年5月14日",
     "total_reviews_jp": 526,
     "positive_rate_jp": 97.34,
-    "total_reviews_all": 68032,
+    "total_reviews_all": 68041,
     "positive_rate_all": 95.2,
     "store_url": "https://store.steampowered.com/app/1250",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1250/capsule_231x87.jpg"
@@ -38,8 +38,8 @@
     "release_date": "2014年12月29日",
     "total_reviews_jp": 332,
     "positive_rate_jp": 97.29,
-    "total_reviews_all": 27073,
-    "positive_rate_all": 95.13,
+    "total_reviews_all": 27070,
+    "positive_rate_all": 95.12,
     "store_url": "https://store.steampowered.com/app/333600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/333600/capsule_231x87.jpg"
   },
@@ -47,9 +47,9 @@
     "appid": 427520,
     "name": "Factorio",
     "release_date": "2020年8月14日",
-    "total_reviews_jp": 1549,
+    "total_reviews_jp": 1550,
     "positive_rate_jp": 97.16,
-    "total_reviews_all": 221509,
+    "total_reviews_all": 221559,
     "positive_rate_all": 97.45,
     "store_url": "https://store.steampowered.com/app/427520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/427520/capsule_231x87.jpg"
@@ -60,7 +60,7 @@
     "release_date": "2016年2月2日",
     "total_reviews_jp": 376,
     "positive_rate_jp": 96.81,
-    "total_reviews_all": 182553,
+    "total_reviews_all": 182600,
     "positive_rate_all": 96.97,
     "store_url": "https://store.steampowered.com/app/270880",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/270880/capsule_231x87.jpg"
@@ -71,7 +71,7 @@
     "release_date": "2011年4月18日",
     "total_reviews_jp": 1156,
     "positive_rate_jp": 96.45,
-    "total_reviews_all": 447391,
+    "total_reviews_all": 447461,
     "positive_rate_all": 98.7,
     "store_url": "https://store.steampowered.com/app/620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/620/capsule_231x87.jpg"
@@ -82,7 +82,7 @@
     "release_date": "2015年10月16日",
     "total_reviews_jp": 219,
     "positive_rate_jp": 96.35,
-    "total_reviews_all": 17349,
+    "total_reviews_all": 17348,
     "positive_rate_all": 95.85,
     "store_url": "https://store.steampowered.com/app/406150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/406150/capsule_231x87.jpg"
@@ -93,21 +93,10 @@
     "release_date": "2013年11月8日",
     "total_reviews_jp": 283,
     "positive_rate_jp": 96.11,
-    "total_reviews_all": 29751,
-    "positive_rate_all": 93.09,
+    "total_reviews_all": 29749,
+    "positive_rate_all": 93.1,
     "store_url": "https://store.steampowered.com/app/248820",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/248820/capsule_231x87.jpg"
-  },
-  {
-    "appid": 4000,
-    "name": "Garry's Mod",
-    "release_date": "2006年11月29日",
-    "total_reviews_jp": 1650,
-    "positive_rate_jp": 96.06,
-    "total_reviews_all": 1199138,
-    "positive_rate_all": 96.82,
-    "store_url": "https://store.steampowered.com/app/4000",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/4000/capsule_231x87.jpg"
   },
   {
     "appid": 239030,
@@ -115,10 +104,21 @@
     "release_date": "2013年8月8日",
     "total_reviews_jp": 608,
     "positive_rate_jp": 96.05,
-    "total_reviews_all": 77042,
+    "total_reviews_all": 77058,
     "positive_rate_all": 97.29,
     "store_url": "https://store.steampowered.com/app/239030",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/239030/capsule_231x87.jpg"
+  },
+  {
+    "appid": 4000,
+    "name": "Garry's Mod",
+    "release_date": "2006年11月29日",
+    "total_reviews_jp": 1650,
+    "positive_rate_jp": 96.0,
+    "total_reviews_all": 1199344,
+    "positive_rate_all": 96.82,
+    "store_url": "https://store.steampowered.com/app/4000",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/4000/capsule_231x87.jpg"
   },
   {
     "appid": 221640,
@@ -137,7 +137,7 @@
     "release_date": "2014年7月28日",
     "total_reviews_jp": 219,
     "positive_rate_jp": 95.89,
-    "total_reviews_all": 30247,
+    "total_reviews_all": 30251,
     "positive_rate_all": 97.78,
     "store_url": "https://store.steampowered.com/app/288160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/288160/capsule_231x87.jpg"
@@ -148,8 +148,8 @@
     "release_date": "2014年2月28日",
     "total_reviews_jp": 351,
     "positive_rate_jp": 95.73,
-    "total_reviews_all": 4097,
-    "positive_rate_all": 94.04,
+    "total_reviews_all": 4098,
+    "positive_rate_all": 94.05,
     "store_url": "https://store.steampowered.com/app/266210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/266210/capsule_231x87.jpg"
   },
@@ -159,7 +159,7 @@
     "release_date": "2015年3月5日",
     "total_reviews_jp": 204,
     "positive_rate_jp": 95.59,
-    "total_reviews_all": 4923,
+    "total_reviews_all": 4924,
     "positive_rate_all": 84.52,
     "store_url": "https://store.steampowered.com/app/353560",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/353560/capsule_231x87.jpg"
@@ -168,9 +168,9 @@
     "appid": 220200,
     "name": "Kerbal Space Program",
     "release_date": "2015年4月27日",
-    "total_reviews_jp": 561,
-    "positive_rate_jp": 95.19,
-    "total_reviews_all": 131017,
+    "total_reviews_jp": 562,
+    "positive_rate_jp": 95.2,
+    "total_reviews_all": 131037,
     "positive_rate_all": 95.22,
     "store_url": "https://store.steampowered.com/app/220200",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/220200/capsule_231x87.jpg"
@@ -181,7 +181,7 @@
     "release_date": "2007年10月10日",
     "total_reviews_jp": 928,
     "positive_rate_jp": 95.15,
-    "total_reviews_all": 186606,
+    "total_reviews_all": 186656,
     "positive_rate_all": 98.5,
     "store_url": "https://store.steampowered.com/app/400",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/400/capsule_231x87.jpg"
@@ -192,8 +192,8 @@
     "release_date": "2012年10月12日",
     "total_reviews_jp": 2016,
     "positive_rate_jp": 95.14,
-    "total_reviews_all": 878519,
-    "positive_rate_all": 97.49,
+    "total_reviews_all": 878801,
+    "positive_rate_all": 97.5,
     "store_url": "https://store.steampowered.com/app/227300",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/227300/capsule_231x87.jpg"
   },
@@ -203,7 +203,7 @@
     "release_date": "2016年7月25日",
     "total_reviews_jp": 347,
     "positive_rate_jp": 95.1,
-    "total_reviews_all": 12086,
+    "total_reviews_all": 12085,
     "positive_rate_all": 95.06,
     "store_url": "https://store.steampowered.com/app/495890",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/495890/capsule_231x87.jpg"
@@ -214,7 +214,7 @@
     "release_date": "2004年11月1日",
     "total_reviews_jp": 243,
     "positive_rate_jp": 95.06,
-    "total_reviews_all": 187109,
+    "total_reviews_all": 187118,
     "positive_rate_all": 96.28,
     "store_url": "https://store.steampowered.com/app/240",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/240/capsule_231x87.jpg"
@@ -225,7 +225,7 @@
     "release_date": "2018年1月25日",
     "total_reviews_jp": 503,
     "positive_rate_jp": 94.83,
-    "total_reviews_all": 132367,
+    "total_reviews_all": 132420,
     "positive_rate_all": 97.43,
     "store_url": "https://store.steampowered.com/app/504230",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/504230/capsule_231x87.jpg"
@@ -236,7 +236,7 @@
     "release_date": "2015年10月15日",
     "total_reviews_jp": 237,
     "positive_rate_jp": 94.51,
-    "total_reviews_all": 8398,
+    "total_reviews_all": 8399,
     "positive_rate_all": 96.58,
     "store_url": "https://store.steampowered.com/app/360740",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/360740/capsule_231x87.jpg"
@@ -247,8 +247,8 @@
     "release_date": "2016年3月4日",
     "total_reviews_jp": 307,
     "positive_rate_jp": 94.46,
-    "total_reviews_all": 50604,
-    "positive_rate_all": 95.8,
+    "total_reviews_all": 50628,
+    "positive_rate_all": 95.79,
     "store_url": "https://store.steampowered.com/app/386940",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/386940/capsule_231x87.jpg"
   },
@@ -258,7 +258,7 @@
     "release_date": "2014年11月4日",
     "total_reviews_jp": 268,
     "positive_rate_jp": 94.4,
-    "total_reviews_all": 370128,
+    "total_reviews_all": 370230,
     "positive_rate_all": 97.27,
     "store_url": "https://store.steampowered.com/app/250900",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/250900/capsule_231x87.jpg"
@@ -269,7 +269,7 @@
     "release_date": "2009年11月16日",
     "total_reviews_jp": 2549,
     "positive_rate_jp": 94.39,
-    "total_reviews_all": 1002847,
+    "total_reviews_all": 1003010,
     "positive_rate_all": 97.54,
     "store_url": "https://store.steampowered.com/app/550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/550/capsule_231x87.jpg"
@@ -280,7 +280,7 @@
     "release_date": "2012年10月10日",
     "total_reviews_jp": 231,
     "positive_rate_jp": 94.37,
-    "total_reviews_all": 84235,
+    "total_reviews_all": 84247,
     "positive_rate_all": 97.6,
     "store_url": "https://store.steampowered.com/app/205100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/205100/capsule_231x87.jpg"
@@ -291,7 +291,7 @@
     "release_date": "2016年2月26日",
     "total_reviews_jp": 1816,
     "positive_rate_jp": 94.33,
-    "total_reviews_all": 953664,
+    "total_reviews_all": 953918,
     "positive_rate_all": 98.46,
     "store_url": "https://store.steampowered.com/app/413150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413150/capsule_231x87.jpg"
@@ -302,7 +302,7 @@
     "release_date": "2016年12月8日",
     "total_reviews_jp": 1122,
     "positive_rate_jp": 94.3,
-    "total_reviews_all": 58824,
+    "total_reviews_all": 58863,
     "positive_rate_all": 98.33,
     "store_url": "https://store.steampowered.com/app/420530",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/420530/capsule_231x87.jpg"
@@ -311,9 +311,9 @@
     "appid": 105600,
     "name": "Terraria",
     "release_date": "2011年5月16日",
-    "total_reviews_jp": 4246,
+    "total_reviews_jp": 4247,
     "positive_rate_jp": 94.28,
-    "total_reviews_all": 1457910,
+    "total_reviews_all": 1458165,
     "positive_rate_all": 97.44,
     "store_url": "https://store.steampowered.com/app/105600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/105600/capsule_231x87.jpg"
@@ -324,7 +324,7 @@
     "release_date": "2017年8月1日",
     "total_reviews_jp": 331,
     "positive_rate_jp": 94.26,
-    "total_reviews_all": 146895,
+    "total_reviews_all": 146927,
     "positive_rate_all": 97.98,
     "store_url": "https://store.steampowered.com/app/433340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/433340/capsule_231x87.jpg"
@@ -335,7 +335,7 @@
     "release_date": "2015年1月29日",
     "total_reviews_jp": 626,
     "positive_rate_jp": 94.25,
-    "total_reviews_all": 171002,
+    "total_reviews_all": 171011,
     "positive_rate_all": 96.21,
     "store_url": "https://store.steampowered.com/app/319630",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/319630/capsule_231x87.jpg"
@@ -346,7 +346,7 @@
     "release_date": "2011年11月14日",
     "total_reviews_jp": 240,
     "positive_rate_jp": 94.17,
-    "total_reviews_all": 69025,
+    "total_reviews_all": 69028,
     "positive_rate_all": 95.67,
     "store_url": "https://store.steampowered.com/app/55230",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/55230/capsule_231x87.jpg"
@@ -355,9 +355,9 @@
     "appid": 294100,
     "name": "RimWorld",
     "release_date": "2018年10月17日",
-    "total_reviews_jp": 1720,
+    "total_reviews_jp": 1722,
     "positive_rate_jp": 94.13,
-    "total_reviews_all": 229090,
+    "total_reviews_all": 229145,
     "positive_rate_all": 97.91,
     "store_url": "https://store.steampowered.com/app/294100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/294100/capsule_231x87.jpg"
@@ -368,7 +368,7 @@
     "release_date": "2020年2月18日",
     "total_reviews_jp": 358,
     "positive_rate_jp": 94.13,
-    "total_reviews_all": 51517,
+    "total_reviews_all": 51521,
     "positive_rate_all": 95.27,
     "store_url": "https://store.steampowered.com/app/346010",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/346010/capsule_231x87.jpg"
@@ -379,8 +379,8 @@
     "release_date": "2014年4月1日",
     "total_reviews_jp": 608,
     "positive_rate_jp": 94.08,
-    "total_reviews_all": 69212,
-    "positive_rate_all": 90.86,
+    "total_reviews_all": 69219,
+    "positive_rate_all": 90.85,
     "store_url": "https://store.steampowered.com/app/265930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/265930/capsule_231x87.jpg"
   },
@@ -390,7 +390,7 @@
     "release_date": "2017年9月29日",
     "total_reviews_jp": 412,
     "positive_rate_jp": 93.69,
-    "total_reviews_all": 198875,
+    "total_reviews_all": 198924,
     "positive_rate_all": 96.25,
     "store_url": "https://store.steampowered.com/app/268910",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/268910/capsule_231x87.jpg"
@@ -401,7 +401,7 @@
     "release_date": "2012年11月2日",
     "total_reviews_jp": 253,
     "positive_rate_jp": 93.68,
-    "total_reviews_all": 125364,
+    "total_reviews_all": 125411,
     "positive_rate_all": 96.95,
     "store_url": "https://store.steampowered.com/app/223470",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/223470/capsule_231x87.jpg"
@@ -412,7 +412,7 @@
     "release_date": "2014年2月18日",
     "total_reviews_jp": 535,
     "positive_rate_jp": 93.64,
-    "total_reviews_all": 42692,
+    "total_reviews_all": 42698,
     "positive_rate_all": 90.4,
     "store_url": "https://store.steampowered.com/app/242920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/242920/capsule_231x87.jpg"
@@ -423,7 +423,7 @@
     "release_date": "2011年7月29日",
     "total_reviews_jp": 811,
     "positive_rate_jp": 93.59,
-    "total_reviews_all": 207203,
+    "total_reviews_all": 207225,
     "positive_rate_all": 95.57,
     "store_url": "https://store.steampowered.com/app/8930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/8930/capsule_231x87.jpg"
@@ -434,7 +434,7 @@
     "release_date": "2016年7月7日",
     "total_reviews_jp": 296,
     "positive_rate_jp": 93.58,
-    "total_reviews_all": 71697,
+    "total_reviews_all": 71710,
     "positive_rate_all": 96.98,
     "store_url": "https://store.steampowered.com/app/304430",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304430/capsule_231x87.jpg"
@@ -445,7 +445,7 @@
     "release_date": "2019年4月18日",
     "total_reviews_jp": 217,
     "positive_rate_jp": 93.55,
-    "total_reviews_all": 73395,
+    "total_reviews_all": 73403,
     "positive_rate_all": 98.01,
     "store_url": "https://store.steampowered.com/app/460950",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/460950/capsule_231x87.jpg"
@@ -465,9 +465,9 @@
     "appid": 284160,
     "name": "BeamNG.drive",
     "release_date": "2015年5月29日",
-    "total_reviews_jp": 489,
-    "positive_rate_jp": 93.25,
-    "total_reviews_all": 359856,
+    "total_reviews_jp": 490,
+    "positive_rate_jp": 93.27,
+    "total_reviews_all": 360087,
     "positive_rate_all": 97.41,
     "store_url": "https://store.steampowered.com/app/284160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/284160/capsule_231x87.jpg"
@@ -478,7 +478,7 @@
     "release_date": "2012年10月23日",
     "total_reviews_jp": 401,
     "positive_rate_jp": 93.02,
-    "total_reviews_all": 117544,
+    "total_reviews_all": 117565,
     "positive_rate_all": 97.04,
     "store_url": "https://store.steampowered.com/app/219150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219150/capsule_231x87.jpg"
@@ -489,7 +489,7 @@
     "release_date": "2018年12月6日",
     "total_reviews_jp": 1499,
     "positive_rate_jp": 93.0,
-    "total_reviews_all": 106198,
+    "total_reviews_all": 106227,
     "positive_rate_all": 95.55,
     "store_url": "https://store.steampowered.com/app/233860",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/233860/capsule_231x87.jpg"
@@ -500,7 +500,7 @@
     "release_date": "2013年8月22日",
     "total_reviews_jp": 243,
     "positive_rate_jp": 93.0,
-    "total_reviews_all": 31744,
+    "total_reviews_all": 31745,
     "positive_rate_all": 87.92,
     "store_url": "https://store.steampowered.com/app/245170",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/245170/capsule_231x87.jpg"
@@ -511,8 +511,8 @@
     "release_date": "2016年9月8日",
     "total_reviews_jp": 381,
     "positive_rate_jp": 92.91,
-    "total_reviews_all": 24225,
-    "positive_rate_all": 97.16,
+    "total_reviews_all": 24241,
+    "positive_rate_all": 97.15,
     "store_url": "https://store.steampowered.com/app/412830",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/412830/capsule_231x87.jpg"
   },
@@ -522,7 +522,7 @@
     "release_date": "2015年9月21日",
     "total_reviews_jp": 222,
     "positive_rate_jp": 92.79,
-    "total_reviews_all": 47824,
+    "total_reviews_all": 47897,
     "positive_rate_all": 95.93,
     "store_url": "https://store.steampowered.com/app/282140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282140/capsule_231x87.jpg"
@@ -533,8 +533,8 @@
     "release_date": "2013年4月23日",
     "total_reviews_jp": 263,
     "positive_rate_jp": 92.78,
-    "total_reviews_all": 111486,
-    "positive_rate_all": 96.59,
+    "total_reviews_all": 111494,
+    "positive_rate_all": 96.58,
     "store_url": "https://store.steampowered.com/app/219740",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219740/capsule_231x87.jpg"
   },
@@ -544,7 +544,7 @@
     "release_date": "2012年9月26日",
     "total_reviews_jp": 221,
     "positive_rate_jp": 92.76,
-    "total_reviews_all": 133067,
+    "total_reviews_all": 133093,
     "positive_rate_all": 96.2,
     "store_url": "https://store.steampowered.com/app/204360",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/204360/capsule_231x87.jpg"
@@ -555,7 +555,7 @@
     "release_date": "2015年10月23日",
     "total_reviews_jp": 221,
     "positive_rate_jp": 92.76,
-    "total_reviews_all": 23061,
+    "total_reviews_all": 23064,
     "positive_rate_all": 92.32,
     "store_url": "https://store.steampowered.com/app/246900",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/246900/capsule_231x87.jpg"
@@ -566,7 +566,7 @@
     "release_date": "2018年1月23日",
     "total_reviews_jp": 986,
     "positive_rate_jp": 92.7,
-    "total_reviews_all": 331299,
+    "total_reviews_all": 331376,
     "positive_rate_all": 96.99,
     "store_url": "https://store.steampowered.com/app/264710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/264710/capsule_231x87.jpg"
@@ -577,7 +577,7 @@
     "release_date": "2016年4月18日",
     "total_reviews_jp": 332,
     "positive_rate_jp": 92.47,
-    "total_reviews_all": 27957,
+    "total_reviews_all": 27984,
     "positive_rate_all": 96.15,
     "store_url": "https://store.steampowered.com/app/413420",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413420/capsule_231x87.jpg"
@@ -588,7 +588,7 @@
     "release_date": "2000年11月1日",
     "total_reviews_jp": 207,
     "positive_rate_jp": 92.27,
-    "total_reviews_all": 255453,
+    "total_reviews_all": 255461,
     "positive_rate_all": 97.42,
     "store_url": "https://store.steampowered.com/app/10",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/10/capsule_231x87.jpg"
@@ -599,7 +599,7 @@
     "release_date": "2015年4月23日",
     "total_reviews_jp": 489,
     "positive_rate_jp": 92.23,
-    "total_reviews_all": 26039,
+    "total_reviews_all": 26041,
     "positive_rate_all": 95.52,
     "store_url": "https://store.steampowered.com/app/247080",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/247080/capsule_231x87.jpg"
@@ -610,7 +610,7 @@
     "release_date": "2016年8月2日",
     "total_reviews_jp": 283,
     "positive_rate_jp": 92.23,
-    "total_reviews_all": 26783,
+    "total_reviews_all": 26785,
     "positive_rate_all": 92.93,
     "store_url": "https://store.steampowered.com/app/384190",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/384190/capsule_231x87.jpg"
@@ -621,7 +621,7 @@
     "release_date": "2015年8月12日",
     "total_reviews_jp": 294,
     "positive_rate_jp": 92.18,
-    "total_reviews_all": 25613,
+    "total_reviews_all": 25615,
     "positive_rate_all": 93.56,
     "store_url": "https://store.steampowered.com/app/365450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/365450/capsule_231x87.jpg"
@@ -632,7 +632,7 @@
     "release_date": "2019年7月30日",
     "total_reviews_jp": 625,
     "positive_rate_jp": 92.16,
-    "total_reviews_all": 135781,
+    "total_reviews_all": 135806,
     "positive_rate_all": 96.79,
     "store_url": "https://store.steampowered.com/app/457140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/457140/capsule_231x87.jpg"
@@ -643,7 +643,7 @@
     "release_date": "2015年3月10日",
     "total_reviews_jp": 1590,
     "positive_rate_jp": 92.01,
-    "total_reviews_all": 281757,
+    "total_reviews_all": 281776,
     "positive_rate_all": 92.97,
     "store_url": "https://store.steampowered.com/app/255710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/255710/capsule_231x87.jpg"
@@ -654,7 +654,7 @@
     "release_date": "2016年1月28日",
     "total_reviews_jp": 435,
     "positive_rate_jp": 91.95,
-    "total_reviews_all": 12038,
+    "total_reviews_all": 12040,
     "positive_rate_all": 95.6,
     "store_url": "https://store.steampowered.com/app/400910",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/400910/capsule_231x87.jpg"
@@ -665,8 +665,8 @@
     "release_date": "2010年3月31日",
     "total_reviews_jp": 418,
     "positive_rate_jp": 91.87,
-    "total_reviews_all": 168925,
-    "positive_rate_all": 97.72,
+    "total_reviews_all": 168936,
+    "positive_rate_all": 97.73,
     "store_url": "https://store.steampowered.com/app/48700",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/48700/capsule_231x87.jpg"
   },
@@ -676,7 +676,7 @@
     "release_date": "2014年1月22日",
     "total_reviews_jp": 276,
     "positive_rate_jp": 91.67,
-    "total_reviews_all": 124735,
+    "total_reviews_all": 124731,
     "positive_rate_all": 91.64,
     "store_url": "https://store.steampowered.com/app/222880",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/222880/capsule_231x87.jpg"
@@ -687,7 +687,7 @@
     "release_date": "2016年7月22日",
     "total_reviews_jp": 774,
     "positive_rate_jp": 91.47,
-    "total_reviews_all": 220014,
+    "total_reviews_all": 220051,
     "positive_rate_all": 94.66,
     "store_url": "https://store.steampowered.com/app/477160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/477160/capsule_231x87.jpg"
@@ -698,7 +698,7 @@
     "release_date": "2015年5月13日",
     "total_reviews_jp": 304,
     "positive_rate_jp": 91.45,
-    "total_reviews_all": 61690,
+    "total_reviews_all": 61695,
     "positive_rate_all": 89.65,
     "store_url": "https://store.steampowered.com/app/363970",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/363970/capsule_231x87.jpg"
@@ -709,7 +709,7 @@
     "release_date": "2016年4月21日",
     "total_reviews_jp": 581,
     "positive_rate_jp": 91.39,
-    "total_reviews_all": 521308,
+    "total_reviews_all": 521359,
     "positive_rate_all": 95.14,
     "store_url": "https://store.steampowered.com/app/322330",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/322330/capsule_231x87.jpg"
@@ -720,7 +720,7 @@
     "release_date": "2016年6月21日",
     "total_reviews_jp": 579,
     "positive_rate_jp": 91.19,
-    "total_reviews_all": 37422,
+    "total_reviews_all": 37425,
     "positive_rate_all": 97.39,
     "store_url": "https://store.steampowered.com/app/447530",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/447530/capsule_231x87.jpg"
@@ -731,7 +731,7 @@
     "release_date": "2013年4月9日",
     "total_reviews_jp": 249,
     "positive_rate_jp": 91.16,
-    "total_reviews_all": 102001,
+    "total_reviews_all": 102008,
     "positive_rate_all": 95.81,
     "store_url": "https://store.steampowered.com/app/221380",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/221380/capsule_231x87.jpg"
@@ -742,7 +742,7 @@
     "release_date": "2010年10月21日",
     "total_reviews_jp": 384,
     "positive_rate_jp": 91.15,
-    "total_reviews_all": 236252,
+    "total_reviews_all": 236309,
     "positive_rate_all": 95.97,
     "store_url": "https://store.steampowered.com/app/22380",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/22380/capsule_231x87.jpg"
@@ -751,9 +751,9 @@
     "appid": 394360,
     "name": "Hearts of Iron IV",
     "release_date": "2016年6月6日",
-    "total_reviews_jp": 2075,
-    "positive_rate_jp": 91.08,
-    "total_reviews_all": 350615,
+    "total_reviews_jp": 2076,
+    "positive_rate_jp": 91.09,
+    "total_reviews_all": 350690,
     "positive_rate_all": 90.52,
     "store_url": "https://store.steampowered.com/app/394360",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/394360/capsule_231x87.jpg"
@@ -773,9 +773,9 @@
     "appid": 391540,
     "name": "Undertale",
     "release_date": "2015年9月15日",
-    "total_reviews_jp": 2467,
+    "total_reviews_jp": 2468,
     "positive_rate_jp": 90.76,
-    "total_reviews_all": 307014,
+    "total_reviews_all": 307133,
     "positive_rate_all": 96.77,
     "store_url": "https://store.steampowered.com/app/391540",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/391540/capsule_231x87.jpg"
@@ -797,7 +797,7 @@
     "release_date": "2014年7月25日",
     "total_reviews_jp": 219,
     "positive_rate_jp": 90.41,
-    "total_reviews_all": 8066,
+    "total_reviews_all": 8068,
     "positive_rate_all": 91.41,
     "store_url": "https://store.steampowered.com/app/233980",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/233980/capsule_231x87.jpg"
@@ -806,9 +806,9 @@
     "appid": 220,
     "name": "Half-Life 2",
     "release_date": "2004年11月16日",
-    "total_reviews_jp": 352,
-    "positive_rate_jp": 90.34,
-    "total_reviews_all": 260255,
+    "total_reviews_jp": 353,
+    "positive_rate_jp": 90.37,
+    "total_reviews_all": 260374,
     "positive_rate_all": 97.61,
     "store_url": "https://store.steampowered.com/app/220",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/220/capsule_231x87.jpg"
@@ -830,8 +830,8 @@
     "release_date": "2025年7月22日",
     "total_reviews_jp": 282,
     "positive_rate_jp": 89.72,
-    "total_reviews_all": 49049,
-    "positive_rate_all": 96.0,
+    "total_reviews_all": 49078,
+    "positive_rate_all": 95.99,
     "store_url": "https://store.steampowered.com/app/427410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/427410/capsule_231x87.jpg"
   },
@@ -841,7 +841,7 @@
     "release_date": "2012年9月14日",
     "total_reviews_jp": 666,
     "positive_rate_jp": 89.49,
-    "total_reviews_all": 76707,
+    "total_reviews_all": 76721,
     "positive_rate_all": 95.2,
     "store_url": "https://store.steampowered.com/app/212680",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/212680/capsule_231x87.jpg"
@@ -852,7 +852,7 @@
     "release_date": "2015年6月24日",
     "total_reviews_jp": 295,
     "positive_rate_jp": 89.49,
-    "total_reviews_all": 10002,
+    "total_reviews_all": 10006,
     "positive_rate_all": 89.5,
     "store_url": "https://store.steampowered.com/app/368370",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/368370/capsule_231x87.jpg"
@@ -863,7 +863,7 @@
     "release_date": "2013年9月4日",
     "total_reviews_jp": 504,
     "positive_rate_jp": 89.29,
-    "total_reviews_all": 130183,
+    "total_reviews_all": 130237,
     "positive_rate_all": 96.44,
     "store_url": "https://store.steampowered.com/app/238320",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/238320/capsule_231x87.jpg"
@@ -874,7 +874,7 @@
     "release_date": "2018年8月30日",
     "total_reviews_jp": 308,
     "positive_rate_jp": 89.29,
-    "total_reviews_all": 8504,
+    "total_reviews_all": 8506,
     "positive_rate_all": 89.44,
     "store_url": "https://store.steampowered.com/app/468920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/468920/capsule_231x87.jpg"
@@ -885,7 +885,7 @@
     "release_date": "2016年2月25日",
     "total_reviews_jp": 898,
     "positive_rate_jp": 89.2,
-    "total_reviews_all": 102734,
+    "total_reviews_all": 102740,
     "positive_rate_all": 93.74,
     "store_url": "https://store.steampowered.com/app/219990",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219990/capsule_231x87.jpg"
@@ -896,7 +896,7 @@
     "release_date": "2011年9月13日",
     "total_reviews_jp": 218,
     "positive_rate_jp": 88.99,
-    "total_reviews_all": 37752,
+    "total_reviews_all": 37753,
     "positive_rate_all": 92.56,
     "store_url": "https://store.steampowered.com/app/35450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/35450/capsule_231x87.jpg"
@@ -907,7 +907,7 @@
     "release_date": "2012年10月25日",
     "total_reviews_jp": 1125,
     "positive_rate_jp": 88.8,
-    "total_reviews_all": 308141,
+    "total_reviews_all": 308145,
     "positive_rate_all": 89.36,
     "store_url": "https://store.steampowered.com/app/49520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/49520/capsule_231x87.jpg"
@@ -918,7 +918,7 @@
     "release_date": "2007年10月10日",
     "total_reviews_jp": 1862,
     "positive_rate_jp": 88.67,
-    "total_reviews_all": 1205833,
+    "total_reviews_all": 1206008,
     "positive_rate_all": 90.62,
     "store_url": "https://store.steampowered.com/app/440",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/440/capsule_231x87.jpg"
@@ -929,7 +929,7 @@
     "release_date": "2017年7月7日",
     "total_reviews_jp": 865,
     "positive_rate_jp": 88.67,
-    "total_reviews_all": 559779,
+    "total_reviews_all": 559792,
     "positive_rate_all": 91.09,
     "store_url": "https://store.steampowered.com/app/304930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304930/capsule_231x87.jpg"
@@ -949,9 +949,9 @@
     "appid": 242760,
     "name": "The Forest",
     "release_date": "2018年4月30日",
-    "total_reviews_jp": 1175,
-    "positive_rate_jp": 88.6,
-    "total_reviews_all": 650341,
+    "total_reviews_jp": 1174,
+    "positive_rate_jp": 88.59,
+    "total_reviews_all": 650447,
     "positive_rate_all": 95.54,
     "store_url": "https://store.steampowered.com/app/242760",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/242760/capsule_231x87.jpg"
@@ -962,7 +962,7 @@
     "release_date": "2012年10月11日",
     "total_reviews_jp": 270,
     "positive_rate_jp": 88.52,
-    "total_reviews_all": 57456,
+    "total_reviews_all": 57461,
     "positive_rate_all": 93.19,
     "store_url": "https://store.steampowered.com/app/200510",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/200510/capsule_231x87.jpg"
@@ -973,7 +973,7 @@
     "release_date": "2016年5月12日",
     "total_reviews_jp": 410,
     "positive_rate_jp": 88.29,
-    "total_reviews_all": 213487,
+    "total_reviews_all": 213520,
     "positive_rate_all": 95.5,
     "store_url": "https://store.steampowered.com/app/379720",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/379720/capsule_231x87.jpg"
@@ -984,7 +984,7 @@
     "release_date": "2012年10月16日",
     "total_reviews_jp": 212,
     "positive_rate_jp": 88.21,
-    "total_reviews_all": 65284,
+    "total_reviews_all": 65281,
     "positive_rate_all": 82.54,
     "store_url": "https://store.steampowered.com/app/219640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219640/capsule_231x87.jpg"
@@ -995,7 +995,7 @@
     "release_date": "2014年8月7日",
     "total_reviews_jp": 260,
     "positive_rate_jp": 88.08,
-    "total_reviews_all": 16337,
+    "total_reviews_all": 16338,
     "positive_rate_all": 90.32,
     "store_url": "https://store.steampowered.com/app/45760",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/45760/capsule_231x87.jpg"
@@ -1006,7 +1006,7 @@
     "release_date": "2012年9月20日",
     "total_reviews_jp": 218,
     "positive_rate_jp": 88.07,
-    "total_reviews_all": 44842,
+    "total_reviews_all": 44846,
     "positive_rate_all": 92.7,
     "store_url": "https://store.steampowered.com/app/200710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/200710/capsule_231x87.jpg"
@@ -1017,7 +1017,7 @@
     "release_date": "2014年12月19日",
     "total_reviews_jp": 491,
     "positive_rate_jp": 87.98,
-    "total_reviews_all": 161626,
+    "total_reviews_all": 161683,
     "positive_rate_all": 92.74,
     "store_url": "https://store.steampowered.com/app/244210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/244210/capsule_231x87.jpg"
@@ -1039,7 +1039,7 @@
     "release_date": "2014年12月22日",
     "total_reviews_jp": 411,
     "positive_rate_jp": 87.83,
-    "total_reviews_all": 488431,
+    "total_reviews_all": 489009,
     "positive_rate_all": 93.11,
     "store_url": "https://store.steampowered.com/app/322170",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/322170/capsule_231x87.jpg"
@@ -1050,7 +1050,7 @@
     "release_date": "2012年2月16日",
     "total_reviews_jp": 326,
     "positive_rate_jp": 87.73,
-    "total_reviews_all": 54008,
+    "total_reviews_all": 54038,
     "positive_rate_all": 90.2,
     "store_url": "https://store.steampowered.com/app/108710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/108710/capsule_231x87.jpg"
@@ -1061,7 +1061,7 @@
     "release_date": "2016年3月4日",
     "total_reviews_jp": 269,
     "positive_rate_jp": 87.73,
-    "total_reviews_all": 11386,
+    "total_reviews_all": 11387,
     "positive_rate_all": 93.26,
     "store_url": "https://store.steampowered.com/app/428550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/428550/capsule_231x87.jpg"
@@ -1072,7 +1072,7 @@
     "release_date": "2016年7月22日",
     "total_reviews_jp": 396,
     "positive_rate_jp": 87.37,
-    "total_reviews_all": 122567,
+    "total_reviews_all": 122570,
     "positive_rate_all": 90.18,
     "store_url": "https://store.steampowered.com/app/211820",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/211820/capsule_231x87.jpg"
@@ -1081,9 +1081,9 @@
     "appid": 489830,
     "name": "The Elder Scrolls V: Skyrim Special Edition",
     "release_date": "2016年10月27日",
-    "total_reviews_jp": 1221,
-    "positive_rate_jp": 87.31,
-    "total_reviews_all": 352744,
+    "total_reviews_jp": 1222,
+    "positive_rate_jp": 87.32,
+    "total_reviews_all": 352828,
     "positive_rate_all": 92.16,
     "store_url": "https://store.steampowered.com/app/489830",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/489830/capsule_231x87.jpg"
@@ -1094,7 +1094,7 @@
     "release_date": "2013年4月24日",
     "total_reviews_jp": 509,
     "positive_rate_jp": 87.23,
-    "total_reviews_all": 142903,
+    "total_reviews_all": 142913,
     "positive_rate_all": 93.51,
     "store_url": "https://store.steampowered.com/app/8870",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/8870/capsule_231x87.jpg"
@@ -1105,8 +1105,8 @@
     "release_date": "2011年11月22日",
     "total_reviews_jp": 201,
     "positive_rate_jp": 87.06,
-    "total_reviews_all": 28073,
-    "positive_rate_all": 88.37,
+    "total_reviews_all": 28076,
+    "positive_rate_all": 88.36,
     "store_url": "https://store.steampowered.com/app/41070",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/41070/capsule_231x87.jpg"
   },
@@ -1116,7 +1116,7 @@
     "release_date": "2013年5月22日",
     "total_reviews_jp": 220,
     "positive_rate_jp": 86.82,
-    "total_reviews_all": 42182,
+    "total_reviews_all": 42186,
     "positive_rate_all": 94.99,
     "store_url": "https://store.steampowered.com/app/204450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/204450/capsule_231x87.jpg"
@@ -1125,9 +1125,9 @@
     "appid": 251570,
     "name": "7 Days to Die",
     "release_date": "2024年7月25日",
-    "total_reviews_jp": 3307,
-    "positive_rate_jp": 86.82,
-    "total_reviews_all": 390390,
+    "total_reviews_jp": 3309,
+    "positive_rate_jp": 86.79,
+    "total_reviews_all": 390475,
     "positive_rate_all": 87.15,
     "store_url": "https://store.steampowered.com/app/251570",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/251570/capsule_231x87.jpg"
@@ -1138,8 +1138,8 @@
     "release_date": "2013年8月13日",
     "total_reviews_jp": 369,
     "positive_rate_jp": 86.72,
-    "total_reviews_all": 134995,
-    "positive_rate_all": 87.51,
+    "total_reviews_all": 135000,
+    "positive_rate_all": 87.52,
     "store_url": "https://store.steampowered.com/app/236850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/236850/capsule_231x87.jpg"
   },
@@ -1149,7 +1149,7 @@
     "release_date": "2014年11月14日",
     "total_reviews_jp": 517,
     "positive_rate_jp": 86.46,
-    "total_reviews_all": 95665,
+    "total_reviews_all": 95684,
     "positive_rate_all": 93.92,
     "store_url": "https://store.steampowered.com/app/282070",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282070/capsule_231x87.jpg"
@@ -1160,7 +1160,7 @@
     "release_date": "2017年2月24日",
     "total_reviews_jp": 1018,
     "positive_rate_jp": 86.35,
-    "total_reviews_all": 506396,
+    "total_reviews_all": 506651,
     "positive_rate_all": 96.93,
     "store_url": "https://store.steampowered.com/app/367520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/367520/capsule_231x87.jpg"
@@ -1171,7 +1171,7 @@
     "release_date": "2016年11月17日",
     "total_reviews_jp": 364,
     "positive_rate_jp": 86.26,
-    "total_reviews_all": 70856,
+    "total_reviews_all": 70860,
     "positive_rate_all": 91.4,
     "store_url": "https://store.steampowered.com/app/493340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/493340/capsule_231x87.jpg"
@@ -1182,7 +1182,7 @@
     "release_date": "2016年11月18日",
     "total_reviews_jp": 721,
     "positive_rate_jp": 86.13,
-    "total_reviews_all": 127573,
+    "total_reviews_all": 127592,
     "positive_rate_all": 88.29,
     "store_url": "https://store.steampowered.com/app/232090",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/232090/capsule_231x87.jpg"
@@ -1193,7 +1193,7 @@
     "release_date": "2016年4月11日",
     "total_reviews_jp": 1808,
     "positive_rate_jp": 86.12,
-    "total_reviews_all": 425173,
+    "total_reviews_all": 425264,
     "positive_rate_all": 94.34,
     "store_url": "https://store.steampowered.com/app/374320",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/374320/capsule_231x87.jpg"
@@ -1204,7 +1204,7 @@
     "release_date": "2014年5月16日",
     "total_reviews_jp": 393,
     "positive_rate_jp": 86.01,
-    "total_reviews_all": 28774,
+    "total_reviews_all": 28775,
     "positive_rate_all": 91.6,
     "store_url": "https://store.steampowered.com/app/282800",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282800/capsule_231x87.jpg"
@@ -1215,8 +1215,8 @@
     "release_date": "2018年8月10日",
     "total_reviews_jp": 500,
     "positive_rate_jp": 85.8,
-    "total_reviews_all": 24146,
-    "positive_rate_all": 91.34,
+    "total_reviews_all": 24153,
+    "positive_rate_all": 91.35,
     "store_url": "https://store.steampowered.com/app/285920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/285920/capsule_231x87.jpg"
   },
@@ -1226,7 +1226,7 @@
     "release_date": "2012年11月20日",
     "total_reviews_jp": 253,
     "positive_rate_jp": 85.77,
-    "total_reviews_all": 74161,
+    "total_reviews_all": 74169,
     "positive_rate_all": 80.7,
     "store_url": "https://store.steampowered.com/app/218230",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/218230/capsule_231x87.jpg"
@@ -1237,7 +1237,7 @@
     "release_date": "2017年8月28日",
     "total_reviews_jp": 210,
     "positive_rate_jp": 85.71,
-    "total_reviews_all": 71151,
+    "total_reviews_all": 71174,
     "positive_rate_all": 86.79,
     "store_url": "https://store.steampowered.com/app/380600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/380600/capsule_231x87.jpg"
@@ -1248,7 +1248,7 @@
     "release_date": "2009年12月17日",
     "total_reviews_jp": 235,
     "positive_rate_jp": 85.53,
-    "total_reviews_all": 52129,
+    "total_reviews_all": 52135,
     "positive_rate_all": 81.08,
     "store_url": "https://store.steampowered.com/app/22370",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/22370/capsule_231x87.jpg"
@@ -1259,7 +1259,7 @@
     "release_date": "2018年4月24日",
     "total_reviews_jp": 527,
     "positive_rate_jp": 85.2,
-    "total_reviews_all": 129036,
+    "total_reviews_all": 129120,
     "positive_rate_all": 92.65,
     "store_url": "https://store.steampowered.com/app/323190",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/323190/capsule_231x87.jpg"
@@ -1270,7 +1270,7 @@
     "release_date": "2015年5月18日",
     "total_reviews_jp": 1574,
     "positive_rate_jp": 84.82,
-    "total_reviews_all": 848978,
+    "total_reviews_all": 849221,
     "positive_rate_all": 96.79,
     "store_url": "https://store.steampowered.com/app/292030",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/292030/capsule_231x87.jpg"
@@ -1279,9 +1279,9 @@
     "appid": 413410,
     "name": "Danganronpa: Trigger Happy Havoc",
     "release_date": "2016年2月18日",
-    "total_reviews_jp": 349,
-    "positive_rate_jp": 84.81,
-    "total_reviews_all": 32523,
+    "total_reviews_jp": 352,
+    "positive_rate_jp": 84.66,
+    "total_reviews_all": 32567,
     "positive_rate_all": 96.01,
     "store_url": "https://store.steampowered.com/app/413410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413410/capsule_231x87.jpg"
@@ -1290,9 +1290,9 @@
     "appid": 107410,
     "name": "Arma 3",
     "release_date": "2013年9月12日",
-    "total_reviews_jp": 575,
-    "positive_rate_jp": 84.35,
-    "total_reviews_all": 288418,
+    "total_reviews_jp": 574,
+    "positive_rate_jp": 84.32,
+    "total_reviews_all": 288440,
     "positive_rate_all": 90.47,
     "store_url": "https://store.steampowered.com/app/107410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/107410/capsule_231x87.jpg"
@@ -1301,9 +1301,9 @@
     "appid": 210970,
     "name": "The Witness",
     "release_date": "2016年1月26日",
-    "total_reviews_jp": 313,
-    "positive_rate_jp": 84.03,
-    "total_reviews_all": 19785,
+    "total_reviews_jp": 314,
+    "positive_rate_jp": 84.08,
+    "total_reviews_all": 19792,
     "positive_rate_all": 84.61,
     "store_url": "https://store.steampowered.com/app/210970",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/210970/capsule_231x87.jpg"
@@ -1314,7 +1314,7 @@
     "release_date": "2016年2月18日",
     "total_reviews_jp": 256,
     "positive_rate_jp": 83.98,
-    "total_reviews_all": 57953,
+    "total_reviews_all": 57956,
     "positive_rate_all": 94.4,
     "store_url": "https://store.steampowered.com/app/246620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/246620/capsule_231x87.jpg"
@@ -1336,7 +1336,7 @@
     "release_date": "2013年8月13日",
     "total_reviews_jp": 1815,
     "positive_rate_jp": 83.47,
-    "total_reviews_all": 667767,
+    "total_reviews_all": 667771,
     "positive_rate_all": 89.25,
     "store_url": "https://store.steampowered.com/app/218620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/218620/capsule_231x87.jpg"
@@ -1345,23 +1345,12 @@
     "appid": 730,
     "name": "Counter-Strike 2",
     "release_date": "2012年8月21日",
-    "total_reviews_jp": 10750,
-    "positive_rate_jp": 83.24,
-    "total_reviews_all": 9225374,
-    "positive_rate_all": 86.34,
+    "total_reviews_jp": 10752,
+    "positive_rate_jp": 83.26,
+    "total_reviews_all": 9227744,
+    "positive_rate_all": 86.35,
     "store_url": "https://store.steampowered.com/app/730",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_231x87.jpg"
-  },
-  {
-    "appid": 438100,
-    "name": "VRChat",
-    "release_date": "2017年2月1日",
-    "total_reviews_jp": 2771,
-    "positive_rate_jp": 83.04,
-    "total_reviews_all": 252389,
-    "positive_rate_all": 75.39,
-    "store_url": "https://store.steampowered.com/app/438100",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/438100/capsule_231x87.jpg"
   },
   {
     "appid": 230410,
@@ -1369,21 +1358,21 @@
     "release_date": "2013年3月25日",
     "total_reviews_jp": 1877,
     "positive_rate_jp": 83.0,
-    "total_reviews_all": 641867,
+    "total_reviews_all": 642099,
     "positive_rate_all": 87.49,
     "store_url": "https://store.steampowered.com/app/230410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/230410/capsule_231x87.jpg"
   },
   {
-    "appid": 108600,
-    "name": "Project Zomboid",
-    "release_date": "2013年11月8日",
-    "total_reviews_jp": 856,
-    "positive_rate_jp": 82.94,
-    "total_reviews_all": 415756,
-    "positive_rate_all": 94.22,
-    "store_url": "https://store.steampowered.com/app/108600",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/108600/capsule_231x87.jpg"
+    "appid": 438100,
+    "name": "VRChat",
+    "release_date": "2017年2月1日",
+    "total_reviews_jp": 2774,
+    "positive_rate_jp": 82.98,
+    "total_reviews_all": 252454,
+    "positive_rate_all": 75.39,
+    "store_url": "https://store.steampowered.com/app/438100",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/438100/capsule_231x87.jpg"
   },
   {
     "appid": 304240,
@@ -1391,10 +1380,21 @@
     "release_date": "2015年1月19日",
     "total_reviews_jp": 246,
     "positive_rate_jp": 82.93,
-    "total_reviews_all": 29277,
+    "total_reviews_all": 29288,
     "positive_rate_all": 92.08,
     "store_url": "https://store.steampowered.com/app/304240",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304240/capsule_231x87.jpg"
+  },
+  {
+    "appid": 108600,
+    "name": "Project Zomboid",
+    "release_date": "2013年11月8日",
+    "total_reviews_jp": 857,
+    "positive_rate_jp": 82.85,
+    "total_reviews_all": 416112,
+    "positive_rate_all": 94.23,
+    "store_url": "https://store.steampowered.com/app/108600",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/108600/capsule_231x87.jpg"
   },
   {
     "appid": 244850,
@@ -1402,7 +1402,7 @@
     "release_date": "2019年2月28日",
     "total_reviews_jp": 226,
     "positive_rate_jp": 82.74,
-    "total_reviews_all": 132349,
+    "total_reviews_all": 132353,
     "positive_rate_all": 88.89,
     "store_url": "https://store.steampowered.com/app/244850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/244850/capsule_231x87.jpg"
@@ -1413,7 +1413,7 @@
     "release_date": "2015年4月2日",
     "total_reviews_jp": 305,
     "positive_rate_jp": 82.62,
-    "total_reviews_all": 103623,
+    "total_reviews_all": 103630,
     "positive_rate_all": 77.29,
     "store_url": "https://store.steampowered.com/app/359320",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/359320/capsule_231x87.jpg"
@@ -1424,7 +1424,7 @@
     "release_date": "2022年10月25日",
     "total_reviews_jp": 777,
     "positive_rate_jp": 82.5,
-    "total_reviews_all": 278826,
+    "total_reviews_all": 278976,
     "positive_rate_all": 87.85,
     "store_url": "https://store.steampowered.com/app/261550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/261550/capsule_231x87.jpg"
@@ -1435,8 +1435,8 @@
     "release_date": "2017年12月6日",
     "total_reviews_jp": 1458,
     "positive_rate_jp": 82.24,
-    "total_reviews_all": 79365,
-    "positive_rate_all": 82.39,
+    "total_reviews_all": 79384,
+    "positive_rate_all": 82.38,
     "store_url": "https://store.steampowered.com/app/240720",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/240720/capsule_231x87.jpg"
   },
@@ -1446,7 +1446,7 @@
     "release_date": "2017年8月1日",
     "total_reviews_jp": 560,
     "positive_rate_jp": 81.79,
-    "total_reviews_all": 114946,
+    "total_reviews_all": 114959,
     "positive_rate_all": 90.62,
     "store_url": "https://store.steampowered.com/app/305620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/305620/capsule_231x87.jpg"
@@ -1457,8 +1457,8 @@
     "release_date": "2013年10月23日",
     "total_reviews_jp": 814,
     "positive_rate_jp": 81.7,
-    "total_reviews_all": 243204,
-    "positive_rate_all": 89.0,
+    "total_reviews_all": 243234,
+    "positive_rate_all": 89.01,
     "store_url": "https://store.steampowered.com/app/238960",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/238960/capsule_231x87.jpg"
   },
@@ -1468,7 +1468,7 @@
     "release_date": "2019年3月29日",
     "total_reviews_jp": 348,
     "positive_rate_jp": 81.61,
-    "total_reviews_all": 28181,
+    "total_reviews_all": 28184,
     "positive_rate_all": 87.57,
     "store_url": "https://store.steampowered.com/app/492720",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/492720/capsule_231x87.jpg"
@@ -1479,8 +1479,8 @@
     "release_date": "2017年9月14日",
     "total_reviews_jp": 288,
     "positive_rate_jp": 81.6,
-    "total_reviews_all": 194448,
-    "positive_rate_all": 95.77,
+    "total_reviews_all": 194498,
+    "positive_rate_all": 95.78,
     "store_url": "https://store.steampowered.com/app/435150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/435150/capsule_231x87.jpg"
   },
@@ -1490,7 +1490,7 @@
     "release_date": "2017年1月25日",
     "total_reviews_jp": 304,
     "positive_rate_jp": 81.58,
-    "total_reviews_all": 107355,
+    "total_reviews_all": 107413,
     "positive_rate_all": 95.32,
     "store_url": "https://store.steampowered.com/app/418370",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/418370/capsule_231x87.jpg"
@@ -1501,7 +1501,7 @@
     "release_date": "2012年11月28日",
     "total_reviews_jp": 377,
     "positive_rate_jp": 80.9,
-    "total_reviews_all": 121269,
+    "total_reviews_all": 121338,
     "positive_rate_all": 88.95,
     "store_url": "https://store.steampowered.com/app/220240",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/220240/capsule_231x87.jpg"
@@ -1512,8 +1512,8 @@
     "release_date": "2014年6月4日",
     "total_reviews_jp": 261,
     "positive_rate_jp": 80.46,
-    "total_reviews_all": 59250,
-    "positive_rate_all": 91.61,
+    "total_reviews_all": 59259,
+    "positive_rate_all": 91.6,
     "store_url": "https://store.steampowered.com/app/201810",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/201810/capsule_231x87.jpg"
   },
@@ -1523,7 +1523,7 @@
     "release_date": "2011年8月2日",
     "total_reviews_jp": 317,
     "positive_rate_jp": 80.44,
-    "total_reviews_all": 59467,
+    "total_reviews_all": 59481,
     "positive_rate_all": 92.38,
     "store_url": "https://store.steampowered.com/app/48000",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/48000/capsule_231x87.jpg"
@@ -1532,9 +1532,9 @@
     "appid": 361420,
     "name": "ASTRONEER",
     "release_date": "2019年2月5日",
-    "total_reviews_jp": 752,
-    "positive_rate_jp": 80.19,
-    "total_reviews_all": 134487,
+    "total_reviews_jp": 753,
+    "positive_rate_jp": 80.21,
+    "total_reviews_all": 134509,
     "positive_rate_all": 92.1,
     "store_url": "https://store.steampowered.com/app/361420",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/361420/capsule_231x87.jpg"
@@ -1545,8 +1545,8 @@
     "release_date": "2016年5月17日",
     "total_reviews_jp": 337,
     "positive_rate_jp": 80.12,
-    "total_reviews_all": 21215,
-    "positive_rate_all": 89.38,
+    "total_reviews_all": 21218,
+    "positive_rate_all": 89.37,
     "store_url": "https://store.steampowered.com/app/283640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/283640/capsule_231x87.jpg"
   },
@@ -1556,7 +1556,7 @@
     "release_date": "2020年3月6日",
     "total_reviews_jp": 201,
     "positive_rate_jp": 80.1,
-    "total_reviews_all": 137135,
+    "total_reviews_all": 137209,
     "positive_rate_all": 95.05,
     "store_url": "https://store.steampowered.com/app/362890",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/362890/capsule_231x87.jpg"
@@ -1567,8 +1567,8 @@
     "release_date": "2018年9月20日",
     "total_reviews_jp": 326,
     "positive_rate_jp": 80.06,
-    "total_reviews_all": 17406,
-    "positive_rate_all": 92.9,
+    "total_reviews_all": 17408,
+    "positive_rate_all": 92.91,
     "store_url": "https://store.steampowered.com/app/368340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/368340/capsule_231x87.jpg"
   },
@@ -1578,7 +1578,7 @@
     "release_date": "2016年2月9日",
     "total_reviews_jp": 277,
     "positive_rate_jp": 79.78,
-    "total_reviews_all": 144260,
+    "total_reviews_all": 144342,
     "positive_rate_all": 94.1,
     "store_url": "https://store.steampowered.com/app/391220",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/391220/capsule_231x87.jpg"
@@ -1589,7 +1589,7 @@
     "release_date": "2014年8月29日",
     "total_reviews_jp": 228,
     "positive_rate_jp": 79.39,
-    "total_reviews_all": 17074,
+    "total_reviews_all": 17073,
     "positive_rate_all": 82.66,
     "store_url": "https://store.steampowered.com/app/250400",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/250400/capsule_231x87.jpg"
@@ -1600,8 +1600,8 @@
     "release_date": "2015年11月9日",
     "total_reviews_jp": 1932,
     "positive_rate_jp": 79.24,
-    "total_reviews_all": 410641,
-    "positive_rate_all": 81.33,
+    "total_reviews_all": 410710,
+    "positive_rate_all": 81.32,
     "store_url": "https://store.steampowered.com/app/377160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/377160/capsule_231x87.jpg"
   },
@@ -1611,7 +1611,7 @@
     "release_date": "2016年4月5日",
     "total_reviews_jp": 365,
     "positive_rate_jp": 79.18,
-    "total_reviews_all": 87472,
+    "total_reviews_all": 87484,
     "positive_rate_all": 95.33,
     "store_url": "https://store.steampowered.com/app/311690",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311690/capsule_231x87.jpg"
@@ -1622,7 +1622,7 @@
     "release_date": "2017年4月27日",
     "total_reviews_jp": 383,
     "positive_rate_jp": 79.11,
-    "total_reviews_all": 114062,
+    "total_reviews_all": 114074,
     "positive_rate_all": 94.75,
     "store_url": "https://store.steampowered.com/app/424840",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/424840/capsule_231x87.jpg"
@@ -1633,7 +1633,7 @@
     "release_date": "2016年5月9日",
     "total_reviews_jp": 841,
     "positive_rate_jp": 79.07,
-    "total_reviews_all": 188255,
+    "total_reviews_all": 188281,
     "positive_rate_all": 86.68,
     "store_url": "https://store.steampowered.com/app/281990",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/281990/capsule_231x87.jpg"
@@ -1644,8 +1644,8 @@
     "release_date": "2021年12月9日",
     "total_reviews_jp": 353,
     "positive_rate_jp": 78.47,
-    "total_reviews_all": 64187,
-    "positive_rate_all": 84.17,
+    "total_reviews_all": 64194,
+    "positive_rate_all": 84.18,
     "store_url": "https://store.steampowered.com/app/493520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/493520/capsule_231x87.jpg"
   },
@@ -1655,8 +1655,8 @@
     "release_date": "2013年8月22日",
     "total_reviews_jp": 355,
     "positive_rate_jp": 78.31,
-    "total_reviews_all": 77302,
-    "positive_rate_all": 87.75,
+    "total_reviews_all": 77305,
+    "positive_rate_all": 87.74,
     "store_url": "https://store.steampowered.com/app/206420",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/206420/capsule_231x87.jpg"
   },
@@ -1666,8 +1666,8 @@
     "release_date": "2015年10月6日",
     "total_reviews_jp": 341,
     "positive_rate_jp": 78.3,
-    "total_reviews_all": 72624,
-    "positive_rate_all": 89.37,
+    "total_reviews_all": 72626,
+    "positive_rate_all": 89.36,
     "store_url": "https://store.steampowered.com/app/233450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/233450/capsule_231x87.jpg"
   },
@@ -1677,7 +1677,7 @@
     "release_date": "2013年5月20日",
     "total_reviews_jp": 239,
     "positive_rate_jp": 78.24,
-    "total_reviews_all": 16111,
+    "total_reviews_all": 16122,
     "positive_rate_all": 80.98,
     "store_url": "https://store.steampowered.com/app/222480",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/222480/capsule_231x87.jpg"
@@ -1688,7 +1688,7 @@
     "release_date": "2016年1月15日",
     "total_reviews_jp": 560,
     "positive_rate_jp": 77.86,
-    "total_reviews_all": 47702,
+    "total_reviews_all": 47705,
     "positive_rate_all": 88.46,
     "store_url": "https://store.steampowered.com/app/367500",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/367500/capsule_231x87.jpg"
@@ -1699,7 +1699,7 @@
     "release_date": "2017年4月11日",
     "total_reviews_jp": 320,
     "positive_rate_jp": 77.81,
-    "total_reviews_all": 30269,
+    "total_reviews_all": 30272,
     "positive_rate_all": 92.41,
     "store_url": "https://store.steampowered.com/app/460790",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/460790/capsule_231x87.jpg"
@@ -1708,9 +1708,9 @@
     "appid": 346110,
     "name": "ARK: Survival Evolved",
     "release_date": "2017年8月27日",
-    "total_reviews_jp": 3509,
-    "positive_rate_jp": 77.77,
-    "total_reviews_all": 753203,
+    "total_reviews_jp": 3510,
+    "positive_rate_jp": 77.75,
+    "total_reviews_all": 753300,
     "positive_rate_all": 83.34,
     "store_url": "https://store.steampowered.com/app/346110",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/346110/capsule_231x87.jpg"
@@ -1721,8 +1721,8 @@
     "release_date": "2016年1月19日",
     "total_reviews_jp": 215,
     "positive_rate_jp": 77.67,
-    "total_reviews_all": 115519,
-    "positive_rate_all": 92.0,
+    "total_reviews_all": 115537,
+    "positive_rate_all": 91.99,
     "store_url": "https://store.steampowered.com/app/387990",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/387990/capsule_231x87.jpg"
   },
@@ -1730,9 +1730,9 @@
     "appid": 252490,
     "name": "Rust",
     "release_date": "2018年2月8日",
-    "total_reviews_jp": 2812,
-    "positive_rate_jp": 77.63,
-    "total_reviews_all": 1295505,
+    "total_reviews_jp": 2814,
+    "positive_rate_jp": 77.61,
+    "total_reviews_all": 1295924,
     "positive_rate_all": 87.08,
     "store_url": "https://store.steampowered.com/app/252490",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/252490/capsule_231x87.jpg"
@@ -1741,10 +1741,10 @@
     "appid": 242050,
     "name": "Assassin’s Creed® IV Black Flag™",
     "release_date": "",
-    "total_reviews_jp": 249,
-    "positive_rate_jp": 77.51,
-    "total_reviews_all": 74398,
-    "positive_rate_all": 88.46,
+    "total_reviews_jp": 250,
+    "positive_rate_jp": 77.2,
+    "total_reviews_all": 74433,
+    "positive_rate_all": 88.45,
     "store_url": "https://store.steampowered.com/app/242050",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/242050/capsule_231x87.jpg"
   },
@@ -1752,9 +1752,9 @@
     "appid": 570,
     "name": "Dota 2",
     "release_date": "2013年7月9日",
-    "total_reviews_jp": 2188,
-    "positive_rate_jp": 77.19,
-    "total_reviews_all": 2635398,
+    "total_reviews_jp": 2189,
+    "positive_rate_jp": 77.16,
+    "total_reviews_all": 2635872,
     "positive_rate_all": 81.31,
     "store_url": "https://store.steampowered.com/app/570",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/570/capsule_231x87.jpg"
@@ -1765,7 +1765,7 @@
     "release_date": "2016年4月14日",
     "total_reviews_jp": 232,
     "positive_rate_jp": 77.16,
-    "total_reviews_all": 13005,
+    "total_reviews_all": 13012,
     "positive_rate_all": 95.05,
     "store_url": "https://store.steampowered.com/app/377840",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/377840/capsule_231x87.jpg"
@@ -1776,7 +1776,7 @@
     "release_date": "2014年8月27日",
     "total_reviews_jp": 204,
     "positive_rate_jp": 76.96,
-    "total_reviews_all": 122118,
+    "total_reviews_all": 122211,
     "positive_rate_all": 91.86,
     "store_url": "https://store.steampowered.com/app/286690",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/286690/capsule_231x87.jpg"
@@ -1787,7 +1787,7 @@
     "release_date": "2016年10月20日",
     "total_reviews_jp": 1206,
     "positive_rate_jp": 76.87,
-    "total_reviews_all": 365523,
+    "total_reviews_all": 365570,
     "positive_rate_all": 85.84,
     "store_url": "https://store.steampowered.com/app/289070",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/289070/capsule_231x87.jpg"
@@ -1798,8 +1798,8 @@
     "release_date": "2014年12月18日",
     "total_reviews_jp": 211,
     "positive_rate_jp": 76.78,
-    "total_reviews_all": 17591,
-    "positive_rate_all": 84.55,
+    "total_reviews_all": 17593,
+    "positive_rate_all": 84.56,
     "store_url": "https://store.steampowered.com/app/311340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311340/capsule_231x87.jpg"
   },
@@ -1809,8 +1809,8 @@
     "release_date": "2016年4月27日",
     "total_reviews_jp": 369,
     "positive_rate_jp": 76.42,
-    "total_reviews_all": 68932,
-    "positive_rate_all": 95.15,
+    "total_reviews_all": 68943,
+    "positive_rate_all": 95.14,
     "store_url": "https://store.steampowered.com/app/387290",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/387290/capsule_231x87.jpg"
   },
@@ -1820,7 +1820,7 @@
     "release_date": "2013年3月4日",
     "total_reviews_jp": 591,
     "positive_rate_jp": 76.31,
-    "total_reviews_all": 255779,
+    "total_reviews_all": 255871,
     "positive_rate_all": 96.07,
     "store_url": "https://store.steampowered.com/app/203160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/203160/capsule_231x87.jpg"
@@ -1831,7 +1831,7 @@
     "release_date": "2014年4月25日",
     "total_reviews_jp": 248,
     "positive_rate_jp": 76.21,
-    "total_reviews_all": 44936,
+    "total_reviews_all": 44943,
     "positive_rate_all": 88.37,
     "store_url": "https://store.steampowered.com/app/236430",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/236430/capsule_231x87.jpg"
@@ -1842,8 +1842,8 @@
     "release_date": "2018年5月8日",
     "total_reviews_jp": 747,
     "positive_rate_jp": 75.77,
-    "total_reviews_all": 345750,
-    "positive_rate_all": 84.99,
+    "total_reviews_all": 345740,
+    "positive_rate_all": 85.0,
     "store_url": "https://store.steampowered.com/app/444090",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/444090/capsule_231x87.jpg"
   },
@@ -1853,7 +1853,7 @@
     "release_date": "2016年11月30日",
     "total_reviews_jp": 317,
     "positive_rate_jp": 75.39,
-    "total_reviews_all": 87977,
+    "total_reviews_all": 88015,
     "positive_rate_all": 82.56,
     "store_url": "https://store.steampowered.com/app/447040",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/447040/capsule_231x87.jpg"
@@ -1864,7 +1864,7 @@
     "release_date": "2018年2月13日",
     "total_reviews_jp": 498,
     "positive_rate_jp": 75.3,
-    "total_reviews_all": 170732,
+    "total_reviews_all": 170802,
     "positive_rate_all": 84.27,
     "store_url": "https://store.steampowered.com/app/379430",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/379430/capsule_231x87.jpg"
@@ -1875,7 +1875,7 @@
     "release_date": "2015年6月2日",
     "total_reviews_jp": 208,
     "positive_rate_jp": 75.0,
-    "total_reviews_all": 56988,
+    "total_reviews_all": 56984,
     "positive_rate_all": 81.29,
     "store_url": "https://store.steampowered.com/app/333930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/333930/capsule_231x87.jpg"
@@ -1886,7 +1886,7 @@
     "release_date": "2015年1月26日",
     "total_reviews_jp": 958,
     "positive_rate_jp": 74.74,
-    "total_reviews_all": 473602,
+    "total_reviews_all": 473686,
     "positive_rate_all": 95.26,
     "store_url": "https://store.steampowered.com/app/239140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/239140/capsule_231x87.jpg"
@@ -1897,8 +1897,8 @@
     "release_date": "2016年1月19日",
     "total_reviews_jp": 522,
     "positive_rate_jp": 73.95,
-    "total_reviews_all": 154844,
-    "positive_rate_all": 91.7,
+    "total_reviews_all": 154869,
+    "positive_rate_all": 91.69,
     "store_url": "https://store.steampowered.com/app/262060",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/262060/capsule_231x87.jpg"
   },
@@ -1908,7 +1908,7 @@
     "release_date": "2014年10月29日",
     "total_reviews_jp": 206,
     "positive_rate_jp": 73.79,
-    "total_reviews_all": 42651,
+    "total_reviews_all": 42656,
     "positive_rate_all": 78.71,
     "store_url": "https://store.steampowered.com/app/261640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/261640/capsule_231x87.jpg"
@@ -1917,9 +1917,9 @@
     "appid": 291550,
     "name": "Brawlhalla",
     "release_date": "2017年10月17日",
-    "total_reviews_jp": 580,
-    "positive_rate_jp": 73.79,
-    "total_reviews_all": 397096,
+    "total_reviews_jp": 579,
+    "positive_rate_jp": 73.75,
+    "total_reviews_all": 397137,
     "positive_rate_all": 80.96,
     "store_url": "https://store.steampowered.com/app/291550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/291550/capsule_231x87.jpg"
@@ -1928,9 +1928,9 @@
     "appid": 39210,
     "name": "FINAL FANTASY XIV Online",
     "release_date": "2014年2月18日",
-    "total_reviews_jp": 366,
-    "positive_rate_jp": 73.22,
-    "total_reviews_all": 82782,
+    "total_reviews_jp": 365,
+    "positive_rate_jp": 73.42,
+    "total_reviews_all": 82798,
     "positive_rate_all": 86.62,
     "store_url": "https://store.steampowered.com/app/39210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/39210/capsule_231x87.jpg"
@@ -1941,7 +1941,7 @@
     "release_date": null,
     "total_reviews_jp": 469,
     "positive_rate_jp": 73.13,
-    "total_reviews_all": 692095,
+    "total_reviews_all": 692469,
     "positive_rate_all": 72.81,
     "store_url": "https://store.steampowered.com/app/236390",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/236390/capsule_231x87.jpg"
@@ -1952,7 +1952,7 @@
     "release_date": "2020年3月13日",
     "total_reviews_jp": 476,
     "positive_rate_jp": 73.11,
-    "total_reviews_all": 160539,
+    "total_reviews_all": 160557,
     "positive_rate_all": 80.86,
     "store_url": "https://store.steampowered.com/app/397540",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/397540/capsule_231x87.jpg"
@@ -1961,9 +1961,9 @@
     "appid": 275850,
     "name": "No Man's Sky",
     "release_date": "2016年8月12日",
-    "total_reviews_jp": 1350,
-    "positive_rate_jp": 72.22,
-    "total_reviews_all": 392018,
+    "total_reviews_jp": 1351,
+    "positive_rate_jp": 72.24,
+    "total_reviews_all": 392171,
     "positive_rate_all": 84.49,
     "store_url": "https://store.steampowered.com/app/275850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/275850/capsule_231x87.jpg"
@@ -1974,7 +1974,7 @@
     "release_date": "2017年6月1日",
     "total_reviews_jp": 420,
     "positive_rate_jp": 72.14,
-    "total_reviews_all": 93780,
+    "total_reviews_all": 93793,
     "positive_rate_all": 83.36,
     "store_url": "https://store.steampowered.com/app/389730",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/389730/capsule_231x87.jpg"
@@ -1985,8 +1985,8 @@
     "release_date": "2013年9月4日",
     "total_reviews_jp": 229,
     "positive_rate_jp": 72.05,
-    "total_reviews_all": 20688,
-    "positive_rate_all": 79.38,
+    "total_reviews_all": 20694,
+    "positive_rate_all": 79.39,
     "store_url": "https://store.steampowered.com/app/235600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/235600/capsule_231x87.jpg"
   },
@@ -1996,7 +1996,7 @@
     "release_date": "2016年2月4日",
     "total_reviews_jp": 365,
     "positive_rate_jp": 71.78,
-    "total_reviews_all": 105218,
+    "total_reviews_all": 105241,
     "positive_rate_all": 84.37,
     "store_url": "https://store.steampowered.com/app/268500",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/268500/capsule_231x87.jpg"
@@ -2005,9 +2005,9 @@
     "appid": 254700,
     "name": "Resident Evil 4 (2005)",
     "release_date": "2014年2月27日",
-    "total_reviews_jp": 444,
-    "positive_rate_jp": 71.62,
-    "total_reviews_all": 87099,
+    "total_reviews_jp": 445,
+    "positive_rate_jp": 71.69,
+    "total_reviews_all": 87140,
     "positive_rate_all": 93.65,
     "store_url": "https://store.steampowered.com/app/254700",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/254700/capsule_231x87.jpg"
@@ -2018,7 +2018,7 @@
     "release_date": "2020年2月14日",
     "total_reviews_jp": 298,
     "positive_rate_jp": 71.48,
-    "total_reviews_all": 125850,
+    "total_reviews_all": 125919,
     "positive_rate_all": 89.9,
     "store_url": "https://store.steampowered.com/app/412020",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/412020/capsule_231x87.jpg"
@@ -2027,9 +2027,9 @@
     "appid": 392160,
     "name": "X4: Foundations",
     "release_date": "2018年11月30日",
-    "total_reviews_jp": 305,
-    "positive_rate_jp": 70.82,
-    "total_reviews_all": 26118,
+    "total_reviews_jp": 306,
+    "positive_rate_jp": 70.92,
+    "total_reviews_all": 26120,
     "positive_rate_all": 79.9,
     "store_url": "https://store.steampowered.com/app/392160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/392160/capsule_231x87.jpg"
@@ -2040,7 +2040,7 @@
     "release_date": "2015年12月1日",
     "total_reviews_jp": 5394,
     "positive_rate_jp": 70.75,
-    "total_reviews_all": 1462452,
+    "total_reviews_all": 1462648,
     "positive_rate_all": 82.8,
     "store_url": "https://store.steampowered.com/app/359550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/359550/capsule_231x87.jpg"
@@ -2051,8 +2051,8 @@
     "release_date": "2020年9月23日",
     "total_reviews_jp": 229,
     "positive_rate_jp": 70.74,
-    "total_reviews_all": 227547,
-    "positive_rate_all": 81.25,
+    "total_reviews_all": 227592,
+    "positive_rate_all": 81.24,
     "store_url": "https://store.steampowered.com/app/393380",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/393380/capsule_231x87.jpg"
   },
@@ -2062,8 +2062,8 @@
     "release_date": "2009年9月15日",
     "total_reviews_jp": 389,
     "positive_rate_jp": 70.44,
-    "total_reviews_all": 53437,
-    "positive_rate_all": 87.27,
+    "total_reviews_all": 53458,
+    "positive_rate_all": 87.28,
     "store_url": "https://store.steampowered.com/app/21690",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/21690/capsule_231x87.jpg"
   },
@@ -2073,7 +2073,7 @@
     "release_date": "2015年9月1日",
     "total_reviews_jp": 998,
     "positive_rate_jp": 70.24,
-    "total_reviews_all": 104614,
+    "total_reviews_all": 104627,
     "positive_rate_all": 91.87,
     "store_url": "https://store.steampowered.com/app/287700",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/287700/capsule_231x87.jpg"
@@ -2084,7 +2084,7 @@
     "release_date": "2015年3月5日",
     "total_reviews_jp": 210,
     "positive_rate_jp": 67.62,
-    "total_reviews_all": 65347,
+    "total_reviews_all": 65370,
     "positive_rate_all": 84.46,
     "store_url": "https://store.steampowered.com/app/298110",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/298110/capsule_231x87.jpg"
@@ -2095,40 +2095,40 @@
     "release_date": "2020年3月24日",
     "total_reviews_jp": 341,
     "positive_rate_jp": 67.45,
-    "total_reviews_all": 185407,
+    "total_reviews_all": 185454,
     "positive_rate_all": 82.78,
     "store_url": "https://store.steampowered.com/app/12210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/12210/capsule_231x87.jpg"
-  },
-  {
-    "appid": 440900,
-    "name": "Conan Exiles",
-    "release_date": "2018年5月8日",
-    "total_reviews_jp": 485,
-    "positive_rate_jp": 67.22,
-    "total_reviews_all": 110203,
-    "positive_rate_all": 78.86,
-    "store_url": "https://store.steampowered.com/app/440900",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/440900/capsule_231x87.jpg"
   },
   {
     "appid": 485510,
     "name": "Nioh: Complete Edition",
     "release_date": "2017年11月7日",
     "total_reviews_jp": 309,
-    "positive_rate_jp": 66.99,
-    "total_reviews_all": 36212,
+    "positive_rate_jp": 67.31,
+    "total_reviews_all": 36231,
     "positive_rate_all": 79.58,
     "store_url": "https://store.steampowered.com/app/485510",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/485510/capsule_231x87.jpg"
   },
   {
+    "appid": 440900,
+    "name": "Conan Exiles",
+    "release_date": "2018年5月8日",
+    "total_reviews_jp": 486,
+    "positive_rate_jp": 67.28,
+    "total_reviews_all": 110219,
+    "positive_rate_all": 78.87,
+    "store_url": "https://store.steampowered.com/app/440900",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/440900/capsule_231x87.jpg"
+  },
+  {
     "appid": 502500,
     "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
     "release_date": "2019年1月31日",
-    "total_reviews_jp": 1145,
-    "positive_rate_jp": 66.55,
-    "total_reviews_all": 50744,
+    "total_reviews_jp": 1147,
+    "positive_rate_jp": 66.52,
+    "total_reviews_all": 50819,
     "positive_rate_all": 87.76,
     "store_url": "https://store.steampowered.com/app/502500",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/502500/capsule_231x87.jpg"
@@ -2139,7 +2139,7 @@
     "release_date": "2015年4月8日",
     "total_reviews_jp": 581,
     "positive_rate_jp": 66.27,
-    "total_reviews_all": 122970,
+    "total_reviews_all": 123007,
     "positive_rate_all": 84.0,
     "store_url": "https://store.steampowered.com/app/335300",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/335300/capsule_231x87.jpg"
@@ -2150,7 +2150,7 @@
     "release_date": "2015年11月30日",
     "total_reviews_jp": 370,
     "positive_rate_jp": 65.41,
-    "total_reviews_all": 124554,
+    "total_reviews_all": 124570,
     "positive_rate_all": 84.13,
     "store_url": "https://store.steampowered.com/app/225540",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/225540/capsule_231x87.jpg"
@@ -2161,7 +2161,7 @@
     "release_date": "2017年10月9日",
     "total_reviews_jp": 244,
     "positive_rate_jp": 65.16,
-    "total_reviews_all": 111232,
+    "total_reviews_all": 111258,
     "positive_rate_all": 88.79,
     "store_url": "https://store.steampowered.com/app/356190",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/356190/capsule_231x87.jpg"
@@ -2172,8 +2172,8 @@
     "release_date": "2012年4月16日",
     "total_reviews_jp": 241,
     "positive_rate_jp": 65.15,
-    "total_reviews_all": 87929,
-    "positive_rate_all": 90.0,
+    "total_reviews_all": 87941,
+    "positive_rate_all": 89.99,
     "store_url": "https://store.steampowered.com/app/20920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/20920/capsule_231x87.jpg"
   },
@@ -2183,8 +2183,8 @@
     "release_date": "2017年3月8日",
     "total_reviews_jp": 544,
     "positive_rate_jp": 63.6,
-    "total_reviews_all": 100350,
-    "positive_rate_all": 79.76,
+    "total_reviews_all": 100392,
+    "positive_rate_all": 79.75,
     "store_url": "https://store.steampowered.com/app/460930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/460930/capsule_231x87.jpg"
   },
@@ -2194,7 +2194,7 @@
     "release_date": "2016年9月15日",
     "total_reviews_jp": 274,
     "positive_rate_jp": 63.14,
-    "total_reviews_all": 60982,
+    "total_reviews_all": 61002,
     "positive_rate_all": 82.42,
     "store_url": "https://store.steampowered.com/app/409710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/409710/capsule_231x87.jpg"
@@ -2205,7 +2205,7 @@
     "release_date": "2018年12月13日",
     "total_reviews_jp": 668,
     "positive_rate_jp": 62.72,
-    "total_reviews_all": 446740,
+    "total_reviews_all": 446802,
     "positive_rate_all": 77.3,
     "store_url": "https://store.steampowered.com/app/221100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/221100/capsule_231x87.jpg"
@@ -2215,8 +2215,8 @@
     "name": "Dead Rising 3 Apocalypse Edition",
     "release_date": "2014年9月3日",
     "total_reviews_jp": 347,
-    "positive_rate_jp": 59.65,
-    "total_reviews_all": 19718,
+    "positive_rate_jp": 59.94,
+    "total_reviews_all": 19724,
     "positive_rate_all": 76.79,
     "store_url": "https://store.steampowered.com/app/265550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/265550/capsule_231x87.jpg"
@@ -2227,7 +2227,7 @@
     "release_date": "2016年5月12日",
     "total_reviews_jp": 602,
     "positive_rate_jp": 59.63,
-    "total_reviews_all": 21419,
+    "total_reviews_all": 21426,
     "positive_rate_all": 89.39,
     "store_url": "https://store.steampowered.com/app/359870",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/359870/capsule_231x87.jpg"
@@ -2236,9 +2236,9 @@
     "appid": 292120,
     "name": "FINAL FANTASY® XIII",
     "release_date": "2014年10月9日",
-    "total_reviews_jp": 626,
-    "positive_rate_jp": 59.27,
-    "total_reviews_all": 18712,
+    "total_reviews_jp": 628,
+    "positive_rate_jp": 59.39,
+    "total_reviews_all": 18717,
     "positive_rate_all": 75.04,
     "store_url": "https://store.steampowered.com/app/292120",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/292120/capsule_231x87.jpg"
@@ -2249,7 +2249,7 @@
     "release_date": "2016年11月9日",
     "total_reviews_jp": 402,
     "positive_rate_jp": 58.96,
-    "total_reviews_all": 150750,
+    "total_reviews_all": 150763,
     "positive_rate_all": 78.32,
     "store_url": "https://store.steampowered.com/app/444200",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/444200/capsule_231x87.jpg"
@@ -2260,7 +2260,7 @@
     "release_date": "2018年2月28日",
     "total_reviews_jp": 558,
     "positive_rate_jp": 58.6,
-    "total_reviews_all": 203238,
+    "total_reviews_all": 203236,
     "positive_rate_all": 55.8,
     "store_url": "https://store.steampowered.com/app/433850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/433850/capsule_231x87.jpg"
@@ -2282,8 +2282,8 @@
     "release_date": "2013年3月22日",
     "total_reviews_jp": 518,
     "positive_rate_jp": 57.72,
-    "total_reviews_all": 58422,
-    "positive_rate_all": 78.35,
+    "total_reviews_all": 58453,
+    "positive_rate_all": 78.36,
     "store_url": "https://store.steampowered.com/app/221040",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/221040/capsule_231x87.jpg"
   },
@@ -2293,7 +2293,7 @@
     "release_date": "2015年2月24日",
     "total_reviews_jp": 320,
     "positive_rate_jp": 56.88,
-    "total_reviews_all": 29713,
+    "total_reviews_all": 29714,
     "positive_rate_all": 78.12,
     "store_url": "https://store.steampowered.com/app/287290",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/287290/capsule_231x87.jpg"
@@ -2304,7 +2304,7 @@
     "release_date": "2017年2月13日",
     "total_reviews_jp": 299,
     "positive_rate_jp": 56.86,
-    "total_reviews_all": 154828,
+    "total_reviews_all": 154845,
     "positive_rate_all": 69.39,
     "store_url": "https://store.steampowered.com/app/304390",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304390/capsule_231x87.jpg"
@@ -2315,8 +2315,8 @@
     "release_date": "2014年1月29日",
     "total_reviews_jp": 267,
     "positive_rate_jp": 56.55,
-    "total_reviews_all": 44839,
-    "positive_rate_all": 67.79,
+    "total_reviews_all": 44844,
+    "positive_rate_all": 67.78,
     "store_url": "https://store.steampowered.com/app/269210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/269210/capsule_231x87.jpg"
   },
@@ -2326,7 +2326,7 @@
     "release_date": "2015年11月5日",
     "total_reviews_jp": 452,
     "positive_rate_jp": 55.31,
-    "total_reviews_all": 222334,
+    "total_reviews_all": 222369,
     "positive_rate_all": 84.66,
     "store_url": "https://store.steampowered.com/app/311210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311210/capsule_231x87.jpg"
@@ -2335,9 +2335,9 @@
     "appid": 381210,
     "name": "Dead by Daylight",
     "release_date": "2016年6月14日",
-    "total_reviews_jp": 6950,
-    "positive_rate_jp": 55.15,
-    "total_reviews_all": 859610,
+    "total_reviews_jp": 6952,
+    "positive_rate_jp": 55.14,
+    "total_reviews_all": 859785,
     "positive_rate_all": 78.58,
     "store_url": "https://store.steampowered.com/app/381210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/381210/capsule_231x87.jpg"
@@ -2348,7 +2348,7 @@
     "release_date": "",
     "total_reviews_jp": 256,
     "positive_rate_jp": 53.52,
-    "total_reviews_all": 76829,
+    "total_reviews_all": 76868,
     "positive_rate_all": 87.04,
     "store_url": "https://store.steampowered.com/app/250820",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/250820/capsule_231x87.jpg"
@@ -2359,7 +2359,7 @@
     "release_date": "2016年2月15日",
     "total_reviews_jp": 981,
     "positive_rate_jp": 53.31,
-    "total_reviews_all": 43948,
+    "total_reviews_all": 43946,
     "positive_rate_all": 67.86,
     "store_url": "https://store.steampowered.com/app/310950",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/310950/capsule_231x87.jpg"
@@ -2370,8 +2370,8 @@
     "release_date": "2014年5月26日",
     "total_reviews_jp": 288,
     "positive_rate_jp": 53.12,
-    "total_reviews_all": 47957,
-    "positive_rate_all": 78.79,
+    "total_reviews_all": 47968,
+    "positive_rate_all": 78.78,
     "store_url": "https://store.steampowered.com/app/243470",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/243470/capsule_231x87.jpg"
   },
@@ -2381,8 +2381,8 @@
     "release_date": "2016年3月9日",
     "total_reviews_jp": 528,
     "positive_rate_jp": 51.7,
-    "total_reviews_all": 94263,
-    "positive_rate_all": 70.64,
+    "total_reviews_all": 94277,
+    "positive_rate_all": 70.63,
     "store_url": "https://store.steampowered.com/app/365590",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/365590/capsule_231x87.jpg"
   },
@@ -2392,7 +2392,7 @@
     "release_date": "2016年10月27日",
     "total_reviews_jp": 1302,
     "positive_rate_jp": 51.61,
-    "total_reviews_all": 14877,
+    "total_reviews_all": 14878,
     "positive_rate_all": 73.77,
     "store_url": "https://store.steampowered.com/app/453480",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/453480/capsule_231x87.jpg"
@@ -2403,7 +2403,7 @@
     "release_date": "2017年11月2日",
     "total_reviews_jp": 247,
     "positive_rate_jp": 44.94,
-    "total_reviews_all": 44662,
+    "total_reviews_all": 44672,
     "positive_rate_all": 69.76,
     "store_url": "https://store.steampowered.com/app/476600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/476600/capsule_231x87.jpg"
@@ -2425,7 +2425,7 @@
     "release_date": "2015年3月30日",
     "total_reviews_jp": 268,
     "positive_rate_jp": 42.54,
-    "total_reviews_all": 10196,
+    "total_reviews_all": 10195,
     "positive_rate_all": 69.13,
     "store_url": "https://store.steampowered.com/app/311730",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311730/capsule_231x87.jpg"
@@ -2436,8 +2436,8 @@
     "release_date": "2014年12月11日",
     "total_reviews_jp": 243,
     "positive_rate_jp": 39.51,
-    "total_reviews_all": 5995,
-    "positive_rate_all": 58.42,
+    "total_reviews_all": 5997,
+    "positive_rate_all": 58.41,
     "store_url": "https://store.steampowered.com/app/292140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/292140/capsule_231x87.jpg"
   },
@@ -2447,8 +2447,8 @@
     "release_date": "2016年1月27日",
     "total_reviews_jp": 302,
     "positive_rate_jp": 38.08,
-    "total_reviews_all": 7467,
-    "positive_rate_all": 57.6,
+    "total_reviews_all": 7468,
+    "positive_rate_all": 57.61,
     "store_url": "https://store.steampowered.com/app/363150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/363150/capsule_231x87.jpg"
   }
