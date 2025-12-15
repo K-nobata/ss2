@@ -3,9 +3,20 @@
     "appid": 385800,
     "name": "NEKOPARA Vol. 0",
     "release_date": "2015年8月17日",
+    "genres": [
+      "カジュアル",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 201,
     "positive_rate_jp": 99.5,
-    "total_reviews_all": 17590,
+    "total_reviews_all": 17591,
     "positive_rate_all": 93.75,
     "store_url": "https://store.steampowered.com/app/385800",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/385800/capsule_231x87.jpg"
@@ -14,6 +25,17 @@
     "appid": 265890,
     "name": "Hexcells",
     "release_date": "2014年2月19日",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 240,
     "positive_rate_jp": 97.92,
     "total_reviews_all": 5817,
@@ -25,9 +47,25 @@
     "appid": 1250,
     "name": "Killing Floor",
     "release_date": "2009年5月14日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Valveアンチチート有効",
+      "データ",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 526,
     "positive_rate_jp": 97.34,
-    "total_reviews_all": 68041,
+    "total_reviews_all": 68040,
     "positive_rate_all": 95.2,
     "store_url": "https://store.steampowered.com/app/1250",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1250/capsule_231x87.jpg"
@@ -36,6 +74,19 @@
     "appid": 333600,
     "name": "NEKOPARA Vol. 1",
     "release_date": "2014年12月29日",
+    "genres": [
+      "カジュアル",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 332,
     "positive_rate_jp": 97.29,
     "total_reviews_all": 27070,
@@ -47,9 +98,36 @@
     "appid": 427520,
     "name": "Factorio",
     "release_date": "2020年8月14日",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "字幕オプション",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "レベル編集可能",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1550,
     "positive_rate_jp": 97.16,
-    "total_reviews_all": 221559,
+    "total_reviews_all": 221585,
     "positive_rate_all": 97.45,
     "store_url": "https://store.steampowered.com/app/427520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/427520/capsule_231x87.jpg"
@@ -58,9 +136,35 @@
     "appid": 270880,
     "name": "American Truck Simulator",
     "release_date": "2016年2月2日",
+    "genres": [
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "レベル編集可能",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 376,
     "positive_rate_jp": 96.81,
-    "total_reviews_all": 182600,
+    "total_reviews_all": 182631,
     "positive_rate_all": 96.97,
     "store_url": "https://store.steampowered.com/app/270880",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/270880/capsule_231x87.jpg"
@@ -69,9 +173,42 @@
     "appid": 620,
     "name": "Portal 2",
     "release_date": "2011年4月18日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamワークショップ",
+      "Steamワークショップ",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "データ",
+      "レベル編集可能",
+      "解説モード使用可能",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1156,
     "positive_rate_jp": 96.45,
-    "total_reviews_all": 447461,
+    "total_reviews_all": 447492,
     "positive_rate_all": 98.7,
     "store_url": "https://store.steampowered.com/app/620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/620/capsule_231x87.jpg"
@@ -80,6 +217,22 @@
     "appid": 406150,
     "name": "Refunct",
     "release_date": "2015年10月16日",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 219,
     "positive_rate_jp": 96.35,
     "total_reviews_all": 17348,
@@ -91,9 +244,32 @@
     "appid": 248820,
     "name": "Risk of Rain (2013)",
     "release_date": "2013年11月8日",
+    "genres": [
+      "アクション",
+      "インディー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "テキストサイズの調整",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "部分的コントローラサポート",
+      "タブレットでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 283,
     "positive_rate_jp": 96.11,
-    "total_reviews_all": 29749,
+    "total_reviews_all": 29748,
     "positive_rate_all": 93.1,
     "store_url": "https://store.steampowered.com/app/248820",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/248820/capsule_231x87.jpg"
@@ -102,9 +278,24 @@
     "appid": 239030,
     "name": "Papers, Please",
     "release_date": "2013年8月8日",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "データ",
+      "Steamランキング",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 608,
     "positive_rate_jp": 96.05,
-    "total_reviews_all": 77058,
+    "total_reviews_all": 77064,
     "positive_rate_all": 97.29,
     "store_url": "https://store.steampowered.com/app/239030",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/239030/capsule_231x87.jpg"
@@ -113,9 +304,41 @@
     "appid": 4000,
     "name": "Garry's Mod",
     "release_date": "2006年11月29日",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "LAN PvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamワークショップ",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "Valveアンチチート有効",
+      "レベル編集可能",
+      "Source SDKを含む",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1650,
     "positive_rate_jp": 96.0,
-    "total_reviews_all": 1199344,
+    "total_reviews_all": 1199427,
     "positive_rate_all": 96.82,
     "store_url": "https://store.steampowered.com/app/4000",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/4000/capsule_231x87.jpg"
@@ -124,6 +347,15 @@
     "appid": 221640,
     "name": "Super Hexagon",
     "release_date": "2012年11月27日",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "フルコントローラサポート",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 374,
     "positive_rate_jp": 95.99,
     "total_reviews_all": 24847,
@@ -135,6 +367,17 @@
     "appid": 288160,
     "name": "The Room",
     "release_date": "2014年7月28日",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 219,
     "positive_rate_jp": 95.89,
     "total_reviews_all": 30251,
@@ -146,9 +389,21 @@
     "appid": 266210,
     "name": "One Way Heroics",
     "release_date": "2014年2月28日",
+    "genres": [
+      "インディー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 351,
     "positive_rate_jp": 95.73,
-    "total_reviews_all": 4098,
+    "total_reviews_all": 4099,
     "positive_rate_all": 94.05,
     "store_url": "https://store.steampowered.com/app/266210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/266210/capsule_231x87.jpg"
@@ -157,6 +412,15 @@
     "appid": 353560,
     "name": "Plug & Play",
     "release_date": "2015年3月5日",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 204,
     "positive_rate_jp": 95.59,
     "total_reviews_all": 4924,
@@ -168,9 +432,21 @@
     "appid": 220200,
     "name": "Kerbal Space Program",
     "release_date": "2015年4月27日",
+    "genres": [
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 562,
     "positive_rate_jp": 95.2,
-    "total_reviews_all": 131037,
+    "total_reviews_all": 131041,
     "positive_rate_all": 95.22,
     "store_url": "https://store.steampowered.com/app/220200",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/220200/capsule_231x87.jpg"
@@ -179,9 +455,30 @@
     "appid": 400,
     "name": "Portal",
     "release_date": "2007年10月10日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "キャプション使用可能",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "字幕オプション",
+      "サラウンドサウンド",
+      "レベル編集可能",
+      "Source SDKを含む",
+      "解説モード使用可能",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 928,
     "positive_rate_jp": 95.15,
-    "total_reviews_all": 186656,
+    "total_reviews_all": 186675,
     "positive_rate_all": 98.5,
     "store_url": "https://store.steampowered.com/app/400",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/400/capsule_231x87.jpg"
@@ -190,10 +487,38 @@
     "appid": 227300,
     "name": "Euro Truck Simulator 2",
     "release_date": "2012年10月12日",
+    "genres": [
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "レベル編集可能",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 2016,
     "positive_rate_jp": 95.14,
-    "total_reviews_all": 878801,
-    "positive_rate_all": 97.5,
+    "total_reviews_all": 879030,
+    "positive_rate_all": 97.49,
     "store_url": "https://store.steampowered.com/app/227300",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/227300/capsule_231x87.jpg"
   },
@@ -201,6 +526,16 @@
     "appid": 495890,
     "name": "Montaro",
     "release_date": "2016年7月25日",
+    "genres": [
+      "カジュアル",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 347,
     "positive_rate_jp": 95.1,
     "total_reviews_all": 12085,
@@ -212,9 +547,28 @@
     "appid": 240,
     "name": "Counter-Strike: Source",
     "release_date": "2004年11月1日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "ステレオサウンド",
+      "字幕オプション",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "Valveアンチチート有効",
+      "データ",
+      "Source SDKを含む",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 243,
     "positive_rate_jp": 95.06,
-    "total_reviews_all": 187118,
+    "total_reviews_all": 187135,
     "positive_rate_all": 96.28,
     "store_url": "https://store.steampowered.com/app/240",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/240/capsule_231x87.jpg"
@@ -223,9 +577,25 @@
     "appid": 504230,
     "name": "Celeste",
     "release_date": "2018年1月25日",
-    "total_reviews_jp": 503,
-    "positive_rate_jp": 94.83,
-    "total_reviews_all": 132420,
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 504,
+    "positive_rate_jp": 94.84,
+    "total_reviews_all": 132445,
     "positive_rate_all": 97.43,
     "store_url": "https://store.steampowered.com/app/504230",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/504230/capsule_231x87.jpg"
@@ -234,9 +604,23 @@
     "appid": 360740,
     "name": "Downwell",
     "release_date": "2015年10月15日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamランキング",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 237,
     "positive_rate_jp": 94.51,
-    "total_reviews_all": 8399,
+    "total_reviews_all": 8400,
     "positive_rate_all": 96.58,
     "store_url": "https://store.steampowered.com/app/360740",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/360740/capsule_231x87.jpg"
@@ -245,9 +629,33 @@
     "appid": 386940,
     "name": "Ultimate Chicken Horse",
     "release_date": "2016年3月4日",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "レベル編集可能",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 307,
     "positive_rate_jp": 94.46,
-    "total_reviews_all": 50628,
+    "total_reviews_all": 50641,
     "positive_rate_all": 95.79,
     "store_url": "https://store.steampowered.com/app/386940",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/386940/capsule_231x87.jpg"
@@ -256,9 +664,24 @@
     "appid": 250900,
     "name": "The Binding of Isaac: Rebirth",
     "release_date": "2014年11月4日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 268,
     "positive_rate_jp": 94.4,
-    "total_reviews_all": 370230,
+    "total_reviews_all": 370296,
     "positive_rate_all": 97.27,
     "store_url": "https://store.steampowered.com/app/250900",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/250900/capsule_231x87.jpg"
@@ -267,9 +690,43 @@
     "appid": 550,
     "name": "Left 4 Dead 2",
     "release_date": "2009年11月16日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamワークショップ",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "Valveアンチチート有効",
+      "データ",
+      "Source SDKを含む",
+      "解説モード使用可能",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング",
+      "Steamタイムライン"
+    ],
     "total_reviews_jp": 2549,
     "positive_rate_jp": 94.39,
-    "total_reviews_all": 1003010,
+    "total_reviews_all": 1003089,
     "positive_rate_all": 97.54,
     "store_url": "https://store.steampowered.com/app/550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/550/capsule_231x87.jpg"
@@ -278,9 +735,27 @@
     "appid": 205100,
     "name": "Dishonored",
     "release_date": "2012年10月10日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "色のオプション",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 231,
     "positive_rate_jp": 94.37,
-    "total_reviews_all": 84247,
+    "total_reviews_all": 84253,
     "positive_rate_all": 97.6,
     "store_url": "https://store.steampowered.com/app/205100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/205100/capsule_231x87.jpg"
@@ -289,9 +764,31 @@
     "appid": 413150,
     "name": "Stardew Valley",
     "release_date": "2016年2月26日",
-    "total_reviews_jp": 1816,
+    "genres": [
+      "インディー",
+      "RPG",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 1817,
     "positive_rate_jp": 94.33,
-    "total_reviews_all": 953918,
+    "total_reviews_all": 954061,
     "positive_rate_all": 98.46,
     "store_url": "https://store.steampowered.com/app/413150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413150/capsule_231x87.jpg"
@@ -300,9 +797,22 @@
     "appid": 420530,
     "name": "OneShot",
     "release_date": "2016年12月8日",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1122,
     "positive_rate_jp": 94.3,
-    "total_reviews_all": 58863,
+    "total_reviews_all": 58888,
     "positive_rate_all": 98.33,
     "store_url": "https://store.steampowered.com/app/420530",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/420530/capsule_231x87.jpg"
@@ -311,9 +821,31 @@
     "appid": 105600,
     "name": "Terraria",
     "release_date": "2011年5月16日",
-    "total_reviews_jp": 4247,
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 4248,
     "positive_rate_jp": 94.28,
-    "total_reviews_all": 1458165,
+    "total_reviews_all": 1458317,
     "positive_rate_all": 97.44,
     "store_url": "https://store.steampowered.com/app/105600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/105600/capsule_231x87.jpg"
@@ -322,9 +854,26 @@
     "appid": 433340,
     "name": "Slime Rancher",
     "release_date": "2017年8月1日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 331,
     "positive_rate_jp": 94.26,
-    "total_reviews_all": 146927,
+    "total_reviews_all": 146944,
     "positive_rate_all": 97.98,
     "store_url": "https://store.steampowered.com/app/433340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/433340/capsule_231x87.jpg"
@@ -333,9 +882,24 @@
     "appid": 319630,
     "name": "Life is Strange - Episode 1",
     "release_date": "2015年1月29日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 626,
     "positive_rate_jp": 94.25,
-    "total_reviews_all": 171011,
+    "total_reviews_all": 171015,
     "positive_rate_all": 96.21,
     "store_url": "https://store.steampowered.com/app/319630",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/319630/capsule_231x87.jpg"
@@ -344,9 +908,24 @@
     "appid": 55230,
     "name": "Saints Row: The Third",
     "release_date": "2011年11月14日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 240,
     "positive_rate_jp": 94.17,
-    "total_reviews_all": 69028,
+    "total_reviews_all": 69026,
     "positive_rate_all": 95.67,
     "store_url": "https://store.steampowered.com/app/55230",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/55230/capsule_231x87.jpg"
@@ -355,9 +934,22 @@
     "appid": 294100,
     "name": "RimWorld",
     "release_date": "2018年10月17日",
+    "genres": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steamワークショップ",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1722,
     "positive_rate_jp": 94.13,
-    "total_reviews_all": 229145,
+    "total_reviews_all": 229174,
     "positive_rate_all": 97.91,
     "store_url": "https://store.steampowered.com/app/294100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/294100/capsule_231x87.jpg"
@@ -366,9 +958,28 @@
     "appid": 346010,
     "name": "Besiege",
     "release_date": "2020年2月18日",
+    "genres": [
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "LAN PvP",
+      "協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamランキング",
+      "レベル編集可能",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 358,
     "positive_rate_jp": 94.13,
-    "total_reviews_all": 51521,
+    "total_reviews_all": 51523,
     "positive_rate_all": 95.27,
     "store_url": "https://store.steampowered.com/app/346010",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/346010/capsule_231x87.jpg"
@@ -377,9 +988,29 @@
     "appid": 265930,
     "name": "Goat Simulator",
     "release_date": "2014年4月1日",
-    "total_reviews_jp": 608,
-    "positive_rate_jp": 94.08,
-    "total_reviews_all": 69219,
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "Steamランキング",
+      "レベル編集可能",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 607,
+    "positive_rate_jp": 94.07,
+    "total_reviews_all": 69214,
     "positive_rate_all": 90.85,
     "store_url": "https://store.steampowered.com/app/265930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/265930/capsule_231x87.jpg"
@@ -388,9 +1019,29 @@
     "appid": 268910,
     "name": "Cuphead",
     "release_date": "2017年9月29日",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 412,
     "positive_rate_jp": 93.69,
-    "total_reviews_all": 198924,
+    "total_reviews_all": 198944,
     "positive_rate_all": 96.25,
     "store_url": "https://store.steampowered.com/app/268910",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/268910/capsule_231x87.jpg"
@@ -399,9 +1050,24 @@
     "appid": 223470,
     "name": "POSTAL 2",
     "release_date": "2012年11月2日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 253,
     "positive_rate_jp": 93.68,
-    "total_reviews_all": 125411,
+    "total_reviews_all": 125428,
     "positive_rate_all": 96.95,
     "store_url": "https://store.steampowered.com/app/223470",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/223470/capsule_231x87.jpg"
@@ -410,9 +1076,21 @@
     "appid": 242920,
     "name": "Banished",
     "release_date": "2014年2月18日",
+    "genres": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 535,
     "positive_rate_jp": 93.64,
-    "total_reviews_all": 42698,
+    "total_reviews_all": 42699,
     "positive_rate_all": 90.4,
     "store_url": "https://store.steampowered.com/app/242920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/242920/capsule_231x87.jpg"
@@ -421,9 +1099,21 @@
     "appid": 8930,
     "name": "Sid Meier's Civilization® V",
     "release_date": "2011年7月29日",
+    "genres": [
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 811,
     "positive_rate_jp": 93.59,
-    "total_reviews_all": 207225,
+    "total_reviews_all": 207230,
     "positive_rate_all": 95.57,
     "store_url": "https://store.steampowered.com/app/8930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/8930/capsule_231x87.jpg"
@@ -432,9 +1122,26 @@
     "appid": 304430,
     "name": "INSIDE",
     "release_date": "2016年7月7日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "色のオプション",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 296,
     "positive_rate_jp": 93.58,
-    "total_reviews_all": 71710,
+    "total_reviews_all": 71714,
     "positive_rate_all": 96.98,
     "store_url": "https://store.steampowered.com/app/304430",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304430/capsule_231x87.jpg"
@@ -443,9 +1150,24 @@
     "appid": 460950,
     "name": "Katana ZERO",
     "release_date": "2019年4月18日",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 217,
     "positive_rate_jp": 93.55,
-    "total_reviews_all": 73403,
+    "total_reviews_all": 73406,
     "positive_rate_all": 98.01,
     "store_url": "https://store.steampowered.com/app/460950",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/460950/capsule_231x87.jpg"
@@ -454,10 +1176,25 @@
     "appid": 313340,
     "name": "Mountain",
     "release_date": "2014年8月18日",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "VRサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 566,
     "positive_rate_jp": 93.46,
-    "total_reviews_all": 16272,
-    "positive_rate_all": 88.17,
+    "total_reviews_all": 16273,
+    "positive_rate_all": 88.16,
     "store_url": "https://store.steampowered.com/app/313340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/313340/capsule_231x87.jpg"
   },
@@ -465,9 +1202,31 @@
     "appid": 284160,
     "name": "BeamNG.drive",
     "release_date": "2015年5月29日",
+    "genres": [
+      "レース",
+      "シミュレーション",
+      "早期アクセス"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "キーボードのみのオプション",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "レベル編集可能",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 490,
     "positive_rate_jp": 93.27,
-    "total_reviews_all": 360087,
+    "total_reviews_all": 360280,
     "positive_rate_all": 97.41,
     "store_url": "https://store.steampowered.com/app/284160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/284160/capsule_231x87.jpg"
@@ -476,9 +1235,22 @@
     "appid": 219150,
     "name": "Hotline Miami",
     "release_date": "2012年10月23日",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 401,
     "positive_rate_jp": 93.02,
-    "total_reviews_all": 117565,
+    "total_reviews_all": 117572,
     "positive_rate_all": 97.04,
     "store_url": "https://store.steampowered.com/app/219150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219150/capsule_231x87.jpg"
@@ -487,9 +1259,23 @@
     "appid": 233860,
     "name": "Kenshi",
     "release_date": "2018年12月6日",
+    "genres": [
+      "アクション",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1499,
     "positive_rate_jp": 93.0,
-    "total_reviews_all": 106227,
+    "total_reviews_all": 106243,
     "positive_rate_all": 95.55,
     "store_url": "https://store.steampowered.com/app/233860",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/233860/capsule_231x87.jpg"
@@ -498,6 +1284,27 @@
     "appid": 245170,
     "name": "Skullgirls 2nd Encore",
     "release_date": "2013年8月22日",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 243,
     "positive_rate_jp": 93.0,
     "total_reviews_all": 31745,
@@ -509,9 +1316,22 @@
     "appid": 412830,
     "name": "STEINS;GATE",
     "release_date": "2016年9月8日",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 381,
     "positive_rate_jp": 92.91,
-    "total_reviews_all": 24241,
+    "total_reviews_all": 24247,
     "positive_rate_all": 97.15,
     "store_url": "https://store.steampowered.com/app/412830",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/412830/capsule_231x87.jpg"
@@ -520,9 +1340,25 @@
     "appid": 282140,
     "name": "SOMA",
     "release_date": "2015年9月21日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 222,
     "positive_rate_jp": 92.79,
-    "total_reviews_all": 47897,
+    "total_reviews_all": 47930,
     "positive_rate_all": 95.93,
     "store_url": "https://store.steampowered.com/app/282140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282140/capsule_231x87.jpg"
@@ -531,9 +1367,25 @@
     "appid": 219740,
     "name": "Don't Starve",
     "release_date": "2013年4月23日",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 263,
     "positive_rate_jp": 92.78,
-    "total_reviews_all": 111494,
+    "total_reviews_all": 111498,
     "positive_rate_all": 96.58,
     "store_url": "https://store.steampowered.com/app/219740",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219740/capsule_231x87.jpg"
@@ -542,9 +1394,40 @@
     "appid": 204360,
     "name": "Castle Crashers®",
     "release_date": "2012年9月26日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "カスタム音量調整",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "Steamランキング",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 221,
     "positive_rate_jp": 92.76,
-    "total_reviews_all": 133093,
+    "total_reviews_all": 133100,
     "positive_rate_all": 96.2,
     "store_url": "https://store.steampowered.com/app/204360",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/204360/capsule_231x87.jpg"
@@ -553,9 +1436,30 @@
     "appid": 246900,
     "name": "Viscera Cleanup Detail",
     "release_date": "2015年10月23日",
+    "genres": [
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "レベル編集可能",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 221,
     "positive_rate_jp": 92.76,
-    "total_reviews_all": 23064,
+    "total_reviews_all": 23066,
     "positive_rate_all": 92.32,
     "store_url": "https://store.steampowered.com/app/246900",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/246900/capsule_231x87.jpg"
@@ -564,9 +1468,24 @@
     "appid": 264710,
     "name": "Subnautica",
     "release_date": "2018年1月23日",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "VR対応",
+      "Steamトレーディングカード",
+      "VRサポート",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 986,
     "positive_rate_jp": 92.7,
-    "total_reviews_all": 331376,
+    "total_reviews_all": 331404,
     "positive_rate_all": 96.99,
     "store_url": "https://store.steampowered.com/app/264710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/264710/capsule_231x87.jpg"
@@ -575,9 +1494,22 @@
     "appid": 413420,
     "name": "Danganronpa 2: Goodbye Despair",
     "release_date": "2016年4月18日",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 332,
     "positive_rate_jp": 92.47,
-    "total_reviews_all": 27984,
+    "total_reviews_all": 28007,
     "positive_rate_all": 96.15,
     "store_url": "https://store.steampowered.com/app/413420",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413420/capsule_231x87.jpg"
@@ -586,9 +1518,24 @@
     "appid": 10,
     "name": "Counter-Strike",
     "release_date": "2000年11月1日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "色のオプション",
+      "カスタム音量調整",
+      "キーボードのみのオプション",
+      "ステレオサウンド",
+      "Valveアンチチート有効",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 207,
     "positive_rate_jp": 92.27,
-    "total_reviews_all": 255461,
+    "total_reviews_all": 255481,
     "positive_rate_all": 97.42,
     "store_url": "https://store.steampowered.com/app/10",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/10/capsule_231x87.jpg"
@@ -597,9 +1544,42 @@
     "appid": 247080,
     "name": "Crypt of the NecroDancer",
     "release_date": "2015年4月23日",
+    "genres": [
+      "アクション",
+      "インディー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamワークショップ",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "字幕オプション",
+      "Steamクラウド",
+      "Steamランキング",
+      "レベル編集可能",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 489,
     "positive_rate_jp": 92.23,
-    "total_reviews_all": 26041,
+    "total_reviews_all": 26043,
     "positive_rate_all": 95.52,
     "store_url": "https://store.steampowered.com/app/247080",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/247080/capsule_231x87.jpg"
@@ -608,9 +1588,22 @@
     "appid": 384190,
     "name": "ABZU",
     "release_date": "2016年8月2日",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 283,
     "positive_rate_jp": 92.23,
-    "total_reviews_all": 26785,
+    "total_reviews_all": 26786,
     "positive_rate_all": 92.93,
     "store_url": "https://store.steampowered.com/app/384190",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/384190/capsule_231x87.jpg"
@@ -619,9 +1612,26 @@
     "appid": 365450,
     "name": "Hacknet",
     "release_date": "2015年8月12日",
+    "genres": [
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamワークショップ",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "時間制限付き入力なしでプレイ可能",
+      "Steamクラウド",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 294,
     "positive_rate_jp": 92.18,
-    "total_reviews_all": 25615,
+    "total_reviews_all": 25618,
     "positive_rate_all": 93.56,
     "store_url": "https://store.steampowered.com/app/365450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/365450/capsule_231x87.jpg"
@@ -630,9 +1640,18 @@
     "appid": 457140,
     "name": "Oxygen Not Included",
     "release_date": "2019年7月30日",
+    "genres": [
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 625,
     "positive_rate_jp": 92.16,
-    "total_reviews_all": 135806,
+    "total_reviews_all": 135828,
     "positive_rate_all": 96.79,
     "store_url": "https://store.steampowered.com/app/457140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/457140/capsule_231x87.jpg"
@@ -641,9 +1660,23 @@
     "appid": 255710,
     "name": "Cities: Skylines",
     "release_date": "2015年3月10日",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "レベル編集可能",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1590,
     "positive_rate_jp": 92.01,
-    "total_reviews_all": 281776,
+    "total_reviews_all": 281782,
     "positive_rate_all": 92.97,
     "store_url": "https://store.steampowered.com/app/255710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/255710/capsule_231x87.jpg"
@@ -652,9 +1685,27 @@
     "appid": 400910,
     "name": "Rabi-Ribi",
     "release_date": "2016年1月28日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "Steamランキング",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 435,
     "positive_rate_jp": 91.95,
-    "total_reviews_all": 12040,
+    "total_reviews_all": 12038,
     "positive_rate_all": 95.6,
     "store_url": "https://store.steampowered.com/app/400910",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/400910/capsule_231x87.jpg"
@@ -663,10 +1714,22 @@
     "appid": 48700,
     "name": "Mount & Blade: Warband",
     "release_date": "2010年3月31日",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 418,
     "positive_rate_jp": 91.87,
-    "total_reviews_all": 168936,
-    "positive_rate_all": 97.73,
+    "total_reviews_all": 168949,
+    "positive_rate_all": 97.72,
     "store_url": "https://store.steampowered.com/app/48700",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/48700/capsule_231x87.jpg"
   },
@@ -674,6 +1737,23 @@
     "appid": 222880,
     "name": "Insurgency",
     "release_date": "2014年1月22日",
+    "genres": [
+      "アクション",
+      "インディー",
+      "ストラテジー"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Valveアンチチート有効",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 276,
     "positive_rate_jp": 91.67,
     "total_reviews_all": 124731,
@@ -685,9 +1765,39 @@
     "appid": 477160,
     "name": "Human Fall Flat",
     "release_date": "2016年7月22日",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "色のオプション",
+      "カスタム音量調整",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "データ",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 774,
     "positive_rate_jp": 91.47,
-    "total_reviews_all": 220051,
+    "total_reviews_all": 220074,
     "positive_rate_all": 94.66,
     "store_url": "https://store.steampowered.com/app/477160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/477160/capsule_231x87.jpg"
@@ -696,9 +1806,31 @@
     "appid": 363970,
     "name": "Clicker Heroes",
     "release_date": "2015年5月13日",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー",
+      "無料プレイ"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "カメラの快適性",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "タッチのみのオプション",
+      "Steamクラウド",
+      "データ"
+    ],
     "total_reviews_jp": 304,
     "positive_rate_jp": 91.45,
-    "total_reviews_all": 61695,
+    "total_reviews_all": 61697,
     "positive_rate_all": 89.65,
     "store_url": "https://store.steampowered.com/app/363970",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/363970/capsule_231x87.jpg"
@@ -707,9 +1839,45 @@
     "appid": 322330,
     "name": "Don't Starve Together",
     "release_date": "2016年4月21日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "LAN PvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "アプリ内購入",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 581,
     "positive_rate_jp": 91.39,
-    "total_reviews_all": 521359,
+    "total_reviews_all": 521385,
     "positive_rate_all": 95.14,
     "store_url": "https://store.steampowered.com/app/322330",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/322330/capsule_231x87.jpg"
@@ -718,9 +1886,23 @@
     "appid": 447530,
     "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
     "release_date": "2016年6月21日",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 579,
     "positive_rate_jp": 91.19,
-    "total_reviews_all": 37425,
+    "total_reviews_all": 37430,
     "positive_rate_all": 97.39,
     "store_url": "https://store.steampowered.com/app/447530",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/447530/capsule_231x87.jpg"
@@ -729,6 +1911,22 @@
     "appid": 221380,
     "name": "Age of Empires II (Retired)",
     "release_date": "2013年4月9日",
+    "genres": [
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "データ",
+      "Steamランキング",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 249,
     "positive_rate_jp": 91.16,
     "total_reviews_all": 102008,
@@ -740,10 +1938,23 @@
     "appid": 22380,
     "name": "Fallout: New Vegas",
     "release_date": "2010年10月21日",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamランキング",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 384,
     "positive_rate_jp": 91.15,
-    "total_reviews_all": 236309,
-    "positive_rate_all": 95.97,
+    "total_reviews_all": 236333,
+    "positive_rate_all": 95.96,
     "store_url": "https://store.steampowered.com/app/22380",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/22380/capsule_231x87.jpg"
   },
@@ -751,9 +1962,25 @@
     "appid": 394360,
     "name": "Hearts of Iron IV",
     "release_date": "2016年6月6日",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 2076,
     "positive_rate_jp": 91.09,
-    "total_reviews_all": 350690,
+    "total_reviews_all": 350720,
     "positive_rate_all": 90.52,
     "store_url": "https://store.steampowered.com/app/394360",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/394360/capsule_231x87.jpg"
@@ -762,39 +1989,89 @@
     "appid": 405640,
     "name": "Pony Island",
     "release_date": "2016年1月4日",
+    "genres": [
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "データ",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 219,
     "positive_rate_jp": 90.87,
-    "total_reviews_all": 17651,
+    "total_reviews_all": 17650,
     "positive_rate_all": 95.09,
     "store_url": "https://store.steampowered.com/app/405640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/405640/capsule_231x87.jpg"
   },
   {
-    "appid": 391540,
-    "name": "Undertale",
-    "release_date": "2015年9月15日",
-    "total_reviews_jp": 2468,
-    "positive_rate_jp": 90.76,
-    "total_reviews_all": 307133,
-    "positive_rate_all": 96.77,
-    "store_url": "https://store.steampowered.com/app/391540",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/391540/capsule_231x87.jpg"
-  },
-  {
     "appid": 282900,
     "name": "Hyperdimension Neptunia Re;Birth1",
     "release_date": "2015年1月29日",
+    "genres": [
+      "RPG",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 270,
     "positive_rate_jp": 90.74,
-    "total_reviews_all": 12180,
+    "total_reviews_all": 12179,
     "positive_rate_all": 94.24,
     "store_url": "https://store.steampowered.com/app/282900",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282900/capsule_231x87.jpg"
   },
   {
+    "appid": 391540,
+    "name": "Undertale",
+    "release_date": "2015年9月15日",
+    "genres": [
+      "インディー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steamトレーディングカード",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 2470,
+    "positive_rate_jp": 90.73,
+    "total_reviews_all": 307206,
+    "positive_rate_all": 96.77,
+    "store_url": "https://store.steampowered.com/app/391540",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/391540/capsule_231x87.jpg"
+  },
+  {
     "appid": 233980,
     "name": "UnEpic",
     "release_date": "2014年7月25日",
+    "genres": [
+      "アクション",
+      "インディー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "レベル編集可能",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 219,
     "positive_rate_jp": 90.41,
     "total_reviews_all": 8068,
@@ -806,9 +2083,36 @@
     "appid": 220,
     "name": "Half-Life 2",
     "release_date": "2004年11月16日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamワークショップ",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "字幕オプション",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "Source SDKを含む",
+      "解説モード使用可能",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング",
+      "Steamタイムライン"
+    ],
     "total_reviews_jp": 353,
     "positive_rate_jp": 90.37,
-    "total_reviews_all": 260374,
+    "total_reviews_all": 260434,
     "positive_rate_all": 97.61,
     "store_url": "https://store.steampowered.com/app/220",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/220/capsule_231x87.jpg"
@@ -817,9 +2121,19 @@
     "appid": 225080,
     "name": "Brothers - A Tale of Two Sons",
     "release_date": "2013年9月3日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "フルコントローラサポート",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 278,
     "positive_rate_jp": 89.93,
-    "total_reviews_all": 41139,
+    "total_reviews_all": 41137,
     "positive_rate_all": 94.43,
     "store_url": "https://store.steampowered.com/app/225080",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/225080/capsule_231x87.jpg"
@@ -828,9 +2142,36 @@
     "appid": 427410,
     "name": "Abiotic Factor",
     "release_date": "2025年7月22日",
-    "total_reviews_jp": 282,
-    "positive_rate_jp": 89.72,
-    "total_reviews_all": 49078,
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "字幕オプション",
+      "サラウンドサウンド",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 283,
+    "positive_rate_jp": 89.75,
+    "total_reviews_all": 49097,
     "positive_rate_all": 95.99,
     "store_url": "https://store.steampowered.com/app/427410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/427410/capsule_231x87.jpg"
@@ -839,9 +2180,22 @@
     "appid": 212680,
     "name": "FTL: Faster Than Light",
     "release_date": "2012年9月14日",
+    "genres": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 666,
     "positive_rate_jp": 89.49,
-    "total_reviews_all": 76721,
+    "total_reviews_all": 76723,
     "positive_rate_all": 95.2,
     "store_url": "https://store.steampowered.com/app/212680",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/212680/capsule_231x87.jpg"
@@ -850,6 +2204,18 @@
     "appid": 368370,
     "name": "Her Story",
     "release_date": "2015年6月24日",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 295,
     "positive_rate_jp": 89.49,
     "total_reviews_all": 10006,
@@ -861,9 +2227,24 @@
     "appid": 238320,
     "name": "Outlast",
     "release_date": "2013年9月4日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 504,
     "positive_rate_jp": 89.29,
-    "total_reviews_all": 130237,
+    "total_reviews_all": 130258,
     "positive_rate_all": 96.44,
     "store_url": "https://store.steampowered.com/app/238320",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/238320/capsule_231x87.jpg"
@@ -872,9 +2253,33 @@
     "appid": 468920,
     "name": "Ultimate Fishing® Simulator",
     "release_date": "2018年8月30日",
+    "genres": [
+      "カジュアル",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "被追跡コントローラサポート",
+      "Steamトレーディングカード",
+      "カメラの快適性",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "Steamクラウド",
+      "Steamランキング",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 308,
     "positive_rate_jp": 89.29,
-    "total_reviews_all": 8506,
+    "total_reviews_all": 8507,
     "positive_rate_all": 89.44,
     "store_url": "https://store.steampowered.com/app/468920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/468920/capsule_231x87.jpg"
@@ -883,9 +2288,29 @@
     "appid": 219990,
     "name": "Grim Dawn",
     "release_date": "2016年2月25日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 898,
     "positive_rate_jp": 89.2,
-    "total_reviews_all": 102740,
+    "total_reviews_all": 102745,
     "positive_rate_all": 93.74,
     "store_url": "https://store.steampowered.com/app/219990",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219990/capsule_231x87.jpg"
@@ -894,9 +2319,26 @@
     "appid": 35450,
     "name": "Red Orchestra 2: Heroes of Stalingrad with Rising Storm",
     "release_date": "2011年9月13日",
+    "genres": [
+      "アクション",
+      "MM（Massively Multiplayer）",
+      "シミュレーション"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Valveアンチチート有効",
+      "データ",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 218,
     "positive_rate_jp": 88.99,
-    "total_reviews_all": 37753,
+    "total_reviews_all": 37754,
     "positive_rate_all": 92.56,
     "store_url": "https://store.steampowered.com/app/35450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/35450/capsule_231x87.jpg"
@@ -905,9 +2347,26 @@
     "appid": 49520,
     "name": "Borderlands 2",
     "release_date": "2012年10月25日",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1125,
     "positive_rate_jp": 88.8,
-    "total_reviews_all": 308145,
+    "total_reviews_all": 308156,
     "positive_rate_all": 89.36,
     "store_url": "https://store.steampowered.com/app/49520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/49520/capsule_231x87.jpg"
@@ -916,9 +2375,34 @@
     "appid": 440,
     "name": "Team Fortress 2",
     "release_date": "2007年10月10日",
+    "genres": [
+      "アクション",
+      "無料プレイ"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamワークショップ",
+      "アプリ内購入",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "Valveアンチチート有効",
+      "データ",
+      "レベル編集可能",
+      "解説モード使用可能",
+      "スマホでRemote Play",
+      "タブレットでRemote Play"
+    ],
     "total_reviews_jp": 1862,
     "positive_rate_jp": 88.67,
-    "total_reviews_all": 1206008,
+    "total_reviews_all": 1206065,
     "positive_rate_all": 90.62,
     "store_url": "https://store.steampowered.com/app/440",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/440/capsule_231x87.jpg"
@@ -927,9 +2411,40 @@
     "appid": 304930,
     "name": "Unturned",
     "release_date": "2017年7月7日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "無料プレイ"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "LAN PvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "アプリ内購入",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "Valveアンチチート有効",
+      "データ",
+      "レベル編集可能",
+      "タブレットでRemote Play"
+    ],
     "total_reviews_jp": 865,
     "positive_rate_jp": 88.67,
-    "total_reviews_all": 559792,
+    "total_reviews_all": 559805,
     "positive_rate_all": 91.09,
     "store_url": "https://store.steampowered.com/app/304930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304930/capsule_231x87.jpg"
@@ -938,6 +2453,24 @@
     "appid": 410320,
     "name": "EARTH DEFENSE FORCE 4.1 The Shadow of New Despair",
     "release_date": "2016年7月18日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 492,
     "positive_rate_jp": 88.62,
     "total_reviews_all": 10252,
@@ -949,9 +2482,27 @@
     "appid": 242760,
     "name": "The Forest",
     "release_date": "2018年4月30日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "被追跡コントローラサポート",
+      "VR対応",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1174,
     "positive_rate_jp": 88.59,
-    "total_reviews_all": 650447,
+    "total_reviews_all": 650486,
     "positive_rate_all": 95.54,
     "store_url": "https://store.steampowered.com/app/242760",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/242760/capsule_231x87.jpg"
@@ -960,9 +2511,23 @@
     "appid": 200510,
     "name": "XCOM: Enemy Unknown",
     "release_date": "2012年10月11日",
+    "genres": [
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 270,
     "positive_rate_jp": 88.52,
-    "total_reviews_all": 57461,
+    "total_reviews_all": 57463,
     "positive_rate_all": 93.19,
     "store_url": "https://store.steampowered.com/app/200510",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/200510/capsule_231x87.jpg"
@@ -971,9 +2536,27 @@
     "appid": 379720,
     "name": "DOOM",
     "release_date": "2016年5月12日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "色のオプション",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 410,
     "positive_rate_jp": 88.29,
-    "total_reviews_all": 213520,
+    "total_reviews_all": 213531,
     "positive_rate_all": 95.5,
     "store_url": "https://store.steampowered.com/app/379720",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/379720/capsule_231x87.jpg"
@@ -982,10 +2565,25 @@
     "appid": 219640,
     "name": "Chivalry: Medieval Warfare",
     "release_date": "2012年10月16日",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Valveアンチチート有効",
+      "レベル編集可能",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 212,
     "positive_rate_jp": 88.21,
-    "total_reviews_all": 65281,
-    "positive_rate_all": 82.54,
+    "total_reviews_all": 65279,
+    "positive_rate_all": 82.55,
     "store_url": "https://store.steampowered.com/app/219640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219640/capsule_231x87.jpg"
   },
@@ -993,9 +2591,26 @@
     "appid": 45760,
     "name": "Ultra Street Fighter® IV",
     "release_date": "2014年8月7日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "共有／分割画面でのPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 260,
     "positive_rate_jp": 88.08,
-    "total_reviews_all": 16338,
+    "total_reviews_all": 16340,
     "positive_rate_all": 90.32,
     "store_url": "https://store.steampowered.com/app/45760",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/45760/capsule_231x87.jpg"
@@ -1004,9 +2619,26 @@
     "appid": 200710,
     "name": "Torchlight II",
     "release_date": "2012年9月20日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 218,
     "positive_rate_jp": 88.07,
-    "total_reviews_all": 44846,
+    "total_reviews_all": 44847,
     "positive_rate_all": 92.7,
     "store_url": "https://store.steampowered.com/app/200710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/200710/capsule_231x87.jpg"
@@ -1015,9 +2647,27 @@
     "appid": 244210,
     "name": "Assetto Corsa",
     "release_date": "2014年12月19日",
+    "genres": [
+      "インディー",
+      "レース",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "VR対応",
+      "部分的コントローラサポート",
+      "Steamランキング",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 491,
     "positive_rate_jp": 87.98,
-    "total_reviews_all": 161683,
+    "total_reviews_all": 161693,
     "positive_rate_all": 92.74,
     "store_url": "https://store.steampowered.com/app/244210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/244210/capsule_231x87.jpg"
@@ -1026,6 +2676,27 @@
     "appid": 470310,
     "name": "TROUBLESHOOTER: Abandoned Children",
     "release_date": "2020年4月23日",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "字幕オプション",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 207,
     "positive_rate_jp": 87.92,
     "total_reviews_all": 9484,
@@ -1037,9 +2708,23 @@
     "appid": 322170,
     "name": "Geometry Dash",
     "release_date": "2014年12月22日",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "レベル編集可能",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 411,
     "positive_rate_jp": 87.83,
-    "total_reviews_all": 489009,
+    "total_reviews_all": 489211,
     "positive_rate_all": 93.11,
     "store_url": "https://store.steampowered.com/app/322170",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/322170/capsule_231x87.jpg"
@@ -1048,9 +2733,22 @@
     "appid": 108710,
     "name": "Alan Wake",
     "release_date": "2012年2月16日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 326,
     "positive_rate_jp": 87.73,
-    "total_reviews_all": 54038,
+    "total_reviews_all": 54053,
     "positive_rate_all": 90.2,
     "store_url": "https://store.steampowered.com/app/108710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/108710/capsule_231x87.jpg"
@@ -1059,6 +2757,20 @@
     "appid": 428550,
     "name": "Momodora: Reverie Under The Moonlight",
     "release_date": "2016年3月4日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 269,
     "positive_rate_jp": 87.73,
     "total_reviews_all": 11387,
@@ -1070,6 +2782,26 @@
     "appid": 211820,
     "name": "Starbound",
     "release_date": "2016年7月22日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 396,
     "positive_rate_jp": 87.37,
     "total_reviews_all": 122570,
@@ -1081,10 +2813,26 @@
     "appid": 489830,
     "name": "The Elder Scrolls V: Skyrim Special Edition",
     "release_date": "2016年10月27日",
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1222,
     "positive_rate_jp": 87.32,
-    "total_reviews_all": 352828,
-    "positive_rate_all": 92.16,
+    "total_reviews_all": 352878,
+    "positive_rate_all": 92.17,
     "store_url": "https://store.steampowered.com/app/489830",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/489830/capsule_231x87.jpg"
   },
@@ -1092,9 +2840,22 @@
     "appid": 8870,
     "name": "BioShock Infinite",
     "release_date": "2013年4月24日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 509,
     "positive_rate_jp": 87.23,
-    "total_reviews_all": 142913,
+    "total_reviews_all": 142919,
     "positive_rate_all": 93.51,
     "store_url": "https://store.steampowered.com/app/8870",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/8870/capsule_231x87.jpg"
@@ -1103,6 +2864,32 @@
     "appid": 41070,
     "name": "Serious Sam 3: BFE",
     "release_date": "2011年11月22日",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "Steamランキング",
+      "レベル編集可能",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 201,
     "positive_rate_jp": 87.06,
     "total_reviews_all": 28076,
@@ -1114,9 +2901,21 @@
     "appid": 204450,
     "name": "Call of Juarez: Gunslinger",
     "release_date": "2013年5月22日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 220,
     "positive_rate_jp": 86.82,
-    "total_reviews_all": 42186,
+    "total_reviews_all": 42190,
     "positive_rate_all": 94.99,
     "store_url": "https://store.steampowered.com/app/204450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/204450/capsule_231x87.jpg"
@@ -1125,9 +2924,35 @@
     "appid": 251570,
     "name": "7 Days to Die",
     "release_date": "2024年7月25日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "LAN PvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "レベル編集可能",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 3309,
     "positive_rate_jp": 86.79,
-    "total_reviews_all": 390475,
+    "total_reviews_all": 390503,
     "positive_rate_all": 87.15,
     "store_url": "https://store.steampowered.com/app/251570",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/251570/capsule_231x87.jpg"
@@ -1136,9 +2961,27 @@
     "appid": 236850,
     "name": "Europa Universalis IV",
     "release_date": "2013年8月13日",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 369,
     "positive_rate_jp": 86.72,
-    "total_reviews_all": 135000,
+    "total_reviews_all": 135001,
     "positive_rate_all": 87.52,
     "store_url": "https://store.steampowered.com/app/236850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/236850/capsule_231x87.jpg"
@@ -1147,9 +2990,23 @@
     "appid": 282070,
     "name": "This War of Mine",
     "release_date": "2014年11月14日",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 517,
     "positive_rate_jp": 86.46,
-    "total_reviews_all": 95684,
+    "total_reviews_all": 95693,
     "positive_rate_all": 93.92,
     "store_url": "https://store.steampowered.com/app/282070",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282070/capsule_231x87.jpg"
@@ -1158,9 +3015,25 @@
     "appid": 367520,
     "name": "Hollow Knight",
     "release_date": "2017年2月24日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1018,
     "positive_rate_jp": 86.35,
-    "total_reviews_all": 506651,
+    "total_reviews_all": 506798,
     "positive_rate_all": 96.93,
     "store_url": "https://store.steampowered.com/app/367520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/367520/capsule_231x87.jpg"
@@ -1169,9 +3042,24 @@
     "appid": 493340,
     "name": "Planet Coaster",
     "release_date": "2016年11月17日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 364,
     "positive_rate_jp": 86.26,
-    "total_reviews_all": 70860,
+    "total_reviews_all": 70861,
     "positive_rate_all": 91.4,
     "store_url": "https://store.steampowered.com/app/493340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/493340/capsule_231x87.jpg"
@@ -1180,9 +3068,30 @@
     "appid": 232090,
     "name": "Killing Floor 2",
     "release_date": "2016年11月18日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "アプリ内購入",
+      "Valveアンチチート有効",
+      "レベル編集可能",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 721,
     "positive_rate_jp": 86.13,
-    "total_reviews_all": 127592,
+    "total_reviews_all": 127594,
     "positive_rate_all": 88.29,
     "store_url": "https://store.steampowered.com/app/232090",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/232090/capsule_231x87.jpg"
@@ -1191,9 +3100,30 @@
     "appid": 374320,
     "name": "DARK SOULS™ III",
     "release_date": "2016年4月11日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1808,
     "positive_rate_jp": 86.12,
-    "total_reviews_all": 425264,
+    "total_reviews_all": 425312,
     "positive_rate_all": 94.34,
     "store_url": "https://store.steampowered.com/app/374320",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/374320/capsule_231x87.jpg"
@@ -1202,9 +3132,35 @@
     "appid": 282800,
     "name": "100% Orange Juice",
     "release_date": "2014年5月16日",
-    "total_reviews_jp": 393,
-    "positive_rate_jp": 86.01,
-    "total_reviews_all": 28775,
+    "genres": [
+      "インディー",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "Valveアンチチート有効",
+      "データ",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 392,
+    "positive_rate_jp": 85.97,
+    "total_reviews_all": 28773,
     "positive_rate_all": 91.6,
     "store_url": "https://store.steampowered.com/app/282800",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282800/capsule_231x87.jpg"
@@ -1213,9 +3169,26 @@
     "appid": 285920,
     "name": "TerraTech",
     "release_date": "2018年8月10日",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 500,
     "positive_rate_jp": 85.8,
-    "total_reviews_all": 24153,
+    "total_reviews_all": 24154,
     "positive_rate_all": 91.35,
     "store_url": "https://store.steampowered.com/app/285920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/285920/capsule_231x87.jpg"
@@ -1224,9 +3197,22 @@
     "appid": 218230,
     "name": "PlanetSide 2",
     "release_date": "2012年11月20日",
+    "genres": [
+      "アクション",
+      "MM（Massively Multiplayer）",
+      "無料プレイ"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "Steamトレーディングカード",
+      "Steamクラウド"
+    ],
     "total_reviews_jp": 253,
     "positive_rate_jp": 85.77,
-    "total_reviews_all": 74169,
+    "total_reviews_all": 74168,
     "positive_rate_all": 80.7,
     "store_url": "https://store.steampowered.com/app/218230",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/218230/capsule_231x87.jpg"
@@ -1235,9 +3221,29 @@
     "appid": 380600,
     "name": "Fishing Planet",
     "release_date": "2017年8月28日",
+    "genres": [
+      "MM（Massively Multiplayer）",
+      "シミュレーション",
+      "スポーツ",
+      "無料プレイ"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "テレビでRemote Play"
+    ],
     "total_reviews_jp": 210,
     "positive_rate_jp": 85.71,
-    "total_reviews_all": 71174,
+    "total_reviews_all": 71184,
     "positive_rate_all": 86.79,
     "store_url": "https://store.steampowered.com/app/380600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/380600/capsule_231x87.jpg"
@@ -1246,9 +3252,16 @@
     "appid": 22370,
     "name": "Fallout 3: Game of the Year Edition",
     "release_date": "2009年12月17日",
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 235,
     "positive_rate_jp": 85.53,
-    "total_reviews_all": 52135,
+    "total_reviews_all": 52140,
     "positive_rate_all": 81.08,
     "store_url": "https://store.steampowered.com/app/22370",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/22370/capsule_231x87.jpg"
@@ -1257,10 +3270,23 @@
     "appid": 323190,
     "name": "Frostpunk",
     "release_date": "2018年4月24日",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 527,
     "positive_rate_jp": 85.2,
-    "total_reviews_all": 129120,
-    "positive_rate_all": 92.65,
+    "total_reviews_all": 129160,
+    "positive_rate_all": 92.66,
     "store_url": "https://store.steampowered.com/app/323190",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/323190/capsule_231x87.jpg"
   },
@@ -1268,9 +3294,32 @@
     "appid": 292030,
     "name": "The Witcher 3: Wild Hunt",
     "release_date": "2015年5月18日",
-    "total_reviews_jp": 1574,
-    "positive_rate_jp": 84.82,
-    "total_reviews_all": 849221,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 1575,
+    "positive_rate_jp": 84.83,
+    "total_reviews_all": 849321,
     "positive_rate_all": 96.79,
     "store_url": "https://store.steampowered.com/app/292030",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/292030/capsule_231x87.jpg"
@@ -1279,9 +3328,22 @@
     "appid": 413410,
     "name": "Danganronpa: Trigger Happy Havoc",
     "release_date": "2016年2月18日",
-    "total_reviews_jp": 352,
-    "positive_rate_jp": 84.66,
-    "total_reviews_all": 32567,
+    "genres": [
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 354,
+    "positive_rate_jp": 84.46,
+    "total_reviews_all": 32587,
     "positive_rate_all": 96.01,
     "store_url": "https://store.steampowered.com/app/413410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413410/capsule_231x87.jpg"
@@ -1290,9 +3352,32 @@
     "appid": 107410,
     "name": "Arma 3",
     "release_date": "2013年9月12日",
+    "genres": [
+      "アクション",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "LAN PvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamワークショップ",
+      "データ",
+      "Steamランキング",
+      "レベル編集可能",
+      "Steamタイムライン"
+    ],
     "total_reviews_jp": 574,
     "positive_rate_jp": 84.32,
-    "total_reviews_all": 288440,
+    "total_reviews_all": 288445,
     "positive_rate_all": 90.47,
     "store_url": "https://store.steampowered.com/app/107410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/107410/capsule_231x87.jpg"
@@ -1301,10 +3386,24 @@
     "appid": 210970,
     "name": "The Witness",
     "release_date": "2016年1月26日",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "キャプション使用可能",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 314,
     "positive_rate_jp": 84.08,
-    "total_reviews_all": 19792,
-    "positive_rate_all": 84.61,
+    "total_reviews_all": 19797,
+    "positive_rate_all": 84.6,
     "store_url": "https://store.steampowered.com/app/210970",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/210970/capsule_231x87.jpg"
   },
@@ -1312,9 +3411,40 @@
     "appid": 246620,
     "name": "Plague Inc: Evolved",
     "release_date": "2016年2月18日",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "データ",
+      "Steamランキング",
+      "レベル編集可能",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 256,
     "positive_rate_jp": 83.98,
-    "total_reviews_all": 57956,
+    "total_reviews_all": 57959,
     "positive_rate_all": 94.4,
     "store_url": "https://store.steampowered.com/app/246620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/246620/capsule_231x87.jpg"
@@ -1323,9 +3453,31 @@
     "appid": 274940,
     "name": "Depth",
     "release_date": "2014年11月3日",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamワークショップ",
+      "アプリ内購入",
+      "Steamクラウド",
+      "Valveアンチチート有効",
+      "データ",
+      "Steamランキング",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 215,
     "positive_rate_jp": 83.72,
-    "total_reviews_all": 32661,
+    "total_reviews_all": 32662,
     "positive_rate_all": 87.91,
     "store_url": "https://store.steampowered.com/app/274940",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/274940/capsule_231x87.jpg"
@@ -1334,9 +3486,35 @@
     "appid": 218620,
     "name": "PAYDAY 2",
     "release_date": "2013年8月13日",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "被追跡コントローラサポート",
+      "VR対応",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1815,
     "positive_rate_jp": 83.47,
-    "total_reviews_all": 667771,
+    "total_reviews_all": 667774,
     "positive_rate_all": 89.25,
     "store_url": "https://store.steampowered.com/app/218620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/218620/capsule_231x87.jpg"
@@ -1345,42 +3523,128 @@
     "appid": 730,
     "name": "Counter-Strike 2",
     "release_date": "2012年8月21日",
+    "genres": [
+      "アクション",
+      "無料プレイ"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "アプリ内購入",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "Valveアンチチート有効",
+      "データ",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Steamタイムライン"
+    ],
     "total_reviews_jp": 10752,
-    "positive_rate_jp": 83.26,
-    "total_reviews_all": 9227744,
+    "positive_rate_jp": 83.25,
+    "total_reviews_all": 9228838,
     "positive_rate_all": 86.35,
     "store_url": "https://store.steampowered.com/app/730",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_231x87.jpg"
   },
   {
-    "appid": 230410,
-    "name": "Warframe",
-    "release_date": "2013年3月25日",
-    "total_reviews_jp": 1877,
-    "positive_rate_jp": 83.0,
-    "total_reviews_all": 642099,
-    "positive_rate_all": 87.49,
-    "store_url": "https://store.steampowered.com/app/230410",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/230410/capsule_231x87.jpg"
-  },
-  {
     "appid": 438100,
     "name": "VRChat",
     "release_date": "2017年2月1日",
-    "total_reviews_jp": 2774,
-    "positive_rate_jp": 82.98,
-    "total_reviews_all": 252454,
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "MM（Massively Multiplayer）",
+      "シミュレーション",
+      "スポーツ",
+      "無料プレイ",
+      "早期アクセス"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "フルコントローラサポート",
+      "被追跡コントローラサポート",
+      "VR対応",
+      "アプリ内購入"
+    ],
+    "total_reviews_jp": 2775,
+    "positive_rate_jp": 83.03,
+    "total_reviews_all": 252474,
     "positive_rate_all": 75.39,
     "store_url": "https://store.steampowered.com/app/438100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/438100/capsule_231x87.jpg"
   },
   {
+    "appid": 230410,
+    "name": "Warframe",
+    "release_date": "2013年3月25日",
+    "genres": [
+      "アクション",
+      "RPG",
+      "無料プレイ"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "アプリ内購入",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "HDR使用可能"
+    ],
+    "total_reviews_jp": 1880,
+    "positive_rate_jp": 82.93,
+    "total_reviews_all": 642244,
+    "positive_rate_all": 87.49,
+    "store_url": "https://store.steampowered.com/app/230410",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/230410/capsule_231x87.jpg"
+  },
+  {
     "appid": 304240,
     "name": "Resident Evil",
     "release_date": "2015年1月19日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 246,
     "positive_rate_jp": 82.93,
-    "total_reviews_all": 29288,
+    "total_reviews_all": 29294,
     "positive_rate_all": 92.08,
     "store_url": "https://store.steampowered.com/app/304240",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304240/capsule_231x87.jpg"
@@ -1389,10 +3653,32 @@
     "appid": 108600,
     "name": "Project Zomboid",
     "release_date": "2013年11月8日",
+    "genres": [
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "早期アクセス"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "部分的コントローラサポート",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 857,
     "positive_rate_jp": 82.85,
-    "total_reviews_all": 416112,
-    "positive_rate_all": 94.23,
+    "total_reviews_all": 416229,
+    "positive_rate_all": 94.22,
     "store_url": "https://store.steampowered.com/app/108600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/108600/capsule_231x87.jpg"
   },
@@ -1400,9 +3686,29 @@
     "appid": 244850,
     "name": "Space Engineers",
     "release_date": "2019年2月28日",
+    "genres": [
+      "アクション",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamワークショップ",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 226,
     "positive_rate_jp": 82.74,
-    "total_reviews_all": 132353,
+    "total_reviews_all": 132352,
     "positive_rate_all": 88.89,
     "store_url": "https://store.steampowered.com/app/244850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/244850/capsule_231x87.jpg"
@@ -1411,9 +3717,29 @@
     "appid": 359320,
     "name": "Elite Dangerous",
     "release_date": "2015年4月2日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "MM（Massively Multiplayer）",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "MMO",
+      "協力プレイ",
+      "VR対応",
+      "VRサポート",
+      "アプリ内購入",
+      "部分的コントローラサポート",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 305,
     "positive_rate_jp": 82.62,
-    "total_reviews_all": 103630,
+    "total_reviews_all": 103641,
     "positive_rate_all": 77.29,
     "store_url": "https://store.steampowered.com/app/359320",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/359320/capsule_231x87.jpg"
@@ -1422,9 +3748,30 @@
     "appid": 261550,
     "name": "Mount & Blade II: Bannerlord",
     "release_date": "2022年10月25日",
+    "genres": [
+      "アクション",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "レベル編集可能",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 777,
     "positive_rate_jp": 82.5,
-    "total_reviews_all": 278976,
+    "total_reviews_all": 279020,
     "positive_rate_all": 87.85,
     "store_url": "https://store.steampowered.com/app/261550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/261550/capsule_231x87.jpg"
@@ -1433,9 +3780,20 @@
     "appid": 240720,
     "name": "Getting Over It with Bennett Foddy",
     "release_date": "2017年12月6日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "解説モード使用可能",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1458,
     "positive_rate_jp": 82.24,
-    "total_reviews_all": 79384,
+    "total_reviews_all": 79392,
     "positive_rate_all": 82.38,
     "store_url": "https://store.steampowered.com/app/240720",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/240720/capsule_231x87.jpg"
@@ -1444,10 +3802,25 @@
     "appid": 305620,
     "name": "The Long Dark",
     "release_date": "2017年8月1日",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 560,
     "positive_rate_jp": 81.79,
-    "total_reviews_all": 114959,
-    "positive_rate_all": 90.62,
+    "total_reviews_all": 114963,
+    "positive_rate_all": 90.63,
     "store_url": "https://store.steampowered.com/app/305620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/305620/capsule_231x87.jpg"
   },
@@ -1455,9 +3828,31 @@
     "appid": 238960,
     "name": "Path of Exile",
     "release_date": "2013年10月23日",
-    "total_reviews_jp": 814,
-    "positive_rate_jp": 81.7,
-    "total_reviews_all": 243234,
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "MM（Massively Multiplayer）",
+      "RPG",
+      "無料プレイ"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "タブレットでRemote Play"
+    ],
+    "total_reviews_jp": 815,
+    "positive_rate_jp": 81.72,
+    "total_reviews_all": 243239,
     "positive_rate_all": 89.01,
     "store_url": "https://store.steampowered.com/app/238960",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/238960/capsule_231x87.jpg"
@@ -1466,9 +3861,28 @@
     "appid": 492720,
     "name": "Tropico 6",
     "release_date": "2019年3月29日",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 348,
     "positive_rate_jp": 81.61,
-    "total_reviews_all": 28184,
+    "total_reviews_all": 28187,
     "positive_rate_all": 87.57,
     "store_url": "https://store.steampowered.com/app/492720",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/492720/capsule_231x87.jpg"
@@ -1477,9 +3891,36 @@
     "appid": 435150,
     "name": "Divinity: Original Sin 2 - Definitive Edition",
     "release_date": "2017年9月14日",
+    "genres": [
+      "アドベンチャー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "レベル編集可能",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 288,
     "positive_rate_jp": 81.6,
-    "total_reviews_all": 194498,
+    "total_reviews_all": 194533,
     "positive_rate_all": 95.78,
     "store_url": "https://store.steampowered.com/app/435150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/435150/capsule_231x87.jpg"
@@ -1488,9 +3929,22 @@
     "appid": 418370,
     "name": "Resident Evil 7 Biohazard",
     "release_date": "2017年1月25日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "HDR使用可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 304,
     "positive_rate_jp": 81.58,
-    "total_reviews_all": 107413,
+    "total_reviews_all": 107442,
     "positive_rate_all": 95.32,
     "store_url": "https://store.steampowered.com/app/418370",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/418370/capsule_231x87.jpg"
@@ -1499,9 +3953,20 @@
     "appid": 220240,
     "name": "Far Cry 3",
     "release_date": "2012年11月28日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "部分的コントローラサポート"
+    ],
     "total_reviews_jp": 377,
     "positive_rate_jp": 80.9,
-    "total_reviews_all": 121338,
+    "total_reviews_all": 121383,
     "positive_rate_all": 88.95,
     "store_url": "https://store.steampowered.com/app/220240",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/220240/capsule_231x87.jpg"
@@ -1510,9 +3975,22 @@
     "appid": 201810,
     "name": "Wolfenstein: The New Order",
     "release_date": "2014年6月4日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 261,
     "positive_rate_jp": 80.46,
-    "total_reviews_all": 59259,
+    "total_reviews_all": 59262,
     "positive_rate_all": 91.6,
     "store_url": "https://store.steampowered.com/app/201810",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/201810/capsule_231x87.jpg"
@@ -1521,9 +3999,29 @@
     "appid": 48000,
     "name": "LIMBO",
     "release_date": "2011年8月2日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "色のオプション",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 317,
     "positive_rate_jp": 80.44,
-    "total_reviews_all": 59481,
+    "total_reviews_all": 59483,
     "positive_rate_all": 92.38,
     "store_url": "https://store.steampowered.com/app/48000",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/48000/capsule_231x87.jpg"
@@ -1532,9 +4030,25 @@
     "appid": 361420,
     "name": "ASTRONEER",
     "release_date": "2019年2月5日",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 753,
     "positive_rate_jp": 80.21,
-    "total_reviews_all": 134509,
+    "total_reviews_all": 134524,
     "positive_rate_all": 92.1,
     "store_url": "https://store.steampowered.com/app/361420",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/361420/capsule_231x87.jpg"
@@ -1543,10 +4057,26 @@
     "appid": 283640,
     "name": "Salt and Sanctuary",
     "release_date": "2016年5月17日",
+    "genres": [
+      "アクション",
+      "インディー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 337,
     "positive_rate_jp": 80.12,
     "total_reviews_all": 21218,
-    "positive_rate_all": 89.37,
+    "positive_rate_all": 89.38,
     "store_url": "https://store.steampowered.com/app/283640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/283640/capsule_231x87.jpg"
   },
@@ -1554,9 +4084,32 @@
     "appid": 362890,
     "name": "Black Mesa",
     "release_date": "2020年3月6日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamワークショップ",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "レベル編集可能",
+      "Source SDKを含む",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 201,
     "positive_rate_jp": 80.1,
-    "total_reviews_all": 137209,
+    "total_reviews_all": 137235,
     "positive_rate_all": 95.05,
     "store_url": "https://store.steampowered.com/app/362890",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/362890/capsule_231x87.jpg"
@@ -1565,6 +4118,21 @@
     "appid": 368340,
     "name": "CrossCode",
     "release_date": "2018年9月20日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 326,
     "positive_rate_jp": 80.06,
     "total_reviews_all": 17408,
@@ -1576,9 +4144,27 @@
     "appid": 391220,
     "name": "Rise of the Tomb Raider™",
     "release_date": "2016年2月9日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "被追跡コントローラサポート",
+      "VR対応",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 277,
     "positive_rate_jp": 79.78,
-    "total_reviews_all": 144342,
+    "total_reviews_all": 144389,
     "positive_rate_all": 94.1,
     "store_url": "https://store.steampowered.com/app/391220",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/391220/capsule_231x87.jpg"
@@ -1587,9 +4173,28 @@
     "appid": 250400,
     "name": "How to Survive",
     "release_date": "2014年8月29日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 228,
     "positive_rate_jp": 79.39,
-    "total_reviews_all": 17073,
+    "total_reviews_all": 17074,
     "positive_rate_all": 82.66,
     "store_url": "https://store.steampowered.com/app/250400",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/250400/capsule_231x87.jpg"
@@ -1598,9 +4203,26 @@
     "appid": 377160,
     "name": "Fallout 4",
     "release_date": "2015年11月9日",
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 1932,
     "positive_rate_jp": 79.24,
-    "total_reviews_all": 410710,
+    "total_reviews_all": 410744,
     "positive_rate_all": 81.32,
     "store_url": "https://store.steampowered.com/app/377160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/377160/capsule_231x87.jpg"
@@ -1609,9 +4231,27 @@
     "appid": 311690,
     "name": "Enter the Gungeon",
     "release_date": "2016年4月5日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 365,
     "positive_rate_jp": 79.18,
-    "total_reviews_all": 87484,
+    "total_reviews_all": 87493,
     "positive_rate_all": 95.33,
     "store_url": "https://store.steampowered.com/app/311690",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311690/capsule_231x87.jpg"
@@ -1620,9 +4260,21 @@
     "appid": 424840,
     "name": "Little Nightmares",
     "release_date": "2017年4月27日",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 383,
     "positive_rate_jp": 79.11,
-    "total_reviews_all": 114074,
+    "total_reviews_all": 114078,
     "positive_rate_all": 94.75,
     "store_url": "https://store.steampowered.com/app/424840",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/424840/capsule_231x87.jpg"
@@ -1631,10 +4283,24 @@
     "appid": 281990,
     "name": "Stellaris",
     "release_date": "2016年5月9日",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 841,
     "positive_rate_jp": 79.07,
-    "total_reviews_all": 188281,
-    "positive_rate_all": 86.68,
+    "total_reviews_all": 188291,
+    "positive_rate_all": 86.67,
     "store_url": "https://store.steampowered.com/app/281990",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/281990/capsule_231x87.jpg"
   },
@@ -1642,9 +4308,21 @@
     "appid": 493520,
     "name": "GTFO",
     "release_date": "2021年12月9日",
-    "total_reviews_jp": 353,
-    "positive_rate_jp": 78.47,
-    "total_reviews_all": 64194,
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 354,
+    "positive_rate_jp": 78.53,
+    "total_reviews_all": 64201,
     "positive_rate_all": 84.18,
     "store_url": "https://store.steampowered.com/app/493520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/493520/capsule_231x87.jpg"
@@ -1653,10 +4331,28 @@
     "appid": 206420,
     "name": "Saints Row IV: Re-Elected",
     "release_date": "2013年8月22日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 355,
     "positive_rate_jp": 78.31,
-    "total_reviews_all": 77305,
-    "positive_rate_all": 87.74,
+    "total_reviews_all": 77304,
+    "positive_rate_all": 87.75,
     "store_url": "https://store.steampowered.com/app/206420",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/206420/capsule_231x87.jpg"
   },
@@ -1664,10 +4360,24 @@
     "appid": 233450,
     "name": "Prison Architect",
     "release_date": "2015年10月6日",
+    "genres": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 341,
     "positive_rate_jp": 78.3,
-    "total_reviews_all": 72626,
-    "positive_rate_all": 89.36,
+    "total_reviews_all": 72629,
+    "positive_rate_all": 89.37,
     "store_url": "https://store.steampowered.com/app/233450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/233450/capsule_231x87.jpg"
   },
@@ -1675,10 +4385,25 @@
     "appid": 222480,
     "name": "Resident Evil Revelations",
     "release_date": "2013年5月20日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Valveアンチチート有効",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 239,
     "positive_rate_jp": 78.24,
-    "total_reviews_all": 16122,
-    "positive_rate_all": 80.98,
+    "total_reviews_all": 16125,
+    "positive_rate_all": 80.99,
     "store_url": "https://store.steampowered.com/app/222480",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/222480/capsule_231x87.jpg"
   },
@@ -1686,9 +4411,26 @@
     "appid": 367500,
     "name": "Dragon's Dogma: Dark Arisen",
     "release_date": "2016年1月15日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 560,
     "positive_rate_jp": 77.86,
-    "total_reviews_all": 47705,
+    "total_reviews_all": 47709,
     "positive_rate_all": 88.46,
     "store_url": "https://store.steampowered.com/app/367500",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/367500/capsule_231x87.jpg"
@@ -1697,9 +4439,24 @@
     "appid": 460790,
     "name": "Bayonetta",
     "release_date": "2017年4月11日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 320,
     "positive_rate_jp": 77.81,
-    "total_reviews_all": 30272,
+    "total_reviews_all": 30280,
     "positive_rate_all": 92.41,
     "store_url": "https://store.steampowered.com/app/460790",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/460790/capsule_231x87.jpg"
@@ -1708,9 +4465,30 @@
     "appid": 346110,
     "name": "ARK: Survival Evolved",
     "release_date": "2017年8月27日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "MM（Massively Multiplayer）",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "MMO",
+      "協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "Valveアンチチート有効",
+      "レベル編集可能",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 3510,
     "positive_rate_jp": 77.75,
-    "total_reviews_all": 753300,
+    "total_reviews_all": 753345,
     "positive_rate_all": 83.34,
     "store_url": "https://store.steampowered.com/app/346110",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/346110/capsule_231x87.jpg"
@@ -1719,9 +4497,26 @@
     "appid": 387990,
     "name": "Scrap Mechanic",
     "release_date": "2016年1月19日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "早期アクセス"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 215,
     "positive_rate_jp": 77.67,
-    "total_reviews_all": 115537,
+    "total_reviews_all": 115544,
     "positive_rate_all": 91.99,
     "store_url": "https://store.steampowered.com/app/387990",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/387990/capsule_231x87.jpg"
@@ -1730,9 +4525,32 @@
     "appid": 252490,
     "name": "Rust",
     "release_date": "2018年2月8日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "MM（Massively Multiplayer）",
+      "RPG"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "アプリ内購入",
+      "Valveアンチチート有効",
+      "データ",
+      "タブレットでRemote Play"
+    ],
     "total_reviews_jp": 2814,
-    "positive_rate_jp": 77.61,
-    "total_reviews_all": 1295924,
+    "positive_rate_jp": 77.65,
+    "total_reviews_all": 1296149,
     "positive_rate_all": 87.08,
     "store_url": "https://store.steampowered.com/app/252490",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/252490/capsule_231x87.jpg"
@@ -1741,10 +4559,22 @@
     "appid": 242050,
     "name": "Assassin’s Creed® IV Black Flag™",
     "release_date": "",
-    "total_reviews_jp": 250,
-    "positive_rate_jp": 77.2,
-    "total_reviews_all": 74433,
-    "positive_rate_all": 88.45,
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "Steam実績",
+      "アプリ内購入",
+      "ステレオサウンド",
+      "サラウンドサウンド"
+    ],
+    "total_reviews_jp": 249,
+    "positive_rate_jp": 77.51,
+    "total_reviews_all": 74452,
+    "positive_rate_all": 88.44,
     "store_url": "https://store.steampowered.com/app/242050",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/242050/capsule_231x87.jpg"
   },
@@ -1752,9 +4582,27 @@
     "appid": 570,
     "name": "Dota 2",
     "release_date": "2013年7月9日",
+    "genres": [
+      "アクション",
+      "ストラテジー",
+      "無料プレイ"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "SteamVRコレクティブル",
+      "アプリ内購入",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "Valveアンチチート有効",
+      "Steamタイムライン"
+    ],
     "total_reviews_jp": 2189,
     "positive_rate_jp": 77.16,
-    "total_reviews_all": 2635872,
+    "total_reviews_all": 2636153,
     "positive_rate_all": 81.31,
     "store_url": "https://store.steampowered.com/app/570",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/570/capsule_231x87.jpg"
@@ -1763,9 +4611,22 @@
     "appid": 377840,
     "name": "FINAL FANTASY IX",
     "release_date": "2016年4月14日",
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 232,
     "positive_rate_jp": 77.16,
-    "total_reviews_all": 13012,
+    "total_reviews_all": 13014,
     "positive_rate_all": 95.05,
     "store_url": "https://store.steampowered.com/app/377840",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/377840/capsule_231x87.jpg"
@@ -1774,9 +4635,20 @@
     "appid": 286690,
     "name": "Metro 2033 Redux",
     "release_date": "2014年8月27日",
-    "total_reviews_jp": 204,
-    "positive_rate_jp": 76.96,
-    "total_reviews_all": 122211,
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 205,
+    "positive_rate_jp": 77.07,
+    "total_reviews_all": 122266,
     "positive_rate_all": 91.86,
     "store_url": "https://store.steampowered.com/app/286690",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/286690/capsule_231x87.jpg"
@@ -1785,9 +4657,30 @@
     "appid": 289070,
     "name": "Sid Meier’s Civilization® VI",
     "release_date": "2016年10月20日",
-    "total_reviews_jp": 1206,
-    "positive_rate_jp": 76.87,
-    "total_reviews_all": 365570,
+    "genres": [
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "LAN PvP",
+      "共有／分割画面でのPvP",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "アプリ内購入",
+      "Steamターン通知",
+      "タブレットでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 1207,
+    "positive_rate_jp": 76.88,
+    "total_reviews_all": 365599,
     "positive_rate_all": 85.84,
     "store_url": "https://store.steampowered.com/app/289070",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/289070/capsule_231x87.jpg"
@@ -1796,6 +4689,18 @@
     "appid": 311340,
     "name": "METAL GEAR SOLID V: GROUND ZEROES",
     "release_date": "2014年12月18日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 211,
     "positive_rate_jp": 76.78,
     "total_reviews_all": 17593,
@@ -1807,6 +4712,20 @@
     "appid": 387290,
     "name": "Ori and the Blind Forest: Definitive Edition",
     "release_date": "2016年4月27日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "データ",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 369,
     "positive_rate_jp": 76.42,
     "total_reviews_all": 68943,
@@ -1818,10 +4737,26 @@
     "appid": 203160,
     "name": "Tomb Raider Game of the Year",
     "release_date": "2013年3月4日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 591,
     "positive_rate_jp": 76.31,
-    "total_reviews_all": 255871,
-    "positive_rate_all": 96.07,
+    "total_reviews_all": 255931,
+    "positive_rate_all": 96.06,
     "store_url": "https://store.steampowered.com/app/203160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/203160/capsule_231x87.jpg"
   },
@@ -1829,9 +4764,24 @@
     "appid": 236430,
     "name": "DARK SOULS™ II",
     "release_date": "2014年4月25日",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 248,
     "positive_rate_jp": 76.21,
-    "total_reviews_all": 44943,
+    "total_reviews_all": 44946,
     "positive_rate_all": 88.37,
     "store_url": "https://store.steampowered.com/app/236430",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/236430/capsule_231x87.jpg"
@@ -1840,9 +4790,28 @@
     "appid": 444090,
     "name": "Paladins®",
     "release_date": "2018年5月8日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "MM（Massively Multiplayer）",
+      "ストラテジー",
+      "無料プレイ"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "スマホでRemote Play",
+      "タブレットでRemote Play"
+    ],
     "total_reviews_jp": 747,
     "positive_rate_jp": 75.77,
-    "total_reviews_all": 345740,
+    "total_reviews_all": 345742,
     "positive_rate_all": 85.0,
     "store_url": "https://store.steampowered.com/app/444090",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/444090/capsule_231x87.jpg"
@@ -1851,9 +4820,21 @@
     "appid": 447040,
     "name": "Watch_Dogs® 2",
     "release_date": "2016年11月30日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "アプリ内購入",
+      "部分的コントローラサポート"
+    ],
     "total_reviews_jp": 317,
     "positive_rate_jp": 75.39,
-    "total_reviews_all": 88015,
+    "total_reviews_all": 88033,
     "positive_rate_all": 82.56,
     "store_url": "https://store.steampowered.com/app/447040",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/447040/capsule_231x87.jpg"
@@ -1862,9 +4843,23 @@
     "appid": 379430,
     "name": "Kingdom Come: Deliverance",
     "release_date": "2018年2月13日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 498,
     "positive_rate_jp": 75.3,
-    "total_reviews_all": 170802,
+    "total_reviews_all": 170842,
     "positive_rate_all": 84.27,
     "store_url": "https://store.steampowered.com/app/379430",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/379430/capsule_231x87.jpg"
@@ -1873,6 +4868,24 @@
     "appid": 333930,
     "name": "Dirty Bomb®",
     "release_date": "2015年6月2日",
+    "genres": [
+      "アクション",
+      "無料プレイ"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "字幕オプション",
+      "サラウンドサウンド"
+    ],
     "total_reviews_jp": 208,
     "positive_rate_jp": 75.0,
     "total_reviews_all": 56984,
@@ -1884,9 +4897,31 @@
     "appid": 239140,
     "name": "Dying Light",
     "release_date": "2015年1月26日",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "Valveアンチチート有効",
+      "レベル編集可能",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 958,
     "positive_rate_jp": 74.74,
-    "total_reviews_all": 473686,
+    "total_reviews_all": 473718,
     "positive_rate_all": 95.26,
     "store_url": "https://store.steampowered.com/app/239140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/239140/capsule_231x87.jpg"
@@ -1895,10 +4930,24 @@
     "appid": 262060,
     "name": "Darkest Dungeon®",
     "release_date": "2016年1月19日",
+    "genres": [
+      "インディー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 522,
     "positive_rate_jp": 73.95,
-    "total_reviews_all": 154869,
-    "positive_rate_all": 91.69,
+    "total_reviews_all": 154878,
+    "positive_rate_all": 91.7,
     "store_url": "https://store.steampowered.com/app/262060",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/262060/capsule_231x87.jpg"
   },
@@ -1906,9 +4955,24 @@
     "appid": 261640,
     "name": "Borderlands: The Pre-Sequel",
     "release_date": "2014年10月29日",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 206,
     "positive_rate_jp": 73.79,
-    "total_reviews_all": 42656,
+    "total_reviews_all": 42658,
     "positive_rate_all": 78.71,
     "store_url": "https://store.steampowered.com/app/261640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/261640/capsule_231x87.jpg"
@@ -1917,9 +4981,33 @@
     "appid": 291550,
     "name": "Brawlhalla",
     "release_date": "2017年10月17日",
+    "genres": [
+      "アクション",
+      "インディー",
+      "無料プレイ"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together"
+    ],
     "total_reviews_jp": 579,
     "positive_rate_jp": 73.75,
-    "total_reviews_all": 397137,
+    "total_reviews_all": 397159,
     "positive_rate_all": 80.96,
     "store_url": "https://store.steampowered.com/app/291550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/291550/capsule_231x87.jpg"
@@ -1928,31 +5016,63 @@
     "appid": 39210,
     "name": "FINAL FANTASY XIV Online",
     "release_date": "2014年2月18日",
-    "total_reviews_jp": 365,
-    "positive_rate_jp": 73.42,
-    "total_reviews_all": 82798,
+    "genres": [
+      "MM（Massively Multiplayer）",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "テキストサイズの調整",
+      "カスタム音量調整",
+      "キーボードのみのオプション",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 366,
+    "positive_rate_jp": 73.5,
+    "total_reviews_all": 82807,
     "positive_rate_all": 86.62,
     "store_url": "https://store.steampowered.com/app/39210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/39210/capsule_231x87.jpg"
   },
   {
-    "appid": 236390,
-    "name": "War Thunder",
-    "release_date": null,
-    "total_reviews_jp": 469,
-    "positive_rate_jp": 73.13,
-    "total_reviews_all": 692469,
-    "positive_rate_all": 72.81,
-    "store_url": "https://store.steampowered.com/app/236390",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/236390/capsule_231x87.jpg"
-  },
-  {
     "appid": 397540,
     "name": "Borderlands 3",
     "release_date": "2020年3月13日",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 476,
     "positive_rate_jp": 73.11,
-    "total_reviews_all": 160557,
+    "total_reviews_all": 160563,
     "positive_rate_all": 80.86,
     "store_url": "https://store.steampowered.com/app/397540",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/397540/capsule_231x87.jpg"
@@ -1961,10 +5081,44 @@
     "appid": 275850,
     "name": "No Man's Sky",
     "release_date": "2016年8月12日",
-    "total_reviews_jp": 1351,
-    "positive_rate_jp": 72.24,
-    "total_reviews_all": 392171,
-    "positive_rate_all": 84.49,
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "被追跡コントローラサポート",
+      "VR対応",
+      "Steamトレーディングカード",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "チャットの文字起こし",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "字幕オプション",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "HDR使用可能",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 1352,
+    "positive_rate_jp": 72.26,
+    "total_reviews_all": 392246,
+    "positive_rate_all": 84.5,
     "store_url": "https://store.steampowered.com/app/275850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/275850/capsule_231x87.jpg"
   },
@@ -1972,9 +5126,29 @@
     "appid": 389730,
     "name": "TEKKEN 7",
     "release_date": "2017年6月1日",
+    "genres": [
+      "アクション",
+      "スポーツ"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 420,
     "positive_rate_jp": 72.14,
-    "total_reviews_all": 93793,
+    "total_reviews_all": 93797,
     "positive_rate_all": 83.36,
     "store_url": "https://store.steampowered.com/app/389730",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/389730/capsule_231x87.jpg"
@@ -1983,9 +5157,19 @@
     "appid": 235600,
     "name": "Tom Clancy’s Splinter Cell Blacklist",
     "release_date": "2013年9月4日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績"
+    ],
     "total_reviews_jp": 229,
     "positive_rate_jp": 72.05,
-    "total_reviews_all": 20694,
+    "total_reviews_all": 20695,
     "positive_rate_all": 79.39,
     "store_url": "https://store.steampowered.com/app/235600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/235600/capsule_231x87.jpg"
@@ -1994,9 +5178,21 @@
     "appid": 268500,
     "name": "XCOM® 2",
     "release_date": "2016年2月4日",
+    "genres": [
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 365,
     "positive_rate_jp": 71.78,
-    "total_reviews_all": 105241,
+    "total_reviews_all": 105247,
     "positive_rate_all": 84.37,
     "store_url": "https://store.steampowered.com/app/268500",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/268500/capsule_231x87.jpg"
@@ -2005,9 +5201,23 @@
     "appid": 254700,
     "name": "Resident Evil 4 (2005)",
     "release_date": "2014年2月27日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 445,
     "positive_rate_jp": 71.69,
-    "total_reviews_all": 87140,
+    "total_reviews_all": 87149,
     "positive_rate_all": 93.65,
     "store_url": "https://store.steampowered.com/app/254700",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/254700/capsule_231x87.jpg"
@@ -2016,9 +5226,23 @@
     "appid": 412020,
     "name": "Metro Exodus",
     "release_date": "2020年2月14日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 298,
     "positive_rate_jp": 71.48,
-    "total_reviews_all": 125919,
+    "total_reviews_all": 125948,
     "positive_rate_all": 89.9,
     "store_url": "https://store.steampowered.com/app/412020",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/412020/capsule_231x87.jpg"
@@ -2027,10 +5251,31 @@
     "appid": 392160,
     "name": "X4: Foundations",
     "release_date": "2018年11月30日",
+    "genres": [
+      "アクション",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 306,
     "positive_rate_jp": 70.92,
-    "total_reviews_all": 26120,
-    "positive_rate_all": 79.9,
+    "total_reviews_all": 26121,
+    "positive_rate_all": 79.91,
     "store_url": "https://store.steampowered.com/app/392160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/392160/capsule_231x87.jpg"
   },
@@ -2038,9 +5283,26 @@
     "appid": 359550,
     "name": "Tom Clancy's Rainbow Six® Siege X",
     "release_date": "2015年12月1日",
+    "genres": [
+      "アクション",
+      "無料プレイ"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "スマホでRemote Play",
+      "タブレットでRemote Play"
+    ],
     "total_reviews_jp": 5394,
-    "positive_rate_jp": 70.75,
-    "total_reviews_all": 1462648,
+    "positive_rate_jp": 70.76,
+    "total_reviews_all": 1462757,
     "positive_rate_all": 82.8,
     "store_url": "https://store.steampowered.com/app/359550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/359550/capsule_231x87.jpg"
@@ -2049,9 +5311,24 @@
     "appid": 393380,
     "name": "Squad",
     "release_date": "2020年9月23日",
+    "genres": [
+      "アクション",
+      "インディー",
+      "MM（Massively Multiplayer）",
+      "ストラテジー"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "部分的コントローラサポート",
+      "Valveアンチチート有効"
+    ],
     "total_reviews_jp": 229,
     "positive_rate_jp": 70.74,
-    "total_reviews_all": 227592,
+    "total_reviews_all": 227623,
     "positive_rate_all": 81.24,
     "store_url": "https://store.steampowered.com/app/393380",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/393380/capsule_231x87.jpg"
@@ -2060,9 +5337,24 @@
     "appid": 21690,
     "name": "Resident Evil 5",
     "release_date": "2009年9月15日",
-    "total_reviews_jp": 389,
-    "positive_rate_jp": 70.44,
-    "total_reviews_all": 53458,
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 390,
+    "positive_rate_jp": 70.51,
+    "total_reviews_all": 53475,
     "positive_rate_all": 87.28,
     "store_url": "https://store.steampowered.com/app/21690",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/21690/capsule_231x87.jpg"
@@ -2071,9 +5363,28 @@
     "appid": 287700,
     "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
     "release_date": "2015年9月1日",
-    "total_reviews_jp": 998,
-    "positive_rate_jp": 70.24,
-    "total_reviews_all": 104627,
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "アプリ内購入",
+      "Steamクラウド",
+      "Steamランキング",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 999,
+    "positive_rate_jp": 70.27,
+    "total_reviews_all": 104632,
     "positive_rate_all": 91.87,
     "store_url": "https://store.steampowered.com/app/287700",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/287700/capsule_231x87.jpg"
@@ -2082,10 +5393,21 @@
     "appid": 298110,
     "name": "Far Cry® 4",
     "release_date": "2015年3月5日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "部分的コントローラサポート"
+    ],
     "total_reviews_jp": 210,
     "positive_rate_jp": 67.62,
-    "total_reviews_all": 65370,
-    "positive_rate_all": 84.46,
+    "total_reviews_all": 65378,
+    "positive_rate_all": 84.47,
     "store_url": "https://store.steampowered.com/app/298110",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/298110/capsule_231x87.jpg"
   },
@@ -2093,9 +5415,20 @@
     "appid": 12210,
     "name": "Grand Theft Auto IV: The Complete Edition",
     "release_date": "2020年3月24日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "部分的コントローラサポート",
+      "スマホでRemote Play",
+      "タブレットでRemote Play"
+    ],
     "total_reviews_jp": 341,
     "positive_rate_jp": 67.45,
-    "total_reviews_all": 185454,
+    "total_reviews_all": 185472,
     "positive_rate_all": 82.78,
     "store_url": "https://store.steampowered.com/app/12210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/12210/capsule_231x87.jpg"
@@ -2104,9 +5437,28 @@
     "appid": 485510,
     "name": "Nioh: Complete Edition",
     "release_date": "2017年11月7日",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "データ",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 309,
     "positive_rate_jp": 67.31,
-    "total_reviews_all": 36231,
+    "total_reviews_all": 36240,
     "positive_rate_all": 79.58,
     "store_url": "https://store.steampowered.com/app/485510",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/485510/capsule_231x87.jpg"
@@ -2115,9 +5467,32 @@
     "appid": 440900,
     "name": "Conan Exiles",
     "release_date": "2018年5月8日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "MM（Massively Multiplayer）",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 486,
     "positive_rate_jp": 67.28,
-    "total_reviews_all": 110219,
+    "total_reviews_all": 110228,
     "positive_rate_all": 78.87,
     "store_url": "https://store.steampowered.com/app/440900",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/440900/capsule_231x87.jpg"
@@ -2126,9 +5501,24 @@
     "appid": 502500,
     "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
     "release_date": "2019年1月31日",
-    "total_reviews_jp": 1147,
+    "genres": [
+      "アクション",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 1150,
     "positive_rate_jp": 66.52,
-    "total_reviews_all": 50819,
+    "total_reviews_all": 50863,
     "positive_rate_all": 87.76,
     "store_url": "https://store.steampowered.com/app/502500",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/502500/capsule_231x87.jpg"
@@ -2137,10 +5527,25 @@
     "appid": 335300,
     "name": "DARK SOULS™ II: Scholar of the First Sin",
     "release_date": "2015年4月8日",
-    "total_reviews_jp": 581,
-    "positive_rate_jp": 66.27,
-    "total_reviews_all": 123007,
-    "positive_rate_all": 84.0,
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 582,
+    "positive_rate_jp": 66.15,
+    "total_reviews_all": 123026,
+    "positive_rate_all": 83.99,
     "store_url": "https://store.steampowered.com/app/335300",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/335300/capsule_231x87.jpg"
   },
@@ -2148,9 +5553,23 @@
     "appid": 225540,
     "name": "Just Cause™ 3",
     "release_date": "2015年11月30日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 370,
     "positive_rate_jp": 65.41,
-    "total_reviews_all": 124570,
+    "total_reviews_all": 124577,
     "positive_rate_all": 84.13,
     "store_url": "https://store.steampowered.com/app/225540",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/225540/capsule_231x87.jpg"
@@ -2159,9 +5578,23 @@
     "appid": 356190,
     "name": "Middle-earth™: Shadow of War™",
     "release_date": "2017年10月9日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 244,
     "positive_rate_jp": 65.16,
-    "total_reviews_all": 111258,
+    "total_reviews_all": 111276,
     "positive_rate_all": 88.79,
     "store_url": "https://store.steampowered.com/app/356190",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/356190/capsule_231x87.jpg"
@@ -2170,9 +5603,29 @@
     "appid": 20920,
     "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "release_date": "2012年4月16日",
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 241,
     "positive_rate_jp": 65.15,
-    "total_reviews_all": 87941,
+    "total_reviews_all": 87949,
     "positive_rate_all": 89.99,
     "store_url": "https://store.steampowered.com/app/20920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/20920/capsule_231x87.jpg"
@@ -2181,9 +5634,22 @@
     "appid": 460930,
     "name": "Tom Clancy's Ghost Recon® Wildlands",
     "release_date": "2017年3月8日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "部分的コントローラサポート"
+    ],
     "total_reviews_jp": 544,
     "positive_rate_jp": 63.6,
-    "total_reviews_all": 100392,
+    "total_reviews_all": 100415,
     "positive_rate_all": 79.75,
     "store_url": "https://store.steampowered.com/app/460930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/460930/capsule_231x87.jpg"
@@ -2192,9 +5658,25 @@
     "appid": 409710,
     "name": "BioShock™ Remastered",
     "release_date": "2016年9月15日",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "解説モード使用可能",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 274,
     "positive_rate_jp": 63.14,
-    "total_reviews_all": 61002,
+    "total_reviews_all": 61013,
     "positive_rate_all": 82.42,
     "store_url": "https://store.steampowered.com/app/409710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/409710/capsule_231x87.jpg"
@@ -2203,9 +5685,27 @@
     "appid": 221100,
     "name": "DayZ",
     "release_date": "2018年12月13日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "MM（Massively Multiplayer）"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "Valveアンチチート有効"
+    ],
     "total_reviews_jp": 668,
     "positive_rate_jp": 62.72,
-    "total_reviews_all": 446802,
+    "total_reviews_all": 446831,
     "positive_rate_all": 77.3,
     "store_url": "https://store.steampowered.com/app/221100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/221100/capsule_231x87.jpg"
@@ -2214,9 +5714,25 @@
     "appid": 265550,
     "name": "Dead Rising 3 Apocalypse Edition",
     "release_date": "2014年9月3日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamクラウド",
+      "Steamランキング",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 347,
     "positive_rate_jp": 59.94,
-    "total_reviews_all": 19724,
+    "total_reviews_all": 19727,
     "positive_rate_all": 76.79,
     "store_url": "https://store.steampowered.com/app/265550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/265550/capsule_231x87.jpg"
@@ -2225,10 +5741,23 @@
     "appid": 359870,
     "name": "FINAL FANTASY X/X-2 HD Remaster",
     "release_date": "2016年5月12日",
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 602,
     "positive_rate_jp": 59.63,
-    "total_reviews_all": 21426,
-    "positive_rate_all": 89.39,
+    "total_reviews_all": 21431,
+    "positive_rate_all": 89.38,
     "store_url": "https://store.steampowered.com/app/359870",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/359870/capsule_231x87.jpg"
   },
@@ -2236,6 +5765,19 @@
     "appid": 292120,
     "name": "FINAL FANTASY® XIII",
     "release_date": "2014年10月9日",
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 628,
     "positive_rate_jp": 59.39,
     "total_reviews_all": 18717,
@@ -2247,9 +5789,33 @@
     "appid": 444200,
     "name": "World of Tanks Blitz",
     "release_date": "2016年11月9日",
+    "genres": [
+      "アクション",
+      "MM（Massively Multiplayer）",
+      "シミュレーション",
+      "ストラテジー",
+      "無料プレイ"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "タッチのみのオプション"
+    ],
     "total_reviews_jp": 402,
     "positive_rate_jp": 58.96,
-    "total_reviews_all": 150763,
+    "total_reviews_all": 150776,
     "positive_rate_all": 78.32,
     "store_url": "https://store.steampowered.com/app/444200",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/444200/capsule_231x87.jpg"
@@ -2258,9 +5824,21 @@
     "appid": 433850,
     "name": "Z1 Battle Royale",
     "release_date": "2018年2月28日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "無料プレイ",
+      "MM（Massively Multiplayer）"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "アプリ内購入"
+    ],
     "total_reviews_jp": 558,
     "positive_rate_jp": 58.6,
-    "total_reviews_all": 203236,
+    "total_reviews_all": 203234,
     "positive_rate_all": 55.8,
     "store_url": "https://store.steampowered.com/app/433850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/433850/capsule_231x87.jpg"
@@ -2269,6 +5847,18 @@
     "appid": 477870,
     "name": "Yomawari: Night Alone",
     "release_date": "2016年10月25日",
+    "genres": [
+      "アドベンチャー",
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 336,
     "positive_rate_jp": 58.04,
     "total_reviews_all": 2236,
@@ -2280,9 +5870,27 @@
     "appid": 221040,
     "name": "Resident Evil 6",
     "release_date": "2013年3月22日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "Valveアンチチート有効",
+      "Steamランキング",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 518,
     "positive_rate_jp": 57.72,
-    "total_reviews_all": 58453,
+    "total_reviews_all": 58470,
     "positive_rate_all": 78.36,
     "store_url": "https://store.steampowered.com/app/221040",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/221040/capsule_231x87.jpg"
@@ -2291,9 +5899,30 @@
     "appid": 287290,
     "name": "Resident Evil Revelations 2",
     "release_date": "2015年2月24日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 320,
     "positive_rate_jp": 56.88,
-    "total_reviews_all": 29714,
+    "total_reviews_all": 29715,
     "positive_rate_all": 78.12,
     "store_url": "https://store.steampowered.com/app/287290",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/287290/capsule_231x87.jpg"
@@ -2302,9 +5931,24 @@
     "appid": 304390,
     "name": "FOR HONOR™",
     "release_date": "2017年2月13日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "部分的コントローラサポート"
+    ],
     "total_reviews_jp": 299,
     "positive_rate_jp": 56.86,
-    "total_reviews_all": 154845,
+    "total_reviews_all": 154856,
     "positive_rate_all": 69.39,
     "store_url": "https://store.steampowered.com/app/304390",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304390/capsule_231x87.jpg"
@@ -2313,10 +5957,33 @@
     "appid": 269210,
     "name": "Hero Siege",
     "release_date": "2014年1月29日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "MM（Massively Multiplayer）",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "Remote Play Together"
+    ],
     "total_reviews_jp": 267,
     "positive_rate_jp": 56.55,
-    "total_reviews_all": 44844,
-    "positive_rate_all": 67.78,
+    "total_reviews_all": 44843,
+    "positive_rate_all": 67.79,
     "store_url": "https://store.steampowered.com/app/269210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/269210/capsule_231x87.jpg"
   },
@@ -2324,9 +5991,30 @@
     "appid": 311210,
     "name": "Call of Duty®: Black Ops III",
     "release_date": "2015年11月5日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Valveアンチチート有効",
+      "Steamランキング",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 452,
     "positive_rate_jp": 55.31,
-    "total_reviews_all": 222369,
+    "total_reviews_all": 222384,
     "positive_rate_all": 84.66,
     "store_url": "https://store.steampowered.com/app/311210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311210/capsule_231x87.jpg"
@@ -2335,9 +6023,28 @@
     "appid": 381210,
     "name": "Dead by Daylight",
     "release_date": "2016年6月14日",
-    "total_reviews_jp": 6952,
-    "positive_rate_jp": 55.14,
-    "total_reviews_all": 859785,
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 6951,
+    "positive_rate_jp": 55.13,
+    "total_reviews_all": 859841,
     "positive_rate_all": 78.58,
     "store_url": "https://store.steampowered.com/app/381210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/381210/capsule_231x87.jpg"
@@ -2346,9 +6053,16 @@
     "appid": 250820,
     "name": "SteamVR",
     "release_date": "",
+    "genres": [],
+    "categories": [
+      "被追跡コントローラサポート",
+      "VRサポート",
+      "Steamワークショップ",
+      "SteamVRコレクティブル"
+    ],
     "total_reviews_jp": 256,
     "positive_rate_jp": 53.52,
-    "total_reviews_all": 76868,
+    "total_reviews_all": 76878,
     "positive_rate_all": 87.04,
     "store_url": "https://store.steampowered.com/app/250820",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/250820/capsule_231x87.jpg"
@@ -2357,9 +6071,24 @@
     "appid": 310950,
     "name": "Street Fighter V",
     "release_date": "2016年2月15日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 981,
-    "positive_rate_jp": 53.31,
-    "total_reviews_all": 43946,
+    "positive_rate_jp": 53.41,
+    "total_reviews_all": 43948,
     "positive_rate_all": 67.86,
     "store_url": "https://store.steampowered.com/app/310950",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/310950/capsule_231x87.jpg"
@@ -2368,10 +6097,21 @@
     "appid": 243470,
     "name": "Watch_Dogs™",
     "release_date": "2014年5月26日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート"
+    ],
     "total_reviews_jp": 288,
     "positive_rate_jp": 53.12,
-    "total_reviews_all": 47968,
-    "positive_rate_all": 78.78,
+    "total_reviews_all": 47976,
+    "positive_rate_all": 78.79,
     "store_url": "https://store.steampowered.com/app/243470",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/243470/capsule_231x87.jpg"
   },
@@ -2379,10 +6119,28 @@
     "appid": 365590,
     "name": "Tom Clancy’s The Division™",
     "release_date": "2016年3月9日",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "アプリ内購入"
+    ],
     "total_reviews_jp": 528,
     "positive_rate_jp": 51.7,
-    "total_reviews_all": 94277,
-    "positive_rate_all": 70.63,
+    "total_reviews_all": 94289,
+    "positive_rate_all": 70.64,
     "store_url": "https://store.steampowered.com/app/365590",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/365590/capsule_231x87.jpg"
   },
@@ -2390,6 +6148,18 @@
     "appid": 453480,
     "name": "Shadowverse CCG",
     "release_date": "2016年10月27日",
+    "genres": [
+      "ストラテジー",
+      "無料プレイ"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー",
+      "アプリ内購入"
+    ],
     "total_reviews_jp": 1302,
     "positive_rate_jp": 51.61,
     "total_reviews_all": 14878,
@@ -2401,9 +6171,30 @@
     "appid": 476600,
     "name": "Call of Duty®: WWII",
     "release_date": "2017年11月2日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "Steamクラウド",
+      "Valveアンチチート有効",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 247,
     "positive_rate_jp": 44.94,
-    "total_reviews_all": 44672,
+    "total_reviews_all": 44675,
     "positive_rate_all": 69.76,
     "store_url": "https://store.steampowered.com/app/476600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/476600/capsule_231x87.jpg"
@@ -2412,6 +6203,16 @@
     "appid": 375450,
     "name": "NOBUNAGA'S AMBITION: Sphere of Influence - Ascension",
     "release_date": "2016年3月23日",
+    "genres": [
+      "ストラテジー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 336,
     "positive_rate_jp": 42.56,
     "total_reviews_all": 1073,
@@ -2423,10 +6224,19 @@
     "appid": 311730,
     "name": "DEAD OR ALIVE 5 Last Round: Core Fighters",
     "release_date": "2015年3月30日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート"
+    ],
     "total_reviews_jp": 268,
     "positive_rate_jp": 42.54,
     "total_reviews_all": 10195,
-    "positive_rate_all": 69.13,
+    "positive_rate_all": 69.12,
     "store_url": "https://store.steampowered.com/app/311730",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311730/capsule_231x87.jpg"
   },
@@ -2434,6 +6244,17 @@
     "appid": 292140,
     "name": "FINAL FANTASY® XIII-2",
     "release_date": "2014年12月11日",
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 243,
     "positive_rate_jp": 39.51,
     "total_reviews_all": 5997,
@@ -2445,9 +6266,17 @@
     "appid": 363150,
     "name": "Romance of the Three Kingdoms XIII",
     "release_date": "2016年1月27日",
+    "genres": [
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
     "total_reviews_jp": 302,
     "positive_rate_jp": 38.08,
-    "total_reviews_all": 7468,
+    "total_reviews_all": 7469,
     "positive_rate_all": 57.61,
     "store_url": "https://store.steampowered.com/app/363150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/363150/capsule_231x87.jpg"
