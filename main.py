@@ -7,15 +7,17 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 STEAM_API_KEY = os.getenv("STEAM_API_KEY")
-APP_LIST_API = f"https://api.steampowered.com/IStoreService/GetAppList/v1/?key={STEAM_API_KEY}&include_games=1"
+
+APP_LIST_API = (
+    f"https://api.steampowered.com/IStoreService/GetAppList/v1/"
+    f"?key={STEAM_API_KEY}&include_games=1"
+)
 
 JP_REVIEW_URL = "https://store.steampowered.com/appreviews/{appid}?json=1&language=japanese&purchase_type=all&num_per_page=0"
 ALL_REVIEW_URL = "https://store.steampowered.com/appreviews/{appid}?json=1&language=all&purchase_type=all&num_per_page=0"
+APP_DETAILS_URL = "https://store.steampowered.com/api/appdetails?appids={appid}&l=japanese&cc=JP"
 
-# ⭐ 追加：appdetails API
-DETAIL_URL = "https://store.steampowered.com/api/appdetails?appids={appid}&l=japanese&cc=jp"
-
-SLEEP_BETWEEN_REQUESTS = float(os.getenv("SLEEP_BETWEEN_REQUESTS", "0.2"))
+SLEEP_BETWEEN_REQUESTS = float(os.getenv("SLEEP_BETWEEN_REQUESTS", "0.25"))
 MAX_APPS = int(os.getenv("MAX_APPS", "0"))
 SAVE_EVERY = int(os.getenv("SAVE_EVERY", "50"))
 
@@ -24,48 +26,53 @@ TMP_FILE = "data_partial.json"
 
 def make_session():
     session = requests.Session()
-    retries = Retry(total=5, backoff_factor=1, status_forcelist=[429,500,502,503,504])
+    retries = Retry(total=5, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
     adapter = HTTPAdapter(max_retries=retries)
     session.mount("https://", adapter)
     session.mount("http://", adapter)
     session.headers.update({
-        "User-Agent": "steam-ranking-bot/1.0 (+https://github.com/K-nobata/ss2)"
+        "User-Agent": "steam-ranking-bot/1.1 (+https://github.com/K-nobata/ss2)"
     })
     return session
 
 session = make_session()
 
 def get_app_list():
-    print("⏳ Fetching AppList...")
     r = session.get(APP_LIST_API, timeout=30)
     r.raise_for_status()
-    data = r.json()
-    apps = data.get("response", {}).get("apps", [])
-    print(f"✅ AppList retrieved. {len(apps)} apps found.")
-    return apps
+    return r.json().get("response", {}).get("apps", [])
 
-def get_review_summary(appid, url_template):
-    url = url_template.format(appid=appid)
+def get_review_summary(appid, url):
     try:
-        r = session.get(url, timeout=15)
+        r = session.get(url.format(appid=appid), timeout=15)
         if r.status_code != 200:
             return None
         data = r.json()
         return data.get("query_summary")
-    except:
+    except Exception:
         return None
 
-# ⭐ 追加：リリース日取得
-def get_release_date(appid):
-    url = DETAIL_URL.format(appid=appid)
+def get_app_details(appid):
     try:
-        r = session.get(url, timeout=20)
+        r = session.get(APP_DETAILS_URL.format(appid=appid), timeout=20)
         if r.status_code != 200:
             return None
-        data = r.json()
-        info = data.get(str(appid), {}).get("data", {})
-        release = info.get("release_date", {}).get("date")
-        return release
+
+        data = r.json().get(str(appid))
+        if not data or not data.get("success"):
+            return None
+
+        d = data.get("data", {})
+
+        genres = [g["description"] for g in d.get("genres", [])]
+        categories = [c["description"] for c in d.get("categories", [])]
+        release_date = d.get("release_date", {}).get("date")
+
+        return {
+            "genres": genres,
+            "categories": categories,
+            "release_date": release_date
+        }
     except Exception:
         return None
 
@@ -75,80 +82,70 @@ def save_results(results, path):
 
 def main():
     if not STEAM_API_KEY:
-        print("ERROR: STEAM_API_KEY not set in environment.")
+        print("ERROR: STEAM_API_KEY not set.")
         return
 
     apps = get_app_list()
     results = []
-    total = len(apps)
-    limit = MAX_APPS if MAX_APPS > 0 else total
+
+    limit = MAX_APPS if MAX_APPS > 0 else len(apps)
 
     for i, app in enumerate(apps[:limit]):
         appid = app.get("appid")
         name = app.get("name", "").strip()
 
         if i % 100 == 0:
-            print(f"Progress: {i}/{limit} processed. {len(results)} results so far.")
+            print(f"Progress: {i}/{limit} | results: {len(results)}")
 
-        # 日本語レビュー
-        jp_qs = get_review_summary(appid, JP_REVIEW_URL)
-        if not jp_qs:
+        jp = get_review_summary(appid, JP_REVIEW_URL)
+        if not jp or jp.get("total_reviews", 0) < 200:
             time.sleep(SLEEP_BETWEEN_REQUESTS)
             continue
 
-        total_jp = jp_qs.get("total_reviews", 0)
-        if total_jp < 200:
-            time.sleep(SLEEP_BETWEEN_REQUESTS)
-            continue
+        total_jp = jp["total_reviews"]
+        positive_rate_jp = round(jp["total_positive"] / total_jp * 100, 2)
 
-        positive_jp = jp_qs.get("total_positive", 0)
-        positive_rate_jp = round((positive_jp / max(total_jp, 1)) * 100, 2)
-
-        # 全言語レビュー
         all_qs = get_review_summary(appid, ALL_REVIEW_URL)
         if all_qs:
-            total_all = all_qs.get("total_reviews", 0)
-            positive_all = all_qs.get("total_positive", 0)
-            positive_rate_all = round((positive_all / max(total_all, 1)) * 100, 2)
+            total_all = all_qs["total_reviews"]
+            positive_rate_all = round(all_qs["total_positive"] / max(total_all, 1) * 100, 2)
         else:
             total_all = None
             positive_rate_all = None
 
-        # ⭐追加：リリース日
-        release_date = get_release_date(appid)
-
-        store_url = f"https://store.steampowered.com/app/{appid}"
-        image_url = f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/capsule_231x87.jpg"
+        details = get_app_details(appid)
+        if not details:
+            time.sleep(SLEEP_BETWEEN_REQUESTS)
+            continue
 
         entry = {
             "appid": appid,
             "name": name,
-            "release_date": release_date,   # ⭐ここ追加
+            "release_date": details["release_date"],
+            "genres": details["genres"],
+            "categories": details["categories"],
             "total_reviews_jp": total_jp,
             "positive_rate_jp": positive_rate_jp,
             "total_reviews_all": total_all,
             "positive_rate_all": positive_rate_all,
-            "store_url": store_url,
-            "image_url": image_url
+            "store_url": f"https://store.steampowered.com/app/{appid}",
+            "image_url": f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/capsule_231x87.jpg"
         }
+
         results.append(entry)
 
-        if (len(results) % SAVE_EVERY) == 0:
-            print(f"Saving partial results ({len(results)}) to {TMP_FILE}...")
+        if len(results) % SAVE_EVERY == 0:
             save_results(results, TMP_FILE)
 
         time.sleep(SLEEP_BETWEEN_REQUESTS)
 
-    results.sort(key=lambda x: (x.get("positive_rate_jp") or 0), reverse=True)
+    results.sort(key=lambda x: x["positive_rate_jp"], reverse=True)
     save_results(results, OUT_FILE)
 
-    try:
-        if os.path.exists(TMP_FILE):
-            os.remove(TMP_FILE)
-    except:
-        pass
+    if os.path.exists(TMP_FILE):
+        os.remove(TMP_FILE)
 
-    print(f"🎉 Done. {len(results)} games saved to {OUT_FILE}.")
+    print(f"Done. {len(results)} games saved.")
 
 if __name__ == "__main__":
     main()
