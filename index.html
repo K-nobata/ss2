@@ -7,11 +7,11 @@
 
 <style>
   body {
-    font-family: system-ui, sans-serif;
-    background: #0e1525;
-    color: #e2e8f0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    background: #f8fafc;
+    color: #0f172a;
     margin: 0;
-    padding: 20px;
+    padding: 24px;
     display: flex;
     justify-content: center;
   }
@@ -23,56 +23,74 @@
 
   h1 {
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 16px;
+    font-weight: 700;
   }
 
   /* ===== フィルタ ===== */
   .filters {
     display: flex;
-    gap: 10px;
+    gap: 12px;
     justify-content: center;
-    margin: 20px 0;
+    margin: 24px 0;
     flex-wrap: wrap;
   }
 
-  .filters input, .filters select {
-    padding: 8px;
+  .filters input,
+  .filters select {
+    padding: 10px 12px;
     width: 180px;
-    border-radius: 6px;
-    border: none;
+    border-radius: 8px;
+    border: 1px solid #cbd5f5;
+    background: #ffffff;
+    font-size: 14px;
   }
 
   .filters button {
-    padding: 8px 14px;
-    border-radius: 6px;
-    border: none;
+    padding: 10px 16px;
+    border-radius: 8px;
+    border: 1px solid #cbd5f5;
+    background: #f1f5f9;
+    font-size: 14px;
     cursor: pointer;
-    background: #334155;
-    color: #e5e7eb;
+  }
+
+  .filters button:hover {
+    background: #e2e8f0;
   }
 
   /* ===== テーブル ===== */
   table {
     width: 100%;
     border-collapse: collapse;
-    background: #1a2435;
-    border-radius: 12px;
+    background: #ffffff;
+    border-radius: 14px;
     overflow: hidden;
+    box-shadow: 0 10px 24px rgba(15,23,42,0.08);
   }
 
   thead {
-    background: #111a2c;
+    background: #f1f5f9;
   }
 
   th, td {
-    padding: 16px;
+    padding: 18px;
     font-size: 15px;
     text-align: center;
-    border-bottom: 1px solid #25314a;
+    border-bottom: 1px solid #e5e7eb;
   }
 
-  .rank-col { width: 60px; }
+  th {
+    font-weight: 600;
+    color: #475569;
+  }
 
+  .rank-col {
+    width: 60px;
+    font-weight: 600;
+  }
+
+  /* ===== ゲーム表示 ===== */
   .game-cell {
     display: flex;
     flex-direction: column;
@@ -83,34 +101,38 @@
   .game-header {
     display: flex;
     align-items: center;
-    gap: 16px;
+    gap: 18px;
   }
 
   .game-img {
-    width: 145px;
-    height: 60px;
+    width: 150px;
+    height: 62px;
     object-fit: cover;
-    border-radius: 6px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
   }
 
   .game-title {
     font-weight: 600;
+    font-size: 16px;
+    color: #0f172a;
   }
 
-  /* ===== genres タグ ===== */
+  /* ===== genres ===== */
   .genres {
     display: flex;
     flex-wrap: wrap;
     gap: 6px;
-    margin-left: 161px; /* 画像幅 + gap 分 */
+    margin-left: 168px;
   }
 
   .genre-tag {
     font-size: 12px;
-    padding: 3px 8px;
+    padding: 4px 10px;
     border-radius: 999px;
-    background: #25314a;
-    color: #cbd5e1;
+    background: #e2e8f0;
+    color: #334155;
+    border: 1px solid #cbd5e1;
   }
 
   a {
@@ -118,11 +140,25 @@
     text-decoration: none;
   }
 
-  /* 上位ランク強調 */
-  tr:nth-child(1) { background: rgba(255,215,0,0.12); }
-  tr:nth-child(2) { background: rgba(192,192,192,0.12); }
-  tr:nth-child(3) { background: rgba(205,127,50,0.12); }
+  /* ===== 評価率 ===== */
+  .rate-good {
+    color: #16a34a;
+    font-weight: 700;
+    font-size: 16px;
+  }
 
+  /* ===== 上位強調 ===== */
+  tbody tr:nth-child(1) {
+    background: rgba(250,204,21,0.15);
+  }
+  tbody tr:nth-child(2) {
+    background: rgba(203,213,225,0.25);
+  }
+  tbody tr:nth-child(3) {
+    background: rgba(217,119,6,0.15);
+  }
+
+  /* ===== レスポンシブ ===== */
   @media (max-width: 720px) {
     .genres { display: none; }
     th:nth-child(3), td:nth-child(3),
@@ -138,7 +174,6 @@
 <div class="container">
   <h1>Steam 日本語レビュー高評価ランキング</h1>
 
-  <!-- ===== フィルタ ===== -->
   <div class="filters">
     <input id="year-from" type="number" placeholder="発売年 From">
     <input id="year-to" type="number" placeholder="発売年 To">
@@ -168,7 +203,6 @@
 <script>
 let allGames = [];
 
-// "2025年5月15日" → 2025
 function extractYear(dateStr) {
   if (!dateStr) return null;
   const m = dateStr.match(/^(\d{4})/);
@@ -187,7 +221,7 @@ async function loadGames() {
 
 function buildGenreFilter(games) {
   const set = new Set();
-  games.forEach(g => (g.genres || []).forEach(tag => set.add(tag)));
+  games.forEach(g => (g.genres || []).forEach(t => set.add(t)));
 
   const select = document.getElementById("genre-filter");
   [...set].sort().forEach(tag => {
@@ -204,8 +238,7 @@ function renderTable(games) {
 
   games.forEach((g, i) => {
     const year = extractYear(g.release_date);
-
-    const genreHtml = (g.genres || [])
+    const genres = (g.genres || [])
       .map(t => `<span class="genre-tag">${t}</span>`)
       .join("");
 
@@ -219,11 +252,11 @@ function renderTable(games) {
               <img src="${g.image_url}" class="game-img">
               <span class="game-title">${g.name} (${year ?? "-"})</span>
             </div>
-            <div class="genres">${genreHtml}</div>
+            <div class="genres">${genres}</div>
           </div>
         </a>
       </td>
-      <td style="color:#4ade80;font-weight:600;">${g.positive_rate_jp}%</td>
+      <td class="rate-good">${g.positive_rate_jp}%</td>
       <td>${g.total_reviews_jp}</td>
       <td>${g.positive_rate_all ?? "-"}%</td>
       <td>${g.total_reviews_all ?? "-"}</td>
