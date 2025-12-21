@@ -16,7 +16,7 @@
     ],
     "total_reviews_jp": 201,
     "positive_rate_jp": 99.5,
-    "total_reviews_all": 17596,
+    "total_reviews_all": 17597,
     "positive_rate_all": 93.75,
     "store_url": "https://store.steampowered.com/app/385800",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/385800/capsule_231x87.jpg"
@@ -65,7 +65,7 @@
     ],
     "total_reviews_jp": 527,
     "positive_rate_jp": 97.34,
-    "total_reviews_all": 68078,
+    "total_reviews_all": 68084,
     "positive_rate_all": 95.19,
     "store_url": "https://store.steampowered.com/app/1250",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1250/capsule_231x87.jpg"
@@ -89,7 +89,7 @@
     ],
     "total_reviews_jp": 331,
     "positive_rate_jp": 97.28,
-    "total_reviews_all": 27066,
+    "total_reviews_all": 27067,
     "positive_rate_all": 95.13,
     "store_url": "https://store.steampowered.com/app/333600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/333600/capsule_231x87.jpg"
@@ -127,7 +127,7 @@
     ],
     "total_reviews_jp": 1550,
     "positive_rate_jp": 97.16,
-    "total_reviews_all": 221780,
+    "total_reviews_all": 221824,
     "positive_rate_all": 97.45,
     "store_url": "https://store.steampowered.com/app/427520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/427520/capsule_231x87.jpg"
@@ -164,7 +164,7 @@
     ],
     "total_reviews_jp": 376,
     "positive_rate_jp": 96.81,
-    "total_reviews_all": 182859,
+    "total_reviews_all": 182914,
     "positive_rate_all": 96.97,
     "store_url": "https://store.steampowered.com/app/270880",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/270880/capsule_231x87.jpg"
@@ -208,7 +208,7 @@
     ],
     "total_reviews_jp": 1155,
     "positive_rate_jp": 96.45,
-    "total_reviews_all": 447750,
+    "total_reviews_all": 447871,
     "positive_rate_all": 98.7,
     "store_url": "https://store.steampowered.com/app/620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/620/capsule_231x87.jpg"
@@ -235,7 +235,7 @@
     ],
     "total_reviews_jp": 219,
     "positive_rate_jp": 96.35,
-    "total_reviews_all": 17351,
+    "total_reviews_all": 17353,
     "positive_rate_all": 95.85,
     "store_url": "https://store.steampowered.com/app/406150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/406150/capsule_231x87.jpg"
@@ -269,10 +269,30 @@
     ],
     "total_reviews_jp": 283,
     "positive_rate_jp": 96.11,
-    "total_reviews_all": 29750,
+    "total_reviews_all": 29751,
     "positive_rate_all": 93.09,
     "store_url": "https://store.steampowered.com/app/248820",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/248820/capsule_231x87.jpg"
+  },
+  {
+    "appid": 353560,
+    "name": "Plug & Play",
+    "release_date": "2015年3月5日",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 203,
+    "positive_rate_jp": 96.06,
+    "total_reviews_all": 4923,
+    "positive_rate_all": 84.54,
+    "store_url": "https://store.steampowered.com/app/353560",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/353560/capsule_231x87.jpg"
   },
   {
     "appid": 239030,
@@ -295,7 +315,7 @@
     ],
     "total_reviews_jp": 608,
     "positive_rate_jp": 96.05,
-    "total_reviews_all": 77111,
+    "total_reviews_all": 77122,
     "positive_rate_all": 97.29,
     "store_url": "https://store.steampowered.com/app/239030",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/239030/capsule_231x87.jpg"
@@ -336,9 +356,9 @@
       "タブレットでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 1648,
-    "positive_rate_jp": 96.0,
-    "total_reviews_all": 1200137,
+    "total_reviews_jp": 1647,
+    "positive_rate_jp": 95.99,
+    "total_reviews_all": 1200451,
     "positive_rate_all": 96.83,
     "store_url": "https://store.steampowered.com/app/4000",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/4000/capsule_231x87.jpg"
@@ -358,7 +378,7 @@
     ],
     "total_reviews_jp": 374,
     "positive_rate_jp": 95.99,
-    "total_reviews_all": 24855,
+    "total_reviews_all": 24860,
     "positive_rate_all": 96.86,
     "store_url": "https://store.steampowered.com/app/221640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/221640/capsule_231x87.jpg"
@@ -380,7 +400,7 @@
     ],
     "total_reviews_jp": 219,
     "positive_rate_jp": 95.89,
-    "total_reviews_all": 30267,
+    "total_reviews_all": 30279,
     "positive_rate_all": 97.78,
     "store_url": "https://store.steampowered.com/app/288160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/288160/capsule_231x87.jpg"
@@ -409,26 +429,6 @@
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/266210/capsule_231x87.jpg"
   },
   {
-    "appid": 353560,
-    "name": "Plug & Play",
-    "release_date": "2015年3月5日",
-    "genres": [
-      "アドベンチャー",
-      "カジュアル",
-      "インディー"
-    ],
-    "categories": [
-      "シングルプレイヤー",
-      "ファミリーシェアリング"
-    ],
-    "total_reviews_jp": 204,
-    "positive_rate_jp": 95.59,
-    "total_reviews_all": 4924,
-    "positive_rate_all": 84.52,
-    "store_url": "https://store.steampowered.com/app/353560",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/353560/capsule_231x87.jpg"
-  },
-  {
     "appid": 220200,
     "name": "Kerbal Space Program",
     "release_date": "2015年4月27日",
@@ -446,7 +446,7 @@
     ],
     "total_reviews_jp": 562,
     "positive_rate_jp": 95.2,
-    "total_reviews_all": 131081,
+    "total_reviews_all": 131091,
     "positive_rate_all": 95.22,
     "store_url": "https://store.steampowered.com/app/220200",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/220200/capsule_231x87.jpg"
@@ -478,7 +478,7 @@
     ],
     "total_reviews_jp": 929,
     "positive_rate_jp": 95.16,
-    "total_reviews_all": 186838,
+    "total_reviews_all": 186911,
     "positive_rate_all": 98.5,
     "store_url": "https://store.steampowered.com/app/400",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/400/capsule_231x87.jpg"
@@ -517,8 +517,8 @@
     ],
     "total_reviews_jp": 2018,
     "positive_rate_jp": 95.14,
-    "total_reviews_all": 880081,
-    "positive_rate_all": 97.5,
+    "total_reviews_all": 880436,
+    "positive_rate_all": 97.49,
     "store_url": "https://store.steampowered.com/app/227300",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/227300/capsule_231x87.jpg"
   },
@@ -538,8 +538,8 @@
     ],
     "total_reviews_jp": 347,
     "positive_rate_jp": 95.1,
-    "total_reviews_all": 12084,
-    "positive_rate_all": 95.06,
+    "total_reviews_all": 12086,
+    "positive_rate_all": 95.05,
     "store_url": "https://store.steampowered.com/app/495890",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/495890/capsule_231x87.jpg"
   },
@@ -568,7 +568,7 @@
     ],
     "total_reviews_jp": 243,
     "positive_rate_jp": 95.06,
-    "total_reviews_all": 187235,
+    "total_reviews_all": 187294,
     "positive_rate_all": 96.28,
     "store_url": "https://store.steampowered.com/app/240",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/240/capsule_231x87.jpg"
@@ -595,7 +595,7 @@
     ],
     "total_reviews_jp": 505,
     "positive_rate_jp": 94.85,
-    "total_reviews_all": 132686,
+    "total_reviews_all": 132761,
     "positive_rate_all": 97.43,
     "store_url": "https://store.steampowered.com/app/504230",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/504230/capsule_231x87.jpg"
@@ -620,7 +620,7 @@
     ],
     "total_reviews_jp": 237,
     "positive_rate_jp": 94.51,
-    "total_reviews_all": 8406,
+    "total_reviews_all": 8410,
     "positive_rate_all": 96.59,
     "store_url": "https://store.steampowered.com/app/360740",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/360740/capsule_231x87.jpg"
@@ -655,7 +655,7 @@
     ],
     "total_reviews_jp": 307,
     "positive_rate_jp": 94.46,
-    "total_reviews_all": 50706,
+    "total_reviews_all": 50729,
     "positive_rate_all": 95.79,
     "store_url": "https://store.steampowered.com/app/386940",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/386940/capsule_231x87.jpg"
@@ -681,7 +681,7 @@
     ],
     "total_reviews_jp": 269,
     "positive_rate_jp": 94.42,
-    "total_reviews_all": 370717,
+    "total_reviews_all": 370906,
     "positive_rate_all": 97.27,
     "store_url": "https://store.steampowered.com/app/250900",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/250900/capsule_231x87.jpg"
@@ -724,9 +724,9 @@
       "ファミリーシェアリング",
       "Steamタイムライン"
     ],
-    "total_reviews_jp": 2552,
+    "total_reviews_jp": 2553,
     "positive_rate_jp": 94.4,
-    "total_reviews_all": 1003733,
+    "total_reviews_all": 1004039,
     "positive_rate_all": 97.54,
     "store_url": "https://store.steampowered.com/app/550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/550/capsule_231x87.jpg"
@@ -755,7 +755,7 @@
     ],
     "total_reviews_jp": 231,
     "positive_rate_jp": 94.37,
-    "total_reviews_all": 84305,
+    "total_reviews_all": 84319,
     "positive_rate_all": 97.6,
     "store_url": "https://store.steampowered.com/app/205100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/205100/capsule_231x87.jpg"
@@ -788,7 +788,7 @@
     ],
     "total_reviews_jp": 1824,
     "positive_rate_jp": 94.35,
-    "total_reviews_all": 955126,
+    "total_reviews_all": 955562,
     "positive_rate_all": 98.46,
     "store_url": "https://store.steampowered.com/app/413150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413150/capsule_231x87.jpg"
@@ -810,9 +810,9 @@
       "Steamクラウド",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 1122,
+    "total_reviews_jp": 1123,
     "positive_rate_jp": 94.3,
-    "total_reviews_all": 59014,
+    "total_reviews_all": 59047,
     "positive_rate_all": 98.34,
     "store_url": "https://store.steampowered.com/app/420530",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/420530/capsule_231x87.jpg"
@@ -845,7 +845,7 @@
     ],
     "total_reviews_jp": 4248,
     "positive_rate_jp": 94.28,
-    "total_reviews_all": 1459411,
+    "total_reviews_all": 1459845,
     "positive_rate_all": 97.44,
     "store_url": "https://store.steampowered.com/app/105600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/105600/capsule_231x87.jpg"
@@ -873,7 +873,7 @@
     ],
     "total_reviews_jp": 332,
     "positive_rate_jp": 94.28,
-    "total_reviews_all": 147073,
+    "total_reviews_all": 147121,
     "positive_rate_all": 97.98,
     "store_url": "https://store.steampowered.com/app/433340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/433340/capsule_231x87.jpg"
@@ -899,7 +899,7 @@
     ],
     "total_reviews_jp": 627,
     "positive_rate_jp": 94.26,
-    "total_reviews_all": 171042,
+    "total_reviews_all": 171053,
     "positive_rate_all": 96.21,
     "store_url": "https://store.steampowered.com/app/319630",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/319630/capsule_231x87.jpg"
@@ -925,7 +925,7 @@
     ],
     "total_reviews_jp": 240,
     "positive_rate_jp": 94.17,
-    "total_reviews_all": 69041,
+    "total_reviews_all": 69044,
     "positive_rate_all": 95.66,
     "store_url": "https://store.steampowered.com/app/55230",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/55230/capsule_231x87.jpg"
@@ -949,7 +949,7 @@
     ],
     "total_reviews_jp": 1726,
     "positive_rate_jp": 94.15,
-    "total_reviews_all": 229414,
+    "total_reviews_all": 229488,
     "positive_rate_all": 97.9,
     "store_url": "https://store.steampowered.com/app/294100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/294100/capsule_231x87.jpg"
@@ -979,7 +979,7 @@
     ],
     "total_reviews_jp": 358,
     "positive_rate_jp": 94.13,
-    "total_reviews_all": 51540,
+    "total_reviews_all": 51545,
     "positive_rate_all": 95.28,
     "store_url": "https://store.steampowered.com/app/346010",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/346010/capsule_231x87.jpg"
@@ -1010,7 +1010,7 @@
     ],
     "total_reviews_jp": 607,
     "positive_rate_jp": 94.07,
-    "total_reviews_all": 69224,
+    "total_reviews_all": 69228,
     "positive_rate_all": 90.85,
     "store_url": "https://store.steampowered.com/app/265930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/265930/capsule_231x87.jpg"
@@ -1041,7 +1041,7 @@
     ],
     "total_reviews_jp": 412,
     "positive_rate_jp": 93.69,
-    "total_reviews_all": 199173,
+    "total_reviews_all": 199257,
     "positive_rate_all": 96.25,
     "store_url": "https://store.steampowered.com/app/268910",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/268910/capsule_231x87.jpg"
@@ -1067,7 +1067,7 @@
     ],
     "total_reviews_jp": 253,
     "positive_rate_jp": 93.68,
-    "total_reviews_all": 125556,
+    "total_reviews_all": 125626,
     "positive_rate_all": 96.95,
     "store_url": "https://store.steampowered.com/app/223470",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/223470/capsule_231x87.jpg"
@@ -1090,7 +1090,7 @@
     ],
     "total_reviews_jp": 535,
     "positive_rate_jp": 93.64,
-    "total_reviews_all": 42714,
+    "total_reviews_all": 42720,
     "positive_rate_all": 90.4,
     "store_url": "https://store.steampowered.com/app/242920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/242920/capsule_231x87.jpg"
@@ -1113,7 +1113,7 @@
     ],
     "total_reviews_jp": 811,
     "positive_rate_jp": 93.59,
-    "total_reviews_all": 207284,
+    "total_reviews_all": 207293,
     "positive_rate_all": 95.57,
     "store_url": "https://store.steampowered.com/app/8930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/8930/capsule_231x87.jpg"
@@ -1141,7 +1141,7 @@
     ],
     "total_reviews_jp": 296,
     "positive_rate_jp": 93.58,
-    "total_reviews_all": 71764,
+    "total_reviews_all": 71806,
     "positive_rate_all": 96.98,
     "store_url": "https://store.steampowered.com/app/304430",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304430/capsule_231x87.jpg"
@@ -1165,9 +1165,9 @@
       "テレビでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 217,
-    "positive_rate_jp": 93.55,
-    "total_reviews_all": 73434,
+    "total_reviews_jp": 218,
+    "positive_rate_jp": 93.58,
+    "total_reviews_all": 73451,
     "positive_rate_all": 98.01,
     "store_url": "https://store.steampowered.com/app/460950",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/460950/capsule_231x87.jpg"
@@ -1193,7 +1193,7 @@
     ],
     "total_reviews_jp": 566,
     "positive_rate_jp": 93.46,
-    "total_reviews_all": 16274,
+    "total_reviews_all": 16275,
     "positive_rate_all": 88.17,
     "store_url": "https://store.steampowered.com/app/313340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/313340/capsule_231x87.jpg"
@@ -1226,7 +1226,7 @@
     ],
     "total_reviews_jp": 491,
     "positive_rate_jp": 93.28,
-    "total_reviews_all": 361315,
+    "total_reviews_all": 361564,
     "positive_rate_all": 97.41,
     "store_url": "https://store.steampowered.com/app/284160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/284160/capsule_231x87.jpg"
@@ -1250,7 +1250,7 @@
     ],
     "total_reviews_jp": 402,
     "positive_rate_jp": 93.03,
-    "total_reviews_all": 117679,
+    "total_reviews_all": 117732,
     "positive_rate_all": 97.04,
     "store_url": "https://store.steampowered.com/app/219150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219150/capsule_231x87.jpg"
@@ -1275,7 +1275,7 @@
     ],
     "total_reviews_jp": 1499,
     "positive_rate_jp": 93.0,
-    "total_reviews_all": 106395,
+    "total_reviews_all": 106447,
     "positive_rate_all": 95.55,
     "store_url": "https://store.steampowered.com/app/233860",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/233860/capsule_231x87.jpg"
@@ -1307,7 +1307,7 @@
     ],
     "total_reviews_jp": 243,
     "positive_rate_jp": 93.0,
-    "total_reviews_all": 31758,
+    "total_reviews_all": 31764,
     "positive_rate_all": 87.91,
     "store_url": "https://store.steampowered.com/app/245170",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/245170/capsule_231x87.jpg"
@@ -1331,7 +1331,7 @@
     ],
     "total_reviews_jp": 383,
     "positive_rate_jp": 92.95,
-    "total_reviews_all": 24267,
+    "total_reviews_all": 24274,
     "positive_rate_all": 97.15,
     "store_url": "https://store.steampowered.com/app/412830",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/412830/capsule_231x87.jpg"
@@ -1358,37 +1358,10 @@
     ],
     "total_reviews_jp": 222,
     "positive_rate_jp": 92.79,
-    "total_reviews_all": 48226,
-    "positive_rate_all": 95.9,
+    "total_reviews_all": 48300,
+    "positive_rate_all": 95.91,
     "store_url": "https://store.steampowered.com/app/282140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282140/capsule_231x87.jpg"
-  },
-  {
-    "appid": 219740,
-    "name": "Don't Starve",
-    "release_date": "2013年4月23日",
-    "genres": [
-      "アドベンチャー",
-      "インディー",
-      "シミュレーション"
-    ],
-    "categories": [
-      "シングルプレイヤー",
-      "フルコントローラサポート",
-      "Steamトレーディングカード",
-      "Steamワークショップ",
-      "Steamクラウド",
-      "スマホでRemote Play",
-      "タブレットでRemote Play",
-      "テレビでRemote Play",
-      "ファミリーシェアリング"
-    ],
-    "total_reviews_jp": 263,
-    "positive_rate_jp": 92.78,
-    "total_reviews_all": 111527,
-    "positive_rate_all": 96.58,
-    "store_url": "https://store.steampowered.com/app/219740",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219740/capsule_231x87.jpg"
   },
   {
     "appid": 204360,
@@ -1427,7 +1400,7 @@
     ],
     "total_reviews_jp": 221,
     "positive_rate_jp": 92.76,
-    "total_reviews_all": 133211,
+    "total_reviews_all": 133273,
     "positive_rate_all": 96.2,
     "store_url": "https://store.steampowered.com/app/204360",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/204360/capsule_231x87.jpg"
@@ -1459,10 +1432,37 @@
     ],
     "total_reviews_jp": 221,
     "positive_rate_jp": 92.76,
-    "total_reviews_all": 23077,
+    "total_reviews_all": 23084,
     "positive_rate_all": 92.32,
     "store_url": "https://store.steampowered.com/app/246900",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/246900/capsule_231x87.jpg"
+  },
+  {
+    "appid": 219740,
+    "name": "Don't Starve",
+    "release_date": "2013年4月23日",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 262,
+    "positive_rate_jp": 92.75,
+    "total_reviews_all": 111540,
+    "positive_rate_all": 96.58,
+    "store_url": "https://store.steampowered.com/app/219740",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219740/capsule_231x87.jpg"
   },
   {
     "appid": 264710,
@@ -1485,7 +1485,7 @@
     ],
     "total_reviews_jp": 985,
     "positive_rate_jp": 92.69,
-    "total_reviews_all": 331659,
+    "total_reviews_all": 331773,
     "positive_rate_all": 96.99,
     "store_url": "https://store.steampowered.com/app/264710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/264710/capsule_231x87.jpg"
@@ -1507,10 +1507,10 @@
       "タブレットでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 338,
-    "positive_rate_jp": 92.31,
-    "total_reviews_all": 28101,
-    "positive_rate_all": 96.15,
+    "total_reviews_jp": 339,
+    "positive_rate_jp": 92.33,
+    "total_reviews_all": 28123,
+    "positive_rate_all": 96.14,
     "store_url": "https://store.steampowered.com/app/413420",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413420/capsule_231x87.jpg"
   },
@@ -1533,9 +1533,9 @@
       "Valveアンチチート有効",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 207,
-    "positive_rate_jp": 92.27,
-    "total_reviews_all": 255554,
+    "total_reviews_jp": 208,
+    "positive_rate_jp": 92.31,
+    "total_reviews_all": 255598,
     "positive_rate_all": 97.42,
     "store_url": "https://store.steampowered.com/app/10",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/10/capsule_231x87.jpg"
@@ -1579,7 +1579,7 @@
     ],
     "total_reviews_jp": 489,
     "positive_rate_jp": 92.23,
-    "total_reviews_all": 26059,
+    "total_reviews_all": 26061,
     "positive_rate_all": 95.53,
     "store_url": "https://store.steampowered.com/app/247080",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/247080/capsule_231x87.jpg"
@@ -1603,8 +1603,8 @@
     ],
     "total_reviews_jp": 283,
     "positive_rate_jp": 92.23,
-    "total_reviews_all": 26805,
-    "positive_rate_all": 92.93,
+    "total_reviews_all": 26810,
+    "positive_rate_all": 92.92,
     "store_url": "https://store.steampowered.com/app/384190",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/384190/capsule_231x87.jpg"
   },
@@ -1631,7 +1631,7 @@
     ],
     "total_reviews_jp": 294,
     "positive_rate_jp": 92.18,
-    "total_reviews_all": 25637,
+    "total_reviews_all": 25641,
     "positive_rate_all": 93.56,
     "store_url": "https://store.steampowered.com/app/365450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/365450/capsule_231x87.jpg"
@@ -1651,7 +1651,7 @@
     ],
     "total_reviews_jp": 626,
     "positive_rate_jp": 92.17,
-    "total_reviews_all": 135966,
+    "total_reviews_all": 136010,
     "positive_rate_all": 96.8,
     "store_url": "https://store.steampowered.com/app/457140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/457140/capsule_231x87.jpg"
@@ -1679,7 +1679,7 @@
     ],
     "total_reviews_jp": 276,
     "positive_rate_jp": 92.03,
-    "total_reviews_all": 124720,
+    "total_reviews_all": 124716,
     "positive_rate_all": 91.65,
     "store_url": "https://store.steampowered.com/app/222880",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/222880/capsule_231x87.jpg"
@@ -1704,7 +1704,7 @@
     ],
     "total_reviews_jp": 1592,
     "positive_rate_jp": 91.96,
-    "total_reviews_all": 281883,
+    "total_reviews_all": 281918,
     "positive_rate_all": 92.97,
     "store_url": "https://store.steampowered.com/app/255710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/255710/capsule_231x87.jpg"
@@ -1733,8 +1733,8 @@
     ],
     "total_reviews_jp": 435,
     "positive_rate_jp": 91.95,
-    "total_reviews_all": 12042,
-    "positive_rate_all": 95.58,
+    "total_reviews_all": 12043,
+    "positive_rate_all": 95.57,
     "store_url": "https://store.steampowered.com/app/400910",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/400910/capsule_231x87.jpg"
   },
@@ -1756,7 +1756,7 @@
     ],
     "total_reviews_jp": 418,
     "positive_rate_jp": 91.87,
-    "total_reviews_all": 169011,
+    "total_reviews_all": 169032,
     "positive_rate_all": 97.73,
     "store_url": "https://store.steampowered.com/app/48700",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/48700/capsule_231x87.jpg"
@@ -1795,9 +1795,9 @@
       "Remote Play Together",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 775,
-    "positive_rate_jp": 91.48,
-    "total_reviews_all": 220205,
+    "total_reviews_jp": 776,
+    "positive_rate_jp": 91.49,
+    "total_reviews_all": 220256,
     "positive_rate_all": 94.66,
     "store_url": "https://store.steampowered.com/app/477160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/477160/capsule_231x87.jpg"
@@ -1877,7 +1877,7 @@
     ],
     "total_reviews_jp": 581,
     "positive_rate_jp": 91.39,
-    "total_reviews_all": 521602,
+    "total_reviews_all": 521716,
     "positive_rate_all": 95.14,
     "store_url": "https://store.steampowered.com/app/322330",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/322330/capsule_231x87.jpg"
@@ -1902,7 +1902,7 @@
     ],
     "total_reviews_jp": 579,
     "positive_rate_jp": 91.19,
-    "total_reviews_all": 37451,
+    "total_reviews_all": 37462,
     "positive_rate_all": 97.39,
     "store_url": "https://store.steampowered.com/app/447530",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/447530/capsule_231x87.jpg"
@@ -1929,7 +1929,7 @@
     ],
     "total_reviews_jp": 249,
     "positive_rate_jp": 91.16,
-    "total_reviews_all": 102022,
+    "total_reviews_all": 102023,
     "positive_rate_all": 95.81,
     "store_url": "https://store.steampowered.com/app/221380",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/221380/capsule_231x87.jpg"
@@ -1954,10 +1954,10 @@
       "タブレットでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 2079,
-    "positive_rate_jp": 91.15,
-    "total_reviews_all": 351048,
-    "positive_rate_all": 90.51,
+    "total_reviews_jp": 2081,
+    "positive_rate_jp": 91.16,
+    "total_reviews_all": 351164,
+    "positive_rate_all": 90.5,
     "store_url": "https://store.steampowered.com/app/394360",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/394360/capsule_231x87.jpg"
   },
@@ -1980,7 +1980,7 @@
     ],
     "total_reviews_jp": 385,
     "positive_rate_jp": 90.91,
-    "total_reviews_all": 236575,
+    "total_reviews_all": 236656,
     "positive_rate_all": 95.96,
     "store_url": "https://store.steampowered.com/app/22380",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/22380/capsule_231x87.jpg"
@@ -2001,7 +2001,7 @@
     ],
     "total_reviews_jp": 220,
     "positive_rate_jp": 90.91,
-    "total_reviews_all": 17656,
+    "total_reviews_all": 17661,
     "positive_rate_all": 95.08,
     "store_url": "https://store.steampowered.com/app/405640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/405640/capsule_231x87.jpg"
@@ -2022,8 +2022,8 @@
       "ファミリーシェアリング"
     ],
     "total_reviews_jp": 2470,
-    "positive_rate_jp": 90.77,
-    "total_reviews_all": 307639,
+    "positive_rate_jp": 90.81,
+    "total_reviews_all": 307774,
     "positive_rate_all": 96.77,
     "store_url": "https://store.steampowered.com/app/391540",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/391540/capsule_231x87.jpg"
@@ -2046,7 +2046,7 @@
     ],
     "total_reviews_jp": 270,
     "positive_rate_jp": 90.74,
-    "total_reviews_all": 12180,
+    "total_reviews_all": 12181,
     "positive_rate_all": 94.23,
     "store_url": "https://store.steampowered.com/app/282900",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282900/capsule_231x87.jpg"
@@ -2074,7 +2074,7 @@
     ],
     "total_reviews_jp": 219,
     "positive_rate_jp": 90.41,
-    "total_reviews_all": 8070,
+    "total_reviews_all": 8072,
     "positive_rate_all": 91.41,
     "store_url": "https://store.steampowered.com/app/233980",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/233980/capsule_231x87.jpg"
@@ -2112,7 +2112,7 @@
     ],
     "total_reviews_jp": 353,
     "positive_rate_jp": 90.37,
-    "total_reviews_all": 260821,
+    "total_reviews_all": 260922,
     "positive_rate_all": 97.61,
     "store_url": "https://store.steampowered.com/app/220",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/220/capsule_231x87.jpg"
@@ -2171,8 +2171,8 @@
     ],
     "total_reviews_jp": 283,
     "positive_rate_jp": 89.75,
-    "total_reviews_all": 49295,
-    "positive_rate_all": 95.99,
+    "total_reviews_all": 49327,
+    "positive_rate_all": 96.0,
     "store_url": "https://store.steampowered.com/app/427410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/427410/capsule_231x87.jpg"
   },
@@ -2195,7 +2195,7 @@
     ],
     "total_reviews_jp": 668,
     "positive_rate_jp": 89.52,
-    "total_reviews_all": 76766,
+    "total_reviews_all": 76776,
     "positive_rate_all": 95.2,
     "store_url": "https://store.steampowered.com/app/212680",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/212680/capsule_231x87.jpg"
@@ -2218,7 +2218,7 @@
     ],
     "total_reviews_jp": 295,
     "positive_rate_jp": 89.49,
-    "total_reviews_all": 10009,
+    "total_reviews_all": 10011,
     "positive_rate_all": 89.5,
     "store_url": "https://store.steampowered.com/app/368370",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/368370/capsule_231x87.jpg"
@@ -2244,7 +2244,7 @@
     ],
     "total_reviews_jp": 504,
     "positive_rate_jp": 89.29,
-    "total_reviews_all": 130437,
+    "total_reviews_all": 130496,
     "positive_rate_all": 96.44,
     "store_url": "https://store.steampowered.com/app/238320",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/238320/capsule_231x87.jpg"
@@ -2310,7 +2310,7 @@
     ],
     "total_reviews_jp": 898,
     "positive_rate_jp": 89.2,
-    "total_reviews_all": 102779,
+    "total_reviews_all": 102787,
     "positive_rate_all": 93.74,
     "store_url": "https://store.steampowered.com/app/219990",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219990/capsule_231x87.jpg"
@@ -2338,7 +2338,7 @@
     ],
     "total_reviews_jp": 218,
     "positive_rate_jp": 88.99,
-    "total_reviews_all": 37763,
+    "total_reviews_all": 37765,
     "positive_rate_all": 92.56,
     "store_url": "https://store.steampowered.com/app/35450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/35450/capsule_231x87.jpg"
@@ -2366,7 +2366,7 @@
     ],
     "total_reviews_jp": 1126,
     "positive_rate_jp": 88.9,
-    "total_reviews_all": 308224,
+    "total_reviews_all": 308235,
     "positive_rate_all": 89.36,
     "store_url": "https://store.steampowered.com/app/49520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/49520/capsule_231x87.jpg"
@@ -2431,7 +2431,7 @@
     ],
     "total_reviews_jp": 1862,
     "positive_rate_jp": 88.61,
-    "total_reviews_all": 1206648,
+    "total_reviews_all": 1206816,
     "positive_rate_all": 90.63,
     "store_url": "https://store.steampowered.com/app/440",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/440/capsule_231x87.jpg"
@@ -2471,9 +2471,9 @@
       "レベル編集可能",
       "タブレットでRemote Play"
     ],
-    "total_reviews_jp": 865,
-    "positive_rate_jp": 88.55,
-    "total_reviews_all": 559805,
+    "total_reviews_jp": 866,
+    "positive_rate_jp": 88.57,
+    "total_reviews_all": 559827,
     "positive_rate_all": 91.09,
     "store_url": "https://store.steampowered.com/app/304930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304930/capsule_231x87.jpg"
@@ -2502,7 +2502,7 @@
     ],
     "total_reviews_jp": 1177,
     "positive_rate_jp": 88.53,
-    "total_reviews_all": 650946,
+    "total_reviews_all": 651224,
     "positive_rate_all": 95.54,
     "store_url": "https://store.steampowered.com/app/242760",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/242760/capsule_231x87.jpg"
@@ -2527,7 +2527,7 @@
     ],
     "total_reviews_jp": 270,
     "positive_rate_jp": 88.52,
-    "total_reviews_all": 57485,
+    "total_reviews_all": 57490,
     "positive_rate_all": 93.19,
     "store_url": "https://store.steampowered.com/app/200510",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/200510/capsule_231x87.jpg"
@@ -2556,7 +2556,7 @@
     ],
     "total_reviews_jp": 410,
     "positive_rate_jp": 88.29,
-    "total_reviews_all": 213622,
+    "total_reviews_all": 213640,
     "positive_rate_all": 95.5,
     "store_url": "https://store.steampowered.com/app/379720",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/379720/capsule_231x87.jpg"
@@ -2588,34 +2588,6 @@
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/219640/capsule_231x87.jpg"
   },
   {
-    "appid": 45760,
-    "name": "Ultra Street Fighter® IV",
-    "release_date": "2014年8月7日",
-    "genres": [
-      "アクション"
-    ],
-    "categories": [
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "PvP",
-      "共有／分割画面でのPvP",
-      "Steam実績",
-      "フルコントローラサポート",
-      "Steamトレーディングカード",
-      "Steamクラウド",
-      "Steamランキング",
-      "テレビでRemote Play",
-      "Remote Play Together",
-      "ファミリーシェアリング"
-    ],
-    "total_reviews_jp": 260,
-    "positive_rate_jp": 88.08,
-    "total_reviews_all": 16347,
-    "positive_rate_all": 90.32,
-    "store_url": "https://store.steampowered.com/app/45760",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/45760/capsule_231x87.jpg"
-  },
-  {
     "appid": 200710,
     "name": "Torchlight II",
     "release_date": "2012年9月20日",
@@ -2638,10 +2610,38 @@
     ],
     "total_reviews_jp": 218,
     "positive_rate_jp": 88.07,
-    "total_reviews_all": 44862,
+    "total_reviews_all": 44864,
     "positive_rate_all": 92.7,
     "store_url": "https://store.steampowered.com/app/200710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/200710/capsule_231x87.jpg"
+  },
+  {
+    "appid": 45760,
+    "name": "Ultra Street Fighter® IV",
+    "release_date": "2014年8月7日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "共有／分割画面でのPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 259,
+    "positive_rate_jp": 88.03,
+    "total_reviews_all": 16353,
+    "positive_rate_all": 90.33,
+    "store_url": "https://store.steampowered.com/app/45760",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/45760/capsule_231x87.jpg"
   },
   {
     "appid": 244210,
@@ -2667,8 +2667,8 @@
     ],
     "total_reviews_jp": 492,
     "positive_rate_jp": 88.01,
-    "total_reviews_all": 161893,
-    "positive_rate_all": 92.75,
+    "total_reviews_all": 161955,
+    "positive_rate_all": 92.74,
     "store_url": "https://store.steampowered.com/app/244210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/244210/capsule_231x87.jpg"
   },
@@ -2699,8 +2699,8 @@
     ],
     "total_reviews_jp": 207,
     "positive_rate_jp": 87.92,
-    "total_reviews_all": 9488,
-    "positive_rate_all": 93.84,
+    "total_reviews_all": 9490,
+    "positive_rate_all": 93.86,
     "store_url": "https://store.steampowered.com/app/470310",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/470310/capsule_231x87.jpg"
   },
@@ -2724,7 +2724,7 @@
     ],
     "total_reviews_jp": 412,
     "positive_rate_jp": 87.86,
-    "total_reviews_all": 491550,
+    "total_reviews_all": 492377,
     "positive_rate_all": 93.1,
     "store_url": "https://store.steampowered.com/app/322170",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/322170/capsule_231x87.jpg"
@@ -2748,7 +2748,7 @@
     ],
     "total_reviews_jp": 326,
     "positive_rate_jp": 87.73,
-    "total_reviews_all": 54141,
+    "total_reviews_all": 54172,
     "positive_rate_all": 90.18,
     "store_url": "https://store.steampowered.com/app/108710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/108710/capsule_231x87.jpg"
@@ -2773,7 +2773,7 @@
     ],
     "total_reviews_jp": 269,
     "positive_rate_jp": 87.73,
-    "total_reviews_all": 11394,
+    "total_reviews_all": 11395,
     "positive_rate_all": 93.27,
     "store_url": "https://store.steampowered.com/app/428550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/428550/capsule_231x87.jpg"
@@ -2804,7 +2804,7 @@
     ],
     "total_reviews_jp": 396,
     "positive_rate_jp": 87.37,
-    "total_reviews_all": 122583,
+    "total_reviews_all": 122585,
     "positive_rate_all": 90.18,
     "store_url": "https://store.steampowered.com/app/211820",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/211820/capsule_231x87.jpg"
@@ -2829,9 +2829,9 @@
       "タブレットでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 1222,
-    "positive_rate_jp": 87.32,
-    "total_reviews_all": 353249,
+    "total_reviews_jp": 1223,
+    "positive_rate_jp": 87.33,
+    "total_reviews_all": 353368,
     "positive_rate_all": 92.17,
     "store_url": "https://store.steampowered.com/app/489830",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/489830/capsule_231x87.jpg"
@@ -2855,8 +2855,8 @@
     ],
     "total_reviews_jp": 509,
     "positive_rate_jp": 87.23,
-    "total_reviews_all": 142960,
-    "positive_rate_all": 93.51,
+    "total_reviews_all": 142974,
+    "positive_rate_all": 93.5,
     "store_url": "https://store.steampowered.com/app/8870",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/8870/capsule_231x87.jpg"
   },
@@ -2892,7 +2892,7 @@
     ],
     "total_reviews_jp": 201,
     "positive_rate_jp": 87.06,
-    "total_reviews_all": 28085,
+    "total_reviews_all": 28092,
     "positive_rate_all": 88.35,
     "store_url": "https://store.steampowered.com/app/41070",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/41070/capsule_231x87.jpg"
@@ -2915,7 +2915,7 @@
     ],
     "total_reviews_jp": 220,
     "positive_rate_jp": 86.82,
-    "total_reviews_all": 42224,
+    "total_reviews_all": 42228,
     "positive_rate_all": 95.0,
     "store_url": "https://store.steampowered.com/app/204450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/204450/capsule_231x87.jpg"
@@ -2950,9 +2950,9 @@
       "テレビでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 3314,
-    "positive_rate_jp": 86.81,
-    "total_reviews_all": 390806,
+    "total_reviews_jp": 3317,
+    "positive_rate_jp": 86.8,
+    "total_reviews_all": 390904,
     "positive_rate_all": 87.15,
     "store_url": "https://store.steampowered.com/app/251570",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/251570/capsule_231x87.jpg"
@@ -2981,7 +2981,7 @@
     ],
     "total_reviews_jp": 369,
     "positive_rate_jp": 86.72,
-    "total_reviews_all": 135037,
+    "total_reviews_all": 135055,
     "positive_rate_all": 87.52,
     "store_url": "https://store.steampowered.com/app/236850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/236850/capsule_231x87.jpg"
@@ -3006,8 +3006,8 @@
     ],
     "total_reviews_jp": 517,
     "positive_rate_jp": 86.46,
-    "total_reviews_all": 95736,
-    "positive_rate_all": 93.92,
+    "total_reviews_all": 95749,
+    "positive_rate_all": 93.91,
     "store_url": "https://store.steampowered.com/app/282070",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282070/capsule_231x87.jpg"
   },
@@ -3033,7 +3033,7 @@
     ],
     "total_reviews_jp": 1021,
     "positive_rate_jp": 86.39,
-    "total_reviews_all": 507909,
+    "total_reviews_all": 508313,
     "positive_rate_all": 96.93,
     "store_url": "https://store.steampowered.com/app/367520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/367520/capsule_231x87.jpg"
@@ -3059,7 +3059,7 @@
     ],
     "total_reviews_jp": 364,
     "positive_rate_jp": 86.26,
-    "total_reviews_all": 70874,
+    "total_reviews_all": 70879,
     "positive_rate_all": 91.4,
     "store_url": "https://store.steampowered.com/app/493340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/493340/capsule_231x87.jpg"
@@ -3089,9 +3089,9 @@
       "テレビでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 722,
-    "positive_rate_jp": 86.15,
-    "total_reviews_all": 127642,
+    "total_reviews_jp": 721,
+    "positive_rate_jp": 86.13,
+    "total_reviews_all": 127644,
     "positive_rate_all": 88.29,
     "store_url": "https://store.steampowered.com/app/232090",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/232090/capsule_231x87.jpg"
@@ -3121,12 +3121,113 @@
       "テレビでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 1809,
-    "positive_rate_jp": 86.12,
-    "total_reviews_all": 425585,
+    "total_reviews_jp": 1810,
+    "positive_rate_jp": 86.13,
+    "total_reviews_all": 425684,
     "positive_rate_all": 94.34,
     "store_url": "https://store.steampowered.com/app/374320",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/374320/capsule_231x87.jpg"
+  },
+  {
+    "appid": 218230,
+    "name": "PlanetSide 2",
+    "release_date": "2012年11月20日",
+    "genres": [
+      "アクション",
+      "MM（Massively Multiplayer）",
+      "無料プレイ"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "Steamトレーディングカード",
+      "Steamクラウド"
+    ],
+    "total_reviews_jp": 253,
+    "positive_rate_jp": 85.77,
+    "total_reviews_all": 74176,
+    "positive_rate_all": 80.7,
+    "store_url": "https://store.steampowered.com/app/218230",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/218230/capsule_231x87.jpg"
+  },
+  {
+    "appid": 380600,
+    "name": "Fishing Planet",
+    "release_date": "2017年8月28日",
+    "genres": [
+      "MM（Massively Multiplayer）",
+      "シミュレーション",
+      "スポーツ",
+      "無料プレイ"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "テレビでRemote Play"
+    ],
+    "total_reviews_jp": 210,
+    "positive_rate_jp": 85.71,
+    "total_reviews_all": 71342,
+    "positive_rate_all": 86.8,
+    "store_url": "https://store.steampowered.com/app/380600",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/380600/capsule_231x87.jpg"
+  },
+  {
+    "appid": 285920,
+    "name": "TerraTech",
+    "release_date": "2018年8月10日",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 501,
+    "positive_rate_jp": 85.63,
+    "total_reviews_all": 24160,
+    "positive_rate_all": 91.35,
+    "store_url": "https://store.steampowered.com/app/285920",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/285920/capsule_231x87.jpg"
+  },
+  {
+    "appid": 22370,
+    "name": "Fallout 3: Game of the Year Edition",
+    "release_date": "2009年12月17日",
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 235,
+    "positive_rate_jp": 85.53,
+    "total_reviews_all": 52203,
+    "positive_rate_all": 81.08,
+    "store_url": "https://store.steampowered.com/app/22370",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/22370/capsule_231x87.jpg"
   },
   {
     "appid": 282800,
@@ -3158,113 +3259,12 @@
       "Steamランキング",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 391,
-    "positive_rate_jp": 85.93,
-    "total_reviews_all": 28857,
-    "positive_rate_all": 91.55,
+    "total_reviews_jp": 394,
+    "positive_rate_jp": 85.28,
+    "total_reviews_all": 28923,
+    "positive_rate_all": 91.54,
     "store_url": "https://store.steampowered.com/app/282800",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/282800/capsule_231x87.jpg"
-  },
-  {
-    "appid": 285920,
-    "name": "TerraTech",
-    "release_date": "2018年8月10日",
-    "genres": [
-      "アクション",
-      "インディー"
-    ],
-    "categories": [
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "PvP",
-      "オンラインPvP",
-      "協力プレイ",
-      "オンライン協力プレイ",
-      "Steam実績",
-      "Steamトレーディングカード",
-      "Steamワークショップ",
-      "部分的コントローラサポート",
-      "ファミリーシェアリング"
-    ],
-    "total_reviews_jp": 500,
-    "positive_rate_jp": 85.8,
-    "total_reviews_all": 24156,
-    "positive_rate_all": 91.34,
-    "store_url": "https://store.steampowered.com/app/285920",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/285920/capsule_231x87.jpg"
-  },
-  {
-    "appid": 218230,
-    "name": "PlanetSide 2",
-    "release_date": "2012年11月20日",
-    "genres": [
-      "アクション",
-      "MM（Massively Multiplayer）",
-      "無料プレイ"
-    ],
-    "categories": [
-      "マルチプレイヤー",
-      "MMO",
-      "PvP",
-      "オンラインPvP",
-      "Steamトレーディングカード",
-      "Steamクラウド"
-    ],
-    "total_reviews_jp": 253,
-    "positive_rate_jp": 85.77,
-    "total_reviews_all": 74178,
-    "positive_rate_all": 80.7,
-    "store_url": "https://store.steampowered.com/app/218230",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/218230/capsule_231x87.jpg"
-  },
-  {
-    "appid": 380600,
-    "name": "Fishing Planet",
-    "release_date": "2017年8月28日",
-    "genres": [
-      "MM（Massively Multiplayer）",
-      "シミュレーション",
-      "スポーツ",
-      "無料プレイ"
-    ],
-    "categories": [
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "MMO",
-      "PvP",
-      "オンラインPvP",
-      "協力プレイ",
-      "オンライン協力プレイ",
-      "Steam実績",
-      "フルコントローラサポート",
-      "Steamトレーディングカード",
-      "アプリ内購入",
-      "テレビでRemote Play"
-    ],
-    "total_reviews_jp": 210,
-    "positive_rate_jp": 85.71,
-    "total_reviews_all": 71314,
-    "positive_rate_all": 86.8,
-    "store_url": "https://store.steampowered.com/app/380600",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/380600/capsule_231x87.jpg"
-  },
-  {
-    "appid": 22370,
-    "name": "Fallout 3: Game of the Year Edition",
-    "release_date": "2009年12月17日",
-    "genres": [
-      "RPG"
-    ],
-    "categories": [
-      "シングルプレイヤー",
-      "ファミリーシェアリング"
-    ],
-    "total_reviews_jp": 235,
-    "positive_rate_jp": 85.53,
-    "total_reviews_all": 52190,
-    "positive_rate_all": 81.08,
-    "store_url": "https://store.steampowered.com/app/22370",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/22370/capsule_231x87.jpg"
   },
   {
     "appid": 323190,
@@ -3285,8 +3285,8 @@
     ],
     "total_reviews_jp": 528,
     "positive_rate_jp": 85.23,
-    "total_reviews_all": 129395,
-    "positive_rate_all": 92.66,
+    "total_reviews_all": 129462,
+    "positive_rate_all": 92.67,
     "store_url": "https://store.steampowered.com/app/323190",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/323190/capsule_231x87.jpg"
   },
@@ -3319,7 +3319,7 @@
     ],
     "total_reviews_jp": 1576,
     "positive_rate_jp": 84.77,
-    "total_reviews_all": 850014,
+    "total_reviews_all": 850229,
     "positive_rate_all": 96.79,
     "store_url": "https://store.steampowered.com/app/292030",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/292030/capsule_231x87.jpg"
@@ -3343,8 +3343,8 @@
     ],
     "total_reviews_jp": 360,
     "positive_rate_jp": 84.72,
-    "total_reviews_all": 32728,
-    "positive_rate_all": 96.0,
+    "total_reviews_all": 32774,
+    "positive_rate_all": 96.01,
     "store_url": "https://store.steampowered.com/app/413410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/413410/capsule_231x87.jpg"
   },
@@ -3377,7 +3377,7 @@
     ],
     "total_reviews_jp": 574,
     "positive_rate_jp": 84.32,
-    "total_reviews_all": 288519,
+    "total_reviews_all": 288551,
     "positive_rate_all": 90.47,
     "store_url": "https://store.steampowered.com/app/107410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/107410/capsule_231x87.jpg"
@@ -3419,7 +3419,7 @@
     ],
     "total_reviews_jp": 256,
     "positive_rate_jp": 83.98,
-    "total_reviews_all": 58030,
+    "total_reviews_all": 58053,
     "positive_rate_all": 94.4,
     "store_url": "https://store.steampowered.com/app/246620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/246620/capsule_231x87.jpg"
@@ -3444,8 +3444,8 @@
     ],
     "total_reviews_jp": 315,
     "positive_rate_jp": 83.81,
-    "total_reviews_all": 19810,
-    "positive_rate_all": 84.6,
+    "total_reviews_all": 19819,
+    "positive_rate_all": 84.61,
     "store_url": "https://store.steampowered.com/app/210970",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/210970/capsule_231x87.jpg"
   },
@@ -3477,7 +3477,7 @@
     ],
     "total_reviews_jp": 215,
     "positive_rate_jp": 83.72,
-    "total_reviews_all": 32666,
+    "total_reviews_all": 32665,
     "positive_rate_all": 87.91,
     "store_url": "https://store.steampowered.com/app/274940",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/274940/capsule_231x87.jpg"
@@ -3512,9 +3512,9 @@
       "テレビでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 1819,
-    "positive_rate_jp": 83.45,
-    "total_reviews_all": 667848,
+    "total_reviews_jp": 1820,
+    "positive_rate_jp": 83.41,
+    "total_reviews_all": 667933,
     "positive_rate_all": 89.25,
     "store_url": "https://store.steampowered.com/app/218620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/218620/capsule_231x87.jpg"
@@ -3547,9 +3547,9 @@
       "テレビでRemote Play",
       "Steamタイムライン"
     ],
-    "total_reviews_jp": 10767,
-    "positive_rate_jp": 83.24,
-    "total_reviews_all": 9238673,
+    "total_reviews_jp": 10768,
+    "positive_rate_jp": 83.23,
+    "total_reviews_all": 9241442,
     "positive_rate_all": 86.35,
     "store_url": "https://store.steampowered.com/app/730",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_231x87.jpg"
@@ -3580,7 +3580,7 @@
     ],
     "total_reviews_jp": 226,
     "positive_rate_jp": 83.19,
-    "total_reviews_all": 132389,
+    "total_reviews_all": 132402,
     "positive_rate_all": 88.89,
     "store_url": "https://store.steampowered.com/app/244850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/244850/capsule_231x87.jpg"
@@ -3604,10 +3604,43 @@
     ],
     "total_reviews_jp": 247,
     "positive_rate_jp": 83.0,
-    "total_reviews_all": 29349,
+    "total_reviews_all": 29369,
     "positive_rate_all": 92.08,
     "store_url": "https://store.steampowered.com/app/304240",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304240/capsule_231x87.jpg"
+  },
+  {
+    "appid": 438100,
+    "name": "VRChat",
+    "release_date": "2017年2月1日",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "MM（Massively Multiplayer）",
+      "シミュレーション",
+      "スポーツ",
+      "無料プレイ",
+      "早期アクセス"
+    ],
+    "categories": [
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "フルコントローラサポート",
+      "被追跡コントローラサポート",
+      "VR対応",
+      "アプリ内購入"
+    ],
+    "total_reviews_jp": 2784,
+    "positive_rate_jp": 82.94,
+    "total_reviews_all": 252781,
+    "positive_rate_all": 75.38,
+    "store_url": "https://store.steampowered.com/app/438100",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/438100/capsule_231x87.jpg"
   },
   {
     "appid": 230410,
@@ -3642,76 +3675,10 @@
     ],
     "total_reviews_jp": 1881,
     "positive_rate_jp": 82.93,
-    "total_reviews_all": 643219,
+    "total_reviews_all": 643409,
     "positive_rate_all": 87.51,
     "store_url": "https://store.steampowered.com/app/230410",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/230410/capsule_231x87.jpg"
-  },
-  {
-    "appid": 438100,
-    "name": "VRChat",
-    "release_date": "2017年2月1日",
-    "genres": [
-      "アドベンチャー",
-      "カジュアル",
-      "MM（Massively Multiplayer）",
-      "シミュレーション",
-      "スポーツ",
-      "無料プレイ",
-      "早期アクセス"
-    ],
-    "categories": [
-      "マルチプレイヤー",
-      "MMO",
-      "PvP",
-      "オンラインPvP",
-      "協力プレイ",
-      "オンライン協力プレイ",
-      "クロスプラットフォームマルチプレイヤー",
-      "フルコントローラサポート",
-      "被追跡コントローラサポート",
-      "VR対応",
-      "アプリ内購入"
-    ],
-    "total_reviews_jp": 2781,
-    "positive_rate_jp": 82.92,
-    "total_reviews_all": 252711,
-    "positive_rate_all": 75.38,
-    "store_url": "https://store.steampowered.com/app/438100",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/438100/capsule_231x87.jpg"
-  },
-  {
-    "appid": 108600,
-    "name": "Project Zomboid",
-    "release_date": "2013年11月8日",
-    "genres": [
-      "インディー",
-      "RPG",
-      "シミュレーション",
-      "早期アクセス"
-    ],
-    "categories": [
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "PvP",
-      "オンラインPvP",
-      "協力プレイ",
-      "オンライン協力プレイ",
-      "共有／分割画面での協力プレイ",
-      "共有／分割画面",
-      "クロスプラットフォームマルチプレイヤー",
-      "Steamトレーディングカード",
-      "Steamワークショップ",
-      "部分的コントローラサポート",
-      "Remote Play Together",
-      "ファミリーシェアリング"
-    ],
-    "total_reviews_jp": 859,
-    "positive_rate_jp": 82.89,
-    "total_reviews_all": 417337,
-    "positive_rate_all": 94.22,
-    "store_url": "https://store.steampowered.com/app/108600",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/108600/capsule_231x87.jpg"
   },
   {
     "appid": 359320,
@@ -3739,10 +3706,43 @@
     ],
     "total_reviews_jp": 304,
     "positive_rate_jp": 82.89,
-    "total_reviews_all": 103680,
+    "total_reviews_all": 103699,
     "positive_rate_all": 77.29,
     "store_url": "https://store.steampowered.com/app/359320",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/359320/capsule_231x87.jpg"
+  },
+  {
+    "appid": 108600,
+    "name": "Project Zomboid",
+    "release_date": "2013年11月8日",
+    "genres": [
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "早期アクセス"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "部分的コントローラサポート",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 858,
+    "positive_rate_jp": 82.87,
+    "total_reviews_all": 417633,
+    "positive_rate_all": 94.22,
+    "store_url": "https://store.steampowered.com/app/108600",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/108600/capsule_231x87.jpg"
   },
   {
     "appid": 261550,
@@ -3771,7 +3771,7 @@
     ],
     "total_reviews_jp": 781,
     "positive_rate_jp": 82.46,
-    "total_reviews_all": 279426,
+    "total_reviews_all": 279548,
     "positive_rate_all": 87.83,
     "store_url": "https://store.steampowered.com/app/261550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/261550/capsule_231x87.jpg"
@@ -3793,7 +3793,7 @@
     ],
     "total_reviews_jp": 1459,
     "positive_rate_jp": 82.25,
-    "total_reviews_all": 79440,
+    "total_reviews_all": 79461,
     "positive_rate_all": 82.38,
     "store_url": "https://store.steampowered.com/app/240720",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/240720/capsule_231x87.jpg"
@@ -3819,7 +3819,7 @@
     ],
     "total_reviews_jp": 560,
     "positive_rate_jp": 81.79,
-    "total_reviews_all": 115026,
+    "total_reviews_all": 115042,
     "positive_rate_all": 90.63,
     "store_url": "https://store.steampowered.com/app/305620",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/305620/capsule_231x87.jpg"
@@ -3852,7 +3852,7 @@
     ],
     "total_reviews_jp": 816,
     "positive_rate_jp": 81.74,
-    "total_reviews_all": 243307,
+    "total_reviews_all": 243326,
     "positive_rate_all": 89.01,
     "store_url": "https://store.steampowered.com/app/238960",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/238960/capsule_231x87.jpg"
@@ -3882,7 +3882,7 @@
     ],
     "total_reviews_jp": 348,
     "positive_rate_jp": 81.61,
-    "total_reviews_all": 28196,
+    "total_reviews_all": 28199,
     "positive_rate_all": 87.56,
     "store_url": "https://store.steampowered.com/app/492720",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/492720/capsule_231x87.jpg"
@@ -3920,7 +3920,7 @@
     ],
     "total_reviews_jp": 288,
     "positive_rate_jp": 81.6,
-    "total_reviews_all": 195080,
+    "total_reviews_all": 195180,
     "positive_rate_all": 95.77,
     "store_url": "https://store.steampowered.com/app/435150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/435150/capsule_231x87.jpg"
@@ -3944,7 +3944,7 @@
     ],
     "total_reviews_jp": 304,
     "positive_rate_jp": 81.58,
-    "total_reviews_all": 107654,
+    "total_reviews_all": 107709,
     "positive_rate_all": 95.32,
     "store_url": "https://store.steampowered.com/app/418370",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/418370/capsule_231x87.jpg"
@@ -3966,7 +3966,7 @@
     ],
     "total_reviews_jp": 377,
     "positive_rate_jp": 80.9,
-    "total_reviews_all": 121662,
+    "total_reviews_all": 121749,
     "positive_rate_all": 88.93,
     "store_url": "https://store.steampowered.com/app/220240",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/220240/capsule_231x87.jpg"
@@ -3990,7 +3990,7 @@
     ],
     "total_reviews_jp": 261,
     "positive_rate_jp": 80.46,
-    "total_reviews_all": 59311,
+    "total_reviews_all": 59319,
     "positive_rate_all": 91.61,
     "store_url": "https://store.steampowered.com/app/201810",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/201810/capsule_231x87.jpg"
@@ -4021,7 +4021,7 @@
     ],
     "total_reviews_jp": 317,
     "positive_rate_jp": 80.44,
-    "total_reviews_all": 59514,
+    "total_reviews_all": 59525,
     "positive_rate_all": 92.38,
     "store_url": "https://store.steampowered.com/app/48000",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/48000/capsule_231x87.jpg"
@@ -4048,7 +4048,7 @@
     ],
     "total_reviews_jp": 752,
     "positive_rate_jp": 80.19,
-    "total_reviews_all": 134603,
+    "total_reviews_all": 134630,
     "positive_rate_all": 92.1,
     "store_url": "https://store.steampowered.com/app/361420",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/361420/capsule_231x87.jpg"
@@ -4076,7 +4076,7 @@
     "total_reviews_jp": 337,
     "positive_rate_jp": 80.12,
     "total_reviews_all": 21227,
-    "positive_rate_all": 89.39,
+    "positive_rate_all": 89.38,
     "store_url": "https://store.steampowered.com/app/283640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/283640/capsule_231x87.jpg"
   },
@@ -4109,7 +4109,7 @@
     ],
     "total_reviews_jp": 201,
     "positive_rate_jp": 80.1,
-    "total_reviews_all": 137430,
+    "total_reviews_all": 137492,
     "positive_rate_all": 95.05,
     "store_url": "https://store.steampowered.com/app/362890",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/362890/capsule_231x87.jpg"
@@ -4135,7 +4135,7 @@
     ],
     "total_reviews_jp": 326,
     "positive_rate_jp": 80.06,
-    "total_reviews_all": 17412,
+    "total_reviews_all": 17413,
     "positive_rate_all": 92.91,
     "store_url": "https://store.steampowered.com/app/368340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/368340/capsule_231x87.jpg"
@@ -4164,7 +4164,7 @@
     ],
     "total_reviews_jp": 278,
     "positive_rate_jp": 79.86,
-    "total_reviews_all": 144737,
+    "total_reviews_all": 144858,
     "positive_rate_all": 94.1,
     "store_url": "https://store.steampowered.com/app/391220",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/391220/capsule_231x87.jpg"
@@ -4194,10 +4194,38 @@
     ],
     "total_reviews_jp": 228,
     "positive_rate_jp": 79.39,
-    "total_reviews_all": 17074,
+    "total_reviews_all": 17075,
     "positive_rate_all": 82.66,
     "store_url": "https://store.steampowered.com/app/250400",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/250400/capsule_231x87.jpg"
+  },
+  {
+    "appid": 377160,
+    "name": "Fallout 4",
+    "release_date": "2015年11月9日",
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "total_reviews_jp": 1937,
+    "positive_rate_jp": 79.19,
+    "total_reviews_all": 411393,
+    "positive_rate_all": 81.25,
+    "store_url": "https://store.steampowered.com/app/377160",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/377160/capsule_231x87.jpg"
   },
   {
     "appid": 311690,
@@ -4223,38 +4251,10 @@
     ],
     "total_reviews_jp": 365,
     "positive_rate_jp": 79.18,
-    "total_reviews_all": 87533,
+    "total_reviews_all": 87540,
     "positive_rate_all": 95.32,
     "store_url": "https://store.steampowered.com/app/311690",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311690/capsule_231x87.jpg"
-  },
-  {
-    "appid": 377160,
-    "name": "Fallout 4",
-    "release_date": "2015年11月9日",
-    "genres": [
-      "RPG"
-    ],
-    "categories": [
-      "シングルプレイヤー",
-      "Steam実績",
-      "フルコントローラサポート",
-      "時間制限付き入力なしでプレイ可能",
-      "いつでもセーブ可能",
-      "ステレオサウンド",
-      "サラウンドサウンド",
-      "Steamクラウド",
-      "スマホでRemote Play",
-      "タブレットでRemote Play",
-      "テレビでRemote Play",
-      "ファミリーシェアリング"
-    ],
-    "total_reviews_jp": 1936,
-    "positive_rate_jp": 79.18,
-    "total_reviews_all": 411253,
-    "positive_rate_all": 81.26,
-    "store_url": "https://store.steampowered.com/app/377160",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/377160/capsule_231x87.jpg"
   },
   {
     "appid": 281990,
@@ -4276,7 +4276,7 @@
     ],
     "total_reviews_jp": 844,
     "positive_rate_jp": 79.15,
-    "total_reviews_all": 188407,
+    "total_reviews_all": 188449,
     "positive_rate_all": 86.66,
     "store_url": "https://store.steampowered.com/app/281990",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/281990/capsule_231x87.jpg"
@@ -4299,7 +4299,7 @@
     ],
     "total_reviews_jp": 382,
     "positive_rate_jp": 79.06,
-    "total_reviews_all": 114121,
+    "total_reviews_all": 114119,
     "positive_rate_all": 94.75,
     "store_url": "https://store.steampowered.com/app/424840",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/424840/capsule_231x87.jpg"
@@ -4322,7 +4322,7 @@
     ],
     "total_reviews_jp": 354,
     "positive_rate_jp": 78.53,
-    "total_reviews_all": 64248,
+    "total_reviews_all": 64253,
     "positive_rate_all": 84.18,
     "store_url": "https://store.steampowered.com/app/493520",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/493520/capsule_231x87.jpg"
@@ -4351,7 +4351,7 @@
     ],
     "total_reviews_jp": 355,
     "positive_rate_jp": 78.31,
-    "total_reviews_all": 77320,
+    "total_reviews_all": 77322,
     "positive_rate_all": 87.74,
     "store_url": "https://store.steampowered.com/app/206420",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/206420/capsule_231x87.jpg"
@@ -4376,7 +4376,7 @@
     ],
     "total_reviews_jp": 341,
     "positive_rate_jp": 78.3,
-    "total_reviews_all": 72644,
+    "total_reviews_all": 72650,
     "positive_rate_all": 89.36,
     "store_url": "https://store.steampowered.com/app/233450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/233450/capsule_231x87.jpg"
@@ -4402,7 +4402,7 @@
     ],
     "total_reviews_jp": 238,
     "positive_rate_jp": 78.15,
-    "total_reviews_all": 16144,
+    "total_reviews_all": 16157,
     "positive_rate_all": 80.97,
     "store_url": "https://store.steampowered.com/app/222480",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/222480/capsule_231x87.jpg"
@@ -4430,7 +4430,7 @@
     ],
     "total_reviews_jp": 560,
     "positive_rate_jp": 77.86,
-    "total_reviews_all": 47721,
+    "total_reviews_all": 47725,
     "positive_rate_all": 88.46,
     "store_url": "https://store.steampowered.com/app/367500",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/367500/capsule_231x87.jpg"
@@ -4456,7 +4456,7 @@
     ],
     "total_reviews_jp": 320,
     "positive_rate_jp": 77.81,
-    "total_reviews_all": 30311,
+    "total_reviews_all": 30318,
     "positive_rate_all": 92.41,
     "store_url": "https://store.steampowered.com/app/460790",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/460790/capsule_231x87.jpg"
@@ -4486,9 +4486,9 @@
       "タブレットでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 3512,
+    "total_reviews_jp": 3513,
     "positive_rate_jp": 77.68,
-    "total_reviews_all": 753636,
+    "total_reviews_all": 753770,
     "positive_rate_all": 83.34,
     "store_url": "https://store.steampowered.com/app/346110",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/346110/capsule_231x87.jpg"
@@ -4516,7 +4516,7 @@
     ],
     "total_reviews_jp": 215,
     "positive_rate_jp": 77.67,
-    "total_reviews_all": 115591,
+    "total_reviews_all": 115604,
     "positive_rate_all": 91.99,
     "store_url": "https://store.steampowered.com/app/387990",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/387990/capsule_231x87.jpg"
@@ -4548,9 +4548,9 @@
       "データ",
       "タブレットでRemote Play"
     ],
-    "total_reviews_jp": 2820,
-    "positive_rate_jp": 77.59,
-    "total_reviews_all": 1298510,
+    "total_reviews_jp": 2821,
+    "positive_rate_jp": 77.6,
+    "total_reviews_all": 1299097,
     "positive_rate_all": 87.08,
     "store_url": "https://store.steampowered.com/app/252490",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/252490/capsule_231x87.jpg"
@@ -4573,8 +4573,8 @@
     ],
     "total_reviews_jp": 249,
     "positive_rate_jp": 77.51,
-    "total_reviews_all": 74582,
-    "positive_rate_all": 88.44,
+    "total_reviews_all": 74619,
+    "positive_rate_all": 88.45,
     "store_url": "https://store.steampowered.com/app/242050",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/242050/capsule_231x87.jpg"
   },
@@ -4600,9 +4600,9 @@
       "Valveアンチチート有効",
       "Steamタイムライン"
     ],
-    "total_reviews_jp": 2189,
-    "positive_rate_jp": 77.25,
-    "total_reviews_all": 2639259,
+    "total_reviews_jp": 2190,
+    "positive_rate_jp": 77.26,
+    "total_reviews_all": 2639880,
     "positive_rate_all": 81.3,
     "store_url": "https://store.steampowered.com/app/570",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/570/capsule_231x87.jpg"
@@ -4626,7 +4626,7 @@
     ],
     "total_reviews_jp": 232,
     "positive_rate_jp": 77.16,
-    "total_reviews_all": 13036,
+    "total_reviews_all": 13038,
     "positive_rate_all": 95.06,
     "store_url": "https://store.steampowered.com/app/377840",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/377840/capsule_231x87.jpg"
@@ -4656,9 +4656,9 @@
       "Remote Play Together",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 1208,
-    "positive_rate_jp": 76.9,
-    "total_reviews_all": 365781,
+    "total_reviews_jp": 1209,
+    "positive_rate_jp": 76.92,
+    "total_reviews_all": 365851,
     "positive_rate_all": 85.85,
     "store_url": "https://store.steampowered.com/app/289070",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/289070/capsule_231x87.jpg"
@@ -4681,8 +4681,8 @@
     ],
     "total_reviews_jp": 211,
     "positive_rate_jp": 76.78,
-    "total_reviews_all": 17600,
-    "positive_rate_all": 84.56,
+    "total_reviews_all": 17603,
+    "positive_rate_all": 84.57,
     "store_url": "https://store.steampowered.com/app/311340",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311340/capsule_231x87.jpg"
   },
@@ -4703,8 +4703,8 @@
     ],
     "total_reviews_jp": 206,
     "positive_rate_jp": 76.7,
-    "total_reviews_all": 122608,
-    "positive_rate_all": 91.87,
+    "total_reviews_all": 122721,
+    "positive_rate_all": 91.88,
     "store_url": "https://store.steampowered.com/app/286690",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/286690/capsule_231x87.jpg"
   },
@@ -4730,7 +4730,7 @@
     ],
     "total_reviews_jp": 591,
     "positive_rate_jp": 76.31,
-    "total_reviews_all": 256547,
+    "total_reviews_all": 256746,
     "positive_rate_all": 96.07,
     "store_url": "https://store.steampowered.com/app/203160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/203160/capsule_231x87.jpg"
@@ -4755,7 +4755,7 @@
     ],
     "total_reviews_jp": 370,
     "positive_rate_jp": 76.22,
-    "total_reviews_all": 68974,
+    "total_reviews_all": 68984,
     "positive_rate_all": 95.14,
     "store_url": "https://store.steampowered.com/app/387290",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/387290/capsule_231x87.jpg"
@@ -4781,8 +4781,8 @@
     ],
     "total_reviews_jp": 248,
     "positive_rate_jp": 76.21,
-    "total_reviews_all": 44969,
-    "positive_rate_all": 88.37,
+    "total_reviews_all": 44975,
+    "positive_rate_all": 88.36,
     "store_url": "https://store.steampowered.com/app/236430",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/236430/capsule_231x87.jpg"
   },
@@ -4811,33 +4811,10 @@
     ],
     "total_reviews_jp": 747,
     "positive_rate_jp": 75.77,
-    "total_reviews_all": 345736,
+    "total_reviews_all": 345741,
     "positive_rate_all": 85.0,
     "store_url": "https://store.steampowered.com/app/444090",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/444090/capsule_231x87.jpg"
-  },
-  {
-    "appid": 447040,
-    "name": "Watch_Dogs® 2",
-    "release_date": "2016年11月30日",
-    "genres": [
-      "アクション",
-      "アドベンチャー"
-    ],
-    "categories": [
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "Steam実績",
-      "アプリ内購入",
-      "部分的コントローラサポート"
-    ],
-    "total_reviews_jp": 318,
-    "positive_rate_jp": 75.47,
-    "total_reviews_all": 88168,
-    "positive_rate_all": 82.54,
-    "store_url": "https://store.steampowered.com/app/447040",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/447040/capsule_231x87.jpg"
   },
   {
     "appid": 379430,
@@ -4857,12 +4834,35 @@
       "テレビでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 501,
-    "positive_rate_jp": 75.45,
-    "total_reviews_all": 171171,
-    "positive_rate_all": 84.27,
+    "total_reviews_jp": 502,
+    "positive_rate_jp": 75.5,
+    "total_reviews_all": 171262,
+    "positive_rate_all": 84.28,
     "store_url": "https://store.steampowered.com/app/379430",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/379430/capsule_231x87.jpg"
+  },
+  {
+    "appid": 447040,
+    "name": "Watch_Dogs® 2",
+    "release_date": "2016年11月30日",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "アプリ内購入",
+      "部分的コントローラサポート"
+    ],
+    "total_reviews_jp": 318,
+    "positive_rate_jp": 75.47,
+    "total_reviews_all": 88220,
+    "positive_rate_all": 82.54,
+    "store_url": "https://store.steampowered.com/app/447040",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/447040/capsule_231x87.jpg"
   },
   {
     "appid": 333930,
@@ -4919,9 +4919,9 @@
       "テレビでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 956,
-    "positive_rate_jp": 74.79,
-    "total_reviews_all": 474008,
+    "total_reviews_jp": 957,
+    "positive_rate_jp": 74.82,
+    "total_reviews_all": 474118,
     "positive_rate_all": 95.26,
     "store_url": "https://store.steampowered.com/app/239140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/239140/capsule_231x87.jpg"
@@ -4946,7 +4946,7 @@
     ],
     "total_reviews_jp": 522,
     "positive_rate_jp": 73.95,
-    "total_reviews_all": 155004,
+    "total_reviews_all": 155045,
     "positive_rate_all": 91.7,
     "store_url": "https://store.steampowered.com/app/262060",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/262060/capsule_231x87.jpg"
@@ -4981,8 +4981,8 @@
     ],
     "total_reviews_jp": 578,
     "positive_rate_jp": 73.88,
-    "total_reviews_all": 397351,
-    "positive_rate_all": 80.95,
+    "total_reviews_all": 397403,
+    "positive_rate_all": 80.94,
     "store_url": "https://store.steampowered.com/app/291550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/291550/capsule_231x87.jpg"
   },
@@ -5007,7 +5007,7 @@
     ],
     "total_reviews_jp": 206,
     "positive_rate_jp": 73.79,
-    "total_reviews_all": 42661,
+    "total_reviews_all": 42665,
     "positive_rate_all": 78.71,
     "store_url": "https://store.steampowered.com/app/261640",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/261640/capsule_231x87.jpg"
@@ -5039,10 +5039,10 @@
       "タブレットでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 366,
-    "positive_rate_jp": 73.5,
-    "total_reviews_all": 82846,
-    "positive_rate_all": 86.62,
+    "total_reviews_jp": 367,
+    "positive_rate_jp": 73.3,
+    "total_reviews_all": 82859,
+    "positive_rate_all": 86.61,
     "store_url": "https://store.steampowered.com/app/39210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/39210/capsule_231x87.jpg"
   },
@@ -5072,7 +5072,7 @@
     ],
     "total_reviews_jp": 476,
     "positive_rate_jp": 73.11,
-    "total_reviews_all": 160604,
+    "total_reviews_all": 160623,
     "positive_rate_all": 80.86,
     "store_url": "https://store.steampowered.com/app/397540",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/397540/capsule_231x87.jpg"
@@ -5117,8 +5117,8 @@
     ],
     "total_reviews_jp": 1353,
     "positive_rate_jp": 72.28,
-    "total_reviews_all": 392772,
-    "positive_rate_all": 84.51,
+    "total_reviews_all": 392900,
+    "positive_rate_all": 84.52,
     "store_url": "https://store.steampowered.com/app/275850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/275850/capsule_231x87.jpg"
   },
@@ -5148,8 +5148,8 @@
     ],
     "total_reviews_jp": 420,
     "positive_rate_jp": 72.14,
-    "total_reviews_all": 93830,
-    "positive_rate_all": 83.36,
+    "total_reviews_all": 93833,
+    "positive_rate_all": 83.37,
     "store_url": "https://store.steampowered.com/app/389730",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/389730/capsule_231x87.jpg"
   },
@@ -5169,8 +5169,8 @@
     ],
     "total_reviews_jp": 229,
     "positive_rate_jp": 72.05,
-    "total_reviews_all": 20709,
-    "positive_rate_all": 79.4,
+    "total_reviews_all": 20713,
+    "positive_rate_all": 79.39,
     "store_url": "https://store.steampowered.com/app/235600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/235600/capsule_231x87.jpg"
   },
@@ -5190,10 +5190,10 @@
       "タブレットでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 365,
-    "positive_rate_jp": 71.78,
-    "total_reviews_all": 105303,
-    "positive_rate_all": 84.38,
+    "total_reviews_jp": 366,
+    "positive_rate_jp": 71.86,
+    "total_reviews_all": 105324,
+    "positive_rate_all": 84.39,
     "store_url": "https://store.steampowered.com/app/268500",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/268500/capsule_231x87.jpg"
   },
@@ -5217,7 +5217,7 @@
     ],
     "total_reviews_jp": 445,
     "positive_rate_jp": 71.69,
-    "total_reviews_all": 87296,
+    "total_reviews_all": 87336,
     "positive_rate_all": 93.66,
     "store_url": "https://store.steampowered.com/app/254700",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/254700/capsule_231x87.jpg"
@@ -5240,9 +5240,9 @@
       "テレビでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 299,
-    "positive_rate_jp": 71.24,
-    "total_reviews_all": 126144,
+    "total_reviews_jp": 298,
+    "positive_rate_jp": 71.14,
+    "total_reviews_all": 126193,
     "positive_rate_all": 89.91,
     "store_url": "https://store.steampowered.com/app/412020",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/412020/capsule_231x87.jpg"
@@ -5274,7 +5274,7 @@
     ],
     "total_reviews_jp": 306,
     "positive_rate_jp": 70.92,
-    "total_reviews_all": 26157,
+    "total_reviews_all": 26177,
     "positive_rate_all": 79.89,
     "store_url": "https://store.steampowered.com/app/392160",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/392160/capsule_231x87.jpg"
@@ -5302,7 +5302,7 @@
     ],
     "total_reviews_jp": 5397,
     "positive_rate_jp": 70.74,
-    "total_reviews_all": 1463585,
+    "total_reviews_all": 1463814,
     "positive_rate_all": 82.79,
     "store_url": "https://store.steampowered.com/app/359550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/359550/capsule_231x87.jpg"
@@ -5330,8 +5330,8 @@
     ],
     "total_reviews_jp": 229,
     "positive_rate_jp": 70.74,
-    "total_reviews_all": 227769,
-    "positive_rate_all": 81.24,
+    "total_reviews_all": 227844,
+    "positive_rate_all": 81.23,
     "store_url": "https://store.steampowered.com/app/393380",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/393380/capsule_231x87.jpg"
   },
@@ -5356,7 +5356,7 @@
     ],
     "total_reviews_jp": 390,
     "positive_rate_jp": 70.51,
-    "total_reviews_all": 53589,
+    "total_reviews_all": 53620,
     "positive_rate_all": 87.29,
     "store_url": "https://store.steampowered.com/app/21690",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/21690/capsule_231x87.jpg"
@@ -5386,7 +5386,7 @@
     ],
     "total_reviews_jp": 1000,
     "positive_rate_jp": 70.3,
-    "total_reviews_all": 104665,
+    "total_reviews_all": 104684,
     "positive_rate_all": 91.87,
     "store_url": "https://store.steampowered.com/app/287700",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/287700/capsule_231x87.jpg"
@@ -5408,8 +5408,8 @@
     ],
     "total_reviews_jp": 210,
     "positive_rate_jp": 67.62,
-    "total_reviews_all": 65495,
-    "positive_rate_all": 84.48,
+    "total_reviews_all": 65520,
+    "positive_rate_all": 84.49,
     "store_url": "https://store.steampowered.com/app/298110",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/298110/capsule_231x87.jpg"
   },
@@ -5430,7 +5430,7 @@
     ],
     "total_reviews_jp": 341,
     "positive_rate_jp": 67.45,
-    "total_reviews_all": 185742,
+    "total_reviews_all": 185811,
     "positive_rate_all": 82.79,
     "store_url": "https://store.steampowered.com/app/12210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/12210/capsule_231x87.jpg"
@@ -5460,7 +5460,7 @@
     ],
     "total_reviews_jp": 310,
     "positive_rate_jp": 67.42,
-    "total_reviews_all": 36324,
+    "total_reviews_all": 36345,
     "positive_rate_all": 79.55,
     "store_url": "https://store.steampowered.com/app/485510",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/485510/capsule_231x87.jpg"
@@ -5494,7 +5494,7 @@
     ],
     "total_reviews_jp": 487,
     "positive_rate_jp": 67.35,
-    "total_reviews_all": 110294,
+    "total_reviews_all": 110324,
     "positive_rate_all": 78.87,
     "store_url": "https://store.steampowered.com/app/440900",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/440900/capsule_231x87.jpg"
@@ -5518,10 +5518,10 @@
       "Steamクラウド",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 1160,
-    "positive_rate_jp": 66.72,
-    "total_reviews_all": 51132,
-    "positive_rate_all": 87.77,
+    "total_reviews_jp": 1164,
+    "positive_rate_jp": 66.75,
+    "total_reviews_all": 51224,
+    "positive_rate_all": 87.78,
     "store_url": "https://store.steampowered.com/app/502500",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/502500/capsule_231x87.jpg"
   },
@@ -5544,10 +5544,10 @@
       "テレビでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 586,
-    "positive_rate_jp": 65.87,
-    "total_reviews_all": 123172,
-    "positive_rate_all": 84.0,
+    "total_reviews_jp": 587,
+    "positive_rate_jp": 65.93,
+    "total_reviews_all": 123214,
+    "positive_rate_all": 83.99,
     "store_url": "https://store.steampowered.com/app/335300",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/335300/capsule_231x87.jpg"
   },
@@ -5572,7 +5572,7 @@
     ],
     "total_reviews_jp": 371,
     "positive_rate_jp": 65.5,
-    "total_reviews_all": 124629,
+    "total_reviews_all": 124642,
     "positive_rate_all": 84.14,
     "store_url": "https://store.steampowered.com/app/225540",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/225540/capsule_231x87.jpg"
@@ -5597,7 +5597,7 @@
     ],
     "total_reviews_jp": 244,
     "positive_rate_jp": 65.16,
-    "total_reviews_all": 111371,
+    "total_reviews_all": 111395,
     "positive_rate_all": 88.79,
     "store_url": "https://store.steampowered.com/app/356190",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/356190/capsule_231x87.jpg"
@@ -5628,7 +5628,7 @@
     ],
     "total_reviews_jp": 241,
     "positive_rate_jp": 65.15,
-    "total_reviews_all": 88015,
+    "total_reviews_all": 88019,
     "positive_rate_all": 90.0,
     "store_url": "https://store.steampowered.com/app/20920",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/20920/capsule_231x87.jpg"
@@ -5652,8 +5652,8 @@
     ],
     "total_reviews_jp": 545,
     "positive_rate_jp": 63.67,
-    "total_reviews_all": 100566,
-    "positive_rate_all": 79.73,
+    "total_reviews_all": 100606,
+    "positive_rate_all": 79.72,
     "store_url": "https://store.steampowered.com/app/460930",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/460930/capsule_231x87.jpg"
   },
@@ -5679,7 +5679,7 @@
     ],
     "total_reviews_jp": 274,
     "positive_rate_jp": 63.14,
-    "total_reviews_all": 61084,
+    "total_reviews_all": 61103,
     "positive_rate_all": 82.44,
     "store_url": "https://store.steampowered.com/app/409710",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/409710/capsule_231x87.jpg"
@@ -5708,7 +5708,7 @@
     ],
     "total_reviews_jp": 668,
     "positive_rate_jp": 62.72,
-    "total_reviews_all": 447088,
+    "total_reviews_all": 447196,
     "positive_rate_all": 77.31,
     "store_url": "https://store.steampowered.com/app/221100",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/221100/capsule_231x87.jpg"
@@ -5735,8 +5735,8 @@
     ],
     "total_reviews_jp": 347,
     "positive_rate_jp": 59.94,
-    "total_reviews_all": 19747,
-    "positive_rate_all": 76.79,
+    "total_reviews_all": 19749,
+    "positive_rate_all": 76.78,
     "store_url": "https://store.steampowered.com/app/265550",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/265550/capsule_231x87.jpg"
   },
@@ -5757,10 +5757,10 @@
       "タブレットでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 602,
-    "positive_rate_jp": 59.63,
-    "total_reviews_all": 21459,
-    "positive_rate_all": 89.35,
+    "total_reviews_jp": 603,
+    "positive_rate_jp": 59.7,
+    "total_reviews_all": 21467,
+    "positive_rate_all": 89.34,
     "store_url": "https://store.steampowered.com/app/359870",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/359870/capsule_231x87.jpg"
   },
@@ -5783,8 +5783,8 @@
     ],
     "total_reviews_jp": 629,
     "positive_rate_jp": 59.46,
-    "total_reviews_all": 18730,
-    "positive_rate_all": 75.05,
+    "total_reviews_all": 18733,
+    "positive_rate_all": 75.04,
     "store_url": "https://store.steampowered.com/app/292120",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/292120/capsule_231x87.jpg"
   },
@@ -5816,9 +5816,9 @@
       "ステレオサウンド",
       "タッチのみのオプション"
     ],
-    "total_reviews_jp": 402,
-    "positive_rate_jp": 58.96,
-    "total_reviews_all": 150810,
+    "total_reviews_jp": 403,
+    "positive_rate_jp": 59.06,
+    "total_reviews_all": 150823,
     "positive_rate_all": 78.31,
     "store_url": "https://store.steampowered.com/app/444200",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/444200/capsule_231x87.jpg"
@@ -5841,8 +5841,8 @@
     ],
     "total_reviews_jp": 558,
     "positive_rate_jp": 58.6,
-    "total_reviews_all": 203217,
-    "positive_rate_all": 55.8,
+    "total_reviews_all": 203209,
+    "positive_rate_all": 55.81,
     "store_url": "https://store.steampowered.com/app/433850",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/433850/capsule_231x87.jpg"
   },
@@ -5893,7 +5893,7 @@
     ],
     "total_reviews_jp": 518,
     "positive_rate_jp": 57.72,
-    "total_reviews_all": 58602,
+    "total_reviews_all": 58647,
     "positive_rate_all": 78.36,
     "store_url": "https://store.steampowered.com/app/221040",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/221040/capsule_231x87.jpg"
@@ -5925,36 +5925,10 @@
     ],
     "total_reviews_jp": 320,
     "positive_rate_jp": 56.88,
-    "total_reviews_all": 29744,
+    "total_reviews_all": 29748,
     "positive_rate_all": 78.12,
     "store_url": "https://store.steampowered.com/app/287290",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/287290/capsule_231x87.jpg"
-  },
-  {
-    "appid": 304390,
-    "name": "FOR HONOR™",
-    "release_date": "2017年2月13日",
-    "genres": [
-      "アクション"
-    ],
-    "categories": [
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "PvP",
-      "オンラインPvP",
-      "協力プレイ",
-      "オンライン協力プレイ",
-      "Steam実績",
-      "Steamトレーディングカード",
-      "アプリ内購入",
-      "部分的コントローラサポート"
-    ],
-    "total_reviews_jp": 299,
-    "positive_rate_jp": 56.86,
-    "total_reviews_all": 154970,
-    "positive_rate_all": 69.39,
-    "store_url": "https://store.steampowered.com/app/304390",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304390/capsule_231x87.jpg"
   },
   {
     "appid": 269210,
@@ -5985,10 +5959,36 @@
     ],
     "total_reviews_jp": 267,
     "positive_rate_jp": 56.55,
-    "total_reviews_all": 44852,
+    "total_reviews_all": 44856,
     "positive_rate_all": 67.79,
     "store_url": "https://store.steampowered.com/app/269210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/269210/capsule_231x87.jpg"
+  },
+  {
+    "appid": 304390,
+    "name": "FOR HONOR™",
+    "release_date": "2017年2月13日",
+    "genres": [
+      "アクション"
+    ],
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "部分的コントローラサポート"
+    ],
+    "total_reviews_jp": 299,
+    "positive_rate_jp": 56.52,
+    "total_reviews_all": 155039,
+    "positive_rate_all": 69.39,
+    "store_url": "https://store.steampowered.com/app/304390",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/304390/capsule_231x87.jpg"
   },
   {
     "appid": 311210,
@@ -6017,8 +6017,8 @@
     ],
     "total_reviews_jp": 452,
     "positive_rate_jp": 55.31,
-    "total_reviews_all": 222491,
-    "positive_rate_all": 84.67,
+    "total_reviews_all": 222548,
+    "positive_rate_all": 84.68,
     "store_url": "https://store.steampowered.com/app/311210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311210/capsule_231x87.jpg"
   },
@@ -6045,30 +6045,12 @@
       "テレビでRemote Play",
       "ファミリーシェアリング"
     ],
-    "total_reviews_jp": 6958,
+    "total_reviews_jp": 6960,
     "positive_rate_jp": 55.09,
-    "total_reviews_all": 860514,
+    "total_reviews_all": 860773,
     "positive_rate_all": 78.58,
     "store_url": "https://store.steampowered.com/app/381210",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/381210/capsule_231x87.jpg"
-  },
-  {
-    "appid": 250820,
-    "name": "SteamVR",
-    "release_date": "",
-    "genres": [],
-    "categories": [
-      "被追跡コントローラサポート",
-      "VRサポート",
-      "Steamワークショップ",
-      "SteamVRコレクティブル"
-    ],
-    "total_reviews_jp": 256,
-    "positive_rate_jp": 53.52,
-    "total_reviews_all": 77022,
-    "positive_rate_all": 87.03,
-    "store_url": "https://store.steampowered.com/app/250820",
-    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/250820/capsule_231x87.jpg"
   },
   {
     "appid": 310950,
@@ -6091,10 +6073,28 @@
     ],
     "total_reviews_jp": 981,
     "positive_rate_jp": 53.41,
-    "total_reviews_all": 43954,
+    "total_reviews_all": 43955,
     "positive_rate_all": 67.87,
     "store_url": "https://store.steampowered.com/app/310950",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/310950/capsule_231x87.jpg"
+  },
+  {
+    "appid": 250820,
+    "name": "SteamVR",
+    "release_date": "",
+    "genres": [],
+    "categories": [
+      "被追跡コントローラサポート",
+      "VRサポート",
+      "Steamワークショップ",
+      "SteamVRコレクティブル"
+    ],
+    "total_reviews_jp": 257,
+    "positive_rate_jp": 53.31,
+    "total_reviews_all": 77061,
+    "positive_rate_all": 87.02,
+    "store_url": "https://store.steampowered.com/app/250820",
+    "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/250820/capsule_231x87.jpg"
   },
   {
     "appid": 243470,
@@ -6113,8 +6113,8 @@
     ],
     "total_reviews_jp": 288,
     "positive_rate_jp": 53.12,
-    "total_reviews_all": 48017,
-    "positive_rate_all": 78.78,
+    "total_reviews_all": 48026,
+    "positive_rate_all": 78.79,
     "store_url": "https://store.steampowered.com/app/243470",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/243470/capsule_231x87.jpg"
   },
@@ -6142,7 +6142,7 @@
     ],
     "total_reviews_jp": 528,
     "positive_rate_jp": 51.7,
-    "total_reviews_all": 94334,
+    "total_reviews_all": 94339,
     "positive_rate_all": 70.65,
     "store_url": "https://store.steampowered.com/app/365590",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/365590/capsule_231x87.jpg"
@@ -6163,9 +6163,9 @@
       "クロスプラットフォームマルチプレイヤー",
       "アプリ内購入"
     ],
-    "total_reviews_jp": 1303,
-    "positive_rate_jp": 51.57,
-    "total_reviews_all": 14879,
+    "total_reviews_jp": 1304,
+    "positive_rate_jp": 51.61,
+    "total_reviews_all": 14880,
     "positive_rate_all": 73.78,
     "store_url": "https://store.steampowered.com/app/453480",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/453480/capsule_231x87.jpg"
@@ -6197,7 +6197,7 @@
     ],
     "total_reviews_jp": 247,
     "positive_rate_jp": 45.34,
-    "total_reviews_all": 44695,
+    "total_reviews_all": 44708,
     "positive_rate_all": 69.78,
     "store_url": "https://store.steampowered.com/app/476600",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/476600/capsule_231x87.jpg"
@@ -6218,8 +6218,8 @@
     ],
     "total_reviews_jp": 336,
     "positive_rate_jp": 42.56,
-    "total_reviews_all": 1073,
-    "positive_rate_all": 70.27,
+    "total_reviews_all": 1072,
+    "positive_rate_all": 70.24,
     "store_url": "https://store.steampowered.com/app/375450",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/375450/capsule_231x87.jpg"
   },
@@ -6238,8 +6238,8 @@
     ],
     "total_reviews_jp": 268,
     "positive_rate_jp": 42.54,
-    "total_reviews_all": 10196,
-    "positive_rate_all": 69.16,
+    "total_reviews_all": 10198,
+    "positive_rate_all": 69.17,
     "store_url": "https://store.steampowered.com/app/311730",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311730/capsule_231x87.jpg"
   },
@@ -6260,8 +6260,8 @@
     ],
     "total_reviews_jp": 243,
     "positive_rate_jp": 39.51,
-    "total_reviews_all": 6001,
-    "positive_rate_all": 58.42,
+    "total_reviews_all": 6002,
+    "positive_rate_all": 58.43,
     "store_url": "https://store.steampowered.com/app/292140",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/292140/capsule_231x87.jpg"
   },
@@ -6279,7 +6279,7 @@
     ],
     "total_reviews_jp": 302,
     "positive_rate_jp": 38.08,
-    "total_reviews_all": 7473,
+    "total_reviews_all": 7474,
     "positive_rate_all": 57.63,
     "store_url": "https://store.steampowered.com/app/363150",
     "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/363150/capsule_231x87.jpg"
