@@ -7,11 +7,11 @@
 
 <style>
   body {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-    background: #f8fafc;
-    color: #0f172a;
+    font-family: system-ui, sans-serif;
+    background: #0e1525;
+    color: #1f2933;
     margin: 0;
-    padding: 24px;
+    padding: 20px;
     display: flex;
     justify-content: center;
   }
@@ -23,50 +23,15 @@
 
   h1 {
     text-align: center;
-    margin-bottom: 16px;
-    font-weight: 700;
+    margin-bottom: 20px;
   }
 
-  /* ===== フィルタ ===== */
-  .filters {
-    display: flex;
-    gap: 12px;
-    justify-content: center;
-    margin: 24px 0;
-    flex-wrap: wrap;
-  }
-
-  .filters input,
-  .filters select {
-    padding: 10px 12px;
-    width: 180px;
-    border-radius: 8px;
-    border: 1px solid #cbd5f5;
-    background: #ffffff;
-    font-size: 14px;
-  }
-
-  .filters button {
-    padding: 10px 16px;
-    border-radius: 8px;
-    border: 1px solid #cbd5f5;
-    background: #f1f5f9;
-    font-size: 14px;
-    cursor: pointer;
-  }
-
-  .filters button:hover {
-    background: #e2e8f0;
-  }
-
-  /* ===== テーブル ===== */
   table {
     width: 100%;
     border-collapse: collapse;
     background: #ffffff;
-    border-radius: 14px;
+    border-radius: 12px;
     overflow: hidden;
-    box-shadow: 0 10px 24px rgba(15,23,42,0.08);
   }
 
   thead {
@@ -81,58 +46,50 @@
   }
 
   th {
-    font-weight: 600;
-    color: #475569;
+    font-weight: bold;
+    color: #334155;
   }
 
   .rank-col {
     width: 60px;
-    font-weight: 600;
+    font-weight: bold;
   }
 
-  /* ===== ゲーム表示 ===== */
+  /* ========= ゲーム表示 ========= */
   .game-cell {
     display: flex;
-    flex-direction: column;
-    gap: 6px;
+    align-items: center;
+    gap: 16px;
     text-align: left;
   }
 
-  .game-header {
-    display: flex;
-    align-items: center;
-    gap: 18px;
-  }
-
   .game-img {
-    width: 150px;
-    height: 62px;
+    width: 144px; /* 20%アップ */
+    height: 60px; /* 20%アップ */
     object-fit: cover;
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+    border-radius: 6px;
   }
 
-  .game-title {
-    font-weight: 600;
+  .game-name {
     font-size: 16px;
-    color: #0f172a;
+    font-weight: 600;
   }
 
-  /* ===== genres ===== */
-  .genres {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
-    margin-left: 168px;
-  }
-
-  .genre-tag {
+  /* ========= 🇯🇵 バッジ ========= */
+  .jp-badge {
+    margin-left: 8px;
+    padding: 2px 8px;
     font-size: 12px;
-    padding: 4px 10px;
+    font-weight: bold;
+    color: white;
+    background: #16a34a;
     border-radius: 999px;
-    background: #e2e8f0;
-    color: #334155;
-    border: 1px solid #cbd5e1;
+    white-space: nowrap;
+  }
+
+  /* ========= 行ハイライト ========= */
+  tr.jp-dominant {
+    background: rgba(22, 163, 74, 0.08);
   }
 
   a {
@@ -140,21 +97,15 @@
     text-decoration: none;
   }
 
-  /* ===== 評価率 ===== */
-  .rate-good {
-    color: #16a34a;
-    font-weight: 700;
-    font-size: 16px;
+  a:hover {
+    text-decoration: underline;
   }
 
- 
-
-  /* ===== レスポンシブ ===== */
+  /* スマホ対応 */
   @media (max-width: 720px) {
-    .genres { display: none; }
-    th:nth-child(3), td:nth-child(3),
     th:nth-child(4), td:nth-child(4),
-    th:nth-child(5), td:nth-child(5) {
+    th:nth-child(5), td:nth-child(5),
+    th:nth-child(6), td:nth-child(6) {
       display: none;
     }
   }
@@ -162,19 +113,9 @@
 </head>
 
 <body>
+
 <div class="container">
   <h1>Steam 日本語レビュー高評価ランキング</h1>
-
-  <div class="filters">
-    <input id="year-from" type="number" placeholder="発売年 From">
-    <input id="year-to" type="number" placeholder="発売年 To">
-    <input id="min-reviews" type="number" placeholder="日本語レビュー数 ≥">
-    <select id="genre-filter">
-      <option value="">ジャンル（すべて）</option>
-    </select>
-    <button onclick="applyFilter()">絞り込み</button>
-    <button onclick="resetFilter()">リセット</button>
-  </div>
 
   <table>
     <thead>
@@ -192,97 +133,54 @@
 </div>
 
 <script>
-let allGames = [];
-
 function extractYear(dateStr) {
-  if (!dateStr) return null;
+  if (!dateStr) return "-";
   const m = dateStr.match(/^(\d{4})/);
-  return m ? Number(m[1]) : null;
+  return m ? m[1] : "-";
 }
 
 async function loadGames() {
   const res = await fetch("data.json");
-  allGames = await res.json();
+  const games = await res.json();
 
-  allGames.sort((a, b) => (b.positive_rate_jp || 0) - (a.positive_rate_jp || 0));
+  games.sort((a, b) => (b.positive_rate_jp || 0) - (a.positive_rate_jp || 0));
 
-  buildGenreFilter(allGames);
-  renderTable(allGames);
-}
-
-function buildGenreFilter(games) {
-  const set = new Set();
-  games.forEach(g => (g.genres || []).forEach(t => set.add(t)));
-
-  const select = document.getElementById("genre-filter");
-  [...set].sort().forEach(tag => {
-    const opt = document.createElement("option");
-    opt.value = tag;
-    opt.textContent = tag;
-    select.appendChild(opt);
-  });
-}
-
-function renderTable(games) {
   const tbody = document.getElementById("table-body");
-  tbody.innerHTML = "";
 
   games.forEach((g, i) => {
-    const year = extractYear(g.release_date);
-    const genres = (g.genres || [])
-      .map(t => `<span class="genre-tag">${t}</span>`)
-      .join("");
+    const jp = g.positive_rate_jp;
+    const all = g.positive_rate_all;
+
+    const diff = (jp != null && all != null) ? (jp - all) : 0;
+    const isJpDominant = diff > 0;
 
     const tr = document.createElement("tr");
+    if (isJpDominant) tr.classList.add("jp-dominant");
+
     tr.innerHTML = `
       <td class="rank-col">${i + 1}</td>
       <td>
-        <a href="${g.store_url}" target="_blank">
-          <div class="game-cell">
-            <div class="game-header">
-              <img src="${g.image_url}" class="game-img">
-              <span class="game-title">${g.name} (${year ?? "-"})</span>
+        <a href="${g.store_url}" target="_blank" class="game-cell">
+          <img src="${g.image_url}" class="game-img">
+          <div>
+            <div class="game-name">
+              ${g.name} (${extractYear(g.release_date)})
+              ${isJpDominant ? `<span class="jp-badge">🇯🇵 +${diff.toFixed(1)}%</span>` : ""}
             </div>
-            <div class="genres">${genres}</div>
           </div>
         </a>
       </td>
-      <td class="rate-good">${g.positive_rate_jp}%</td>
+      <td style="font-weight:bold; color:#16a34a;">${jp}%</td>
       <td>${g.total_reviews_jp}</td>
-      <td>${g.positive_rate_all ?? "-"}%</td>
+      <td>${all ?? "-" }%</td>
       <td>${g.total_reviews_all ?? "-"}</td>
     `;
     tbody.appendChild(tr);
   });
 }
 
-function applyFilter() {
-  const from = Number(document.getElementById("year-from").value);
-  const to = Number(document.getElementById("year-to").value);
-  const minReviews = Number(document.getElementById("min-reviews").value);
-  const genre = document.getElementById("genre-filter").value;
-
-  const filtered = allGames.filter(g => {
-    const y = extractYear(g.release_date);
-    if (from && (!y || y < from)) return false;
-    if (to && (!y || y > to)) return false;
-    if (minReviews && g.total_reviews_jp < minReviews) return false;
-    if (genre && !(g.genres || []).includes(genre)) return false;
-    return true;
-  });
-
-  renderTable(filtered);
-}
-
-function resetFilter() {
-  document.getElementById("year-from").value = "";
-  document.getElementById("year-to").value = "";
-  document.getElementById("min-reviews").value = "";
-  document.getElementById("genre-filter").value = "";
-  renderTable(allGames);
-}
-
 loadGames();
 </script>
+
 </body>
 </html>
