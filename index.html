@@ -147,7 +147,22 @@
     font-size: 16px;
   }
 
- 
+ /* ===== 行ハイライト ===== */
+.jp-better-row {
+  background: #ecfdf5; /* 薄い緑背景 */
+}
+
+/* ===== JP バッジ ===== */
+.jp-badge {
+  margin-left: 8px;
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 6px;
+  background: #16a34a;
+  color: white;
+  font-weight: bold;
+}
+
 
   /* ===== レスポンシブ ===== */
   @media (max-width: 720px) {
@@ -233,7 +248,16 @@ function renderTable(games) {
       .map(t => `<span class="genre-tag">${t}</span>`)
       .join("");
 
+    const jpRate = g.positive_rate_jp ?? 0;
+const allRate = g.positive_rate_all ?? 0;
+const diff = (jpRate - allRate).toFixed(1);
+const isJpBetter = jpRate > allRate;
+
     const tr = document.createElement("tr");
+    if (isJpBetter) {
+  tr.classList.add("jp-better-row");
+}
+   
     tr.innerHTML = `
       <td class="rank-col">${i + 1}</td>
       <td>
@@ -241,7 +265,11 @@ function renderTable(games) {
           <div class="game-cell">
             <div class="game-header">
               <img src="${g.image_url}" class="game-img">
-              <span class="game-title">${g.name} (${year ?? "-"})</span>
+              <span class="game-title">
+  ${g.name} (${year ?? "-"})
+  ${isJpBetter ? `<span class="jp-badge">JP +${diff}%</span>` : ""}
+</span>
+
             </div>
             <div class="genres">${genres}</div>
           </div>
