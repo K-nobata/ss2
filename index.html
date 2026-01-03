@@ -163,6 +163,32 @@
   font-weight: bold;
 }
 
+  .price-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.price-final {
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.discount-badge {
+  background: #e53935;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+.price-free {
+  color: #2e7d32;
+  font-weight: 700;
+}
+
 
   /* ===== レスポンシブ ===== */
   @media (max-width: 720px) {
@@ -196,6 +222,7 @@
       <tr>
         <th class="rank-col">順位</th>
         <th>ゲーム</th>
+        <th>価格<th>
         <th>日本語<br>評価率</th>
         <th>日本語<br>レビュー数</th>
         <th>全言語<br>評価率</th>
@@ -257,6 +284,20 @@ const isJpBetter = jpRate > allRate;
     if (isJpBetter) {
   tr.classList.add("jp-better-row");
 }
+
+    const priceHtml = g.price_final
+  ? `
+    <div class="price-cell">
+      <span class="price-final">¥${(g.price_final / 100).toLocaleString()}</span>
+      ${
+        g.discount_percent > 0
+          ? `<span class="discount-badge">-${g.discount_percent}%</span>`
+          : ""
+      }
+    </div>
+  `
+  : `<span class="price-free">Free</span>`;
+
    
     tr.innerHTML = `
       <td class="rank-col">${i + 1}</td>
@@ -275,6 +316,7 @@ const isJpBetter = jpRate > allRate;
           </div>
         </a>
       </td>
+      <td>${priceHtml}</td>
       <td class="rate-good">${g.positive_rate_jp}%</td>
       <td>${g.total_reviews_jp}</td>
       <td>${g.positive_rate_all ?? "-"}%</td>
