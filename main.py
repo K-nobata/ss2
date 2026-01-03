@@ -15,8 +15,9 @@ APP_LIST_API = (
 
 JP_REVIEW_URL = "https://store.steampowered.com/appreviews/{appid}?json=1&language=japanese&purchase_type=all&num_per_page=0"
 ALL_REVIEW_URL = "https://store.steampowered.com/appreviews/{appid}?json=1&language=all&purchase_type=all&num_per_page=0"
-APP_DETAILS_URL = "https://store.steampowered.com/api/appdetails?appids={appid}&l=japanese&cc=JP"
+APP_DETAILS_URL = "https://store.steampowered.com/api/appdetails?appids={appid}&l=japanese&cc=jp"
 
+# 調整可能
 SLEEP_BETWEEN_REQUESTS = float(os.getenv("SLEEP_BETWEEN_REQUESTS", "0.25"))
 MAX_APPS = int(os.getenv("MAX_APPS", "0"))
 SAVE_EVERY = int(os.getenv("SAVE_EVERY", "50"))
@@ -26,12 +27,12 @@ TMP_FILE = "data_partial.json"
 
 def make_session():
     session = requests.Session()
-    retries = Retry(total=5, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
+    retries = Retry(total=5, backoff_factor=1, status_forcelist=[429,500,502,503,504])
     adapter = HTTPAdapter(max_retries=retries)
     session.mount("https://", adapter)
     session.mount("http://", adapter)
     session.headers.update({
-        "User-Agent": "steam-ranking-bot/1.1 (+https://github.com/K-nobata/ss2)"
+        "User-Agent": "steam-ranking-bot/1.2 (+https://github.com/K-nobata/ss2)"
     })
     return session
 
@@ -53,26 +54,53 @@ def get_review_summary(appid, url):
         return None
 
 def get_app_details(appid):
+    """
+    取得する情報：
+      - release_date
+      - genres
+      - categories
+      - price_overview
+    """
     try:
         r = session.get(APP_DETAILS_URL.format(appid=appid), timeout=20)
         if r.status_code != 200:
             return None
 
-        data = r.json().get(str(appid))
-        if not data or not data.get("success"):
+        outer = r.json().get(str(appid), {})
+        if not outer.get("success"):
             return None
 
-        d = data.get("data", {})
+        data = outer.get("data", {})
 
-        genres = [g["description"] for g in d.get("genres", [])]
-        categories = [c["description"] for c in d.get("categories", [])]
-        release_date = d.get("release_date", {}).get("date")
+        # release date
+        release_date = data.get("release_date", {}).get("date")
+
+        # genres
+        genres = [g["description"] for g in data.get("genres", [])]
+
+        # categories
+        categories = [c["description"] for c in data.get("categories", [])]
+
+        # price overview (optional)
+        price_overview = data.get("price_overview")
+        if price_overview:
+            initial = price_overview.get("initial")          # 割引前 (cents)
+            final = price_overview.get("final")              # 現在価格 (cents)
+            discount_percent = price_overview.get("discount_percent")
+        else:
+            initial = None
+            final = None
+            discount_percent = None
 
         return {
+            "release_date": release_date,
             "genres": genres,
             "categories": categories,
-            "release_date": release_date
+            "price_initial": initial,
+            "price_final": final,
+            "discount_percent": discount_percent
         }
+
     except Exception:
         return None
 
@@ -87,7 +115,6 @@ def main():
 
     apps = get_app_list()
     results = []
-
     limit = MAX_APPS if MAX_APPS > 0 else len(apps)
 
     for i, app in enumerate(apps[:limit]):
@@ -97,6 +124,7 @@ def main():
         if i % 100 == 0:
             print(f"Progress: {i}/{limit} | results: {len(results)}")
 
+        # ① 日本語レビュー集計
         jp = get_review_summary(appid, JP_REVIEW_URL)
         if not jp or jp.get("total_reviews", 0) < 200:
             time.sleep(SLEEP_BETWEEN_REQUESTS)
@@ -105,14 +133,16 @@ def main():
         total_jp = jp["total_reviews"]
         positive_rate_jp = round(jp["total_positive"] / total_jp * 100, 2)
 
+        # ② 全言語レビュー
         all_qs = get_review_summary(appid, ALL_REVIEW_URL)
         if all_qs:
-            total_all = all_qs["total_reviews"]
-            positive_rate_all = round(all_qs["total_positive"] / max(total_all, 1) * 100, 2)
+            total_all = all_qs.get("total_reviews", 0)
+            positive_rate_all = round(all_qs.get("total_positive", 0) / max(total_all, 1) * 100, 2)
         else:
             total_all = None
             positive_rate_all = None
 
+        # ③ 詳細情報（タグ・ジャンル・発売日・価格）
         details = get_app_details(appid)
         if not details:
             time.sleep(SLEEP_BETWEEN_REQUESTS)
@@ -129,7 +159,10 @@ def main():
             "total_reviews_all": total_all,
             "positive_rate_all": positive_rate_all,
             "store_url": f"https://store.steampowered.com/app/{appid}",
-            "image_url": f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/capsule_231x87.jpg"
+            "image_url": f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/capsule_231x87.jpg",
+            "price_initial": details["price_initial"],
+            "price_final": details["price_final"],
+            "discount_percent": details["discount_percent"],
         }
 
         results.append(entry)
@@ -139,11 +172,16 @@ def main():
 
         time.sleep(SLEEP_BETWEEN_REQUESTS)
 
+    # sort by JP review rate
     results.sort(key=lambda x: x["positive_rate_jp"], reverse=True)
+
     save_results(results, OUT_FILE)
 
-    if os.path.exists(TMP_FILE):
-        os.remove(TMP_FILE)
+    try:
+        if os.path.exists(TMP_FILE):
+            os.remove(TMP_FILE)
+    except:
+        pass
 
     print(f"Done. {len(results)} games saved.")
 
