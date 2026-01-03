@@ -5,8 +5,7 @@ on:
     - cron: "0 0 * * *" # 毎日UTC 00:00（日本時間で09:00）
   workflow_dispatch:
 
-  permissions:
-  contents: write
+  
 
 jobs:
   build:
