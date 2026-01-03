@@ -15,7 +15,7 @@ APP_LIST_API = (
 
 JP_REVIEW_URL = "https://store.steampowered.com/appreviews/{appid}?json=1&language=japanese&purchase_type=all&num_per_page=0"
 ALL_REVIEW_URL = "https://store.steampowered.com/appreviews/{appid}?json=1&language=all&purchase_type=all&num_per_page=0"
-APP_DETAILS_URL = "https://store.steampowered.com/api/appdetails?appids={appid}&l=japanese&cc=jp"
+APP_DETAILS_URL = "https://store.steampowered.com/api/appdetails?appids={appid}&l=japanese&cc=JP"
 
 # 調整可能
 SLEEP_BETWEEN_REQUESTS = float(os.getenv("SLEEP_BETWEEN_REQUESTS", "0.25"))
