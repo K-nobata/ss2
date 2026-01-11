@@ -373,15 +373,10 @@ function applyFilter() {
       priceYen = g.price_final / 100;
     }
 
-     if (priceMin !== "" && priceYen < Number(priceMin)) return false;
+    if (priceMin !== "" && priceYen < Number(priceMin)) return false;
   if (priceMax !== "" && priceYen > Number(priceMax)) return false;
 
-    if (game.price_final === 0) {
-  priceText = "Free";
-} else if (game.price_final) {
-  priceText = `¥${(game.price_final / 100).toLocaleString()}`;
-}
-
+   
 
     return true;
   });
