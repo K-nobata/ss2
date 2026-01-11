@@ -368,13 +368,13 @@ function applyFilter() {
     if (genre && !(g.genres || []).includes(genre)) return false;
 
     // ▼ 価格判定ここ！
-    let priceYen = null;
+    let priceYen = 0;
     if (g.price_final !== null && g.price_final !== undefined) {
       priceYen = g.price_final / 100;
     }
 
-    if (priceMin && (priceYen === null || priceYen < priceMin)) return false;
-    if (priceMax && (priceYen === null || priceYen > priceMax)) return false;
+     if (priceMin !== "" && priceYen < Number(priceMin)) return false;
+  if (priceMax !== "" && priceYen > Number(priceMax)) return false;
 
     if (game.price_final === 0) {
   priceText = "Free";
