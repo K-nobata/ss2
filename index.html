@@ -209,6 +209,20 @@
   <div class="filters">
     <input id="year-from" type="number" placeholder="発売年 From">
     <input id="year-to" type="number" placeholder="発売年 To">
+    <input
+  type="number"
+  id="priceMin"
+  placeholder="価格 Min (円)"
+  class="filter-input"
+/>
+
+<input
+  type="number"
+  id="priceMax"
+  placeholder="価格 Max (円)"
+  class="filter-input"
+/>
+
     <input id="min-reviews" type="number" placeholder="日本語レビュー数 ≥">
     <select id="genre-filter">
       <option value="">ジャンル（すべて）</option>
@@ -326,11 +340,25 @@ const isJpBetter = jpRate > allRate;
   });
 }
 
+function getPriceFilter() {
+  const min = document.getElementById("priceMin").value;
+  const max = document.getElementById("priceMax").value;
+
+  return {
+    min: min ? Number(min) : null,
+    max: max ? Number(max) : null
+  };
+}
+
+  
 function applyFilter() {
   const from = Number(document.getElementById("year-from").value);
   const to = Number(document.getElementById("year-to").value);
   const minReviews = Number(document.getElementById("min-reviews").value);
   const genre = document.getElementById("genre-filter").value;
+
+  const priceMin = Number(document.getElementById("priceMin").value);
+  const priceMax = Number(document.getElementById("priceMax").value);
 
   const filtered = allGames.filter(g => {
     const y = extractYear(g.release_date);
@@ -338,17 +366,31 @@ function applyFilter() {
     if (to && (!y || y > to)) return false;
     if (minReviews && g.total_reviews_jp < minReviews) return false;
     if (genre && !(g.genres || []).includes(genre)) return false;
+
+    // ▼ 価格判定ここ！
+    let priceYen = null;
+    if (g.price_final !== null && g.price_final !== undefined) {
+      priceYen = g.price_final / 100;
+    }
+
+    if (priceMin && (priceYen === null || priceYen < priceMin)) return false;
+    if (priceMax && (priceYen === null || priceYen > priceMax)) return false;
+
     return true;
   });
 
   renderTable(filtered);
 }
 
+
 function resetFilter() {
   document.getElementById("year-from").value = "";
   document.getElementById("year-to").value = "";
   document.getElementById("min-reviews").value = "";
   document.getElementById("genre-filter").value = "";
+  document.getElementById("priceMin").value = "";
+document.getElementById("priceMax").value = "";
+
   renderTable(allGames);
 }
 
