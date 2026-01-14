@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>SteamRankingJP</title>
+<title>Steam 日本語レビュー高評価ランキング</title>
 
 <style>
   body {
@@ -204,7 +204,7 @@
 
 <body>
 <div class="container">
-  <h1>SteamRankingJP</h1>
+  <h1>Steam 日本語レビュー高評価ランキング</h1>
 
   <div class="filters">
     <input id="year-from" type="number" placeholder="発売年 From">
@@ -368,15 +368,13 @@ function applyFilter() {
     if (genre && !(g.genres || []).includes(genre)) return false;
 
     // ▼ 価格判定ここ！
-    let priceYen = 0;
+    let priceYen = null;
     if (g.price_final !== null && g.price_final !== undefined) {
       priceYen = g.price_final / 100;
     }
 
-    if (priceMin !== "" && priceYen < Number(priceMin)) return false;
-  if (priceMax !== "" && priceYen > Number(priceMax)) return false;
-
-   
+    if (priceMin && (priceYen === null || priceYen < priceMin)) return false;
+    if (priceMax && (priceYen === null || priceYen > priceMax)) return false;
 
     return true;
   });
